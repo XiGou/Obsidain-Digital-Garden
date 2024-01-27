@@ -1,0 +1,23 @@
+name: trigger_pages
+
+on:
+  push:
+    branches:
+      - master  # default branch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: XiGou
+          repo: personal-blog
+          github_token: ${{ secrets._PERSONAL_ACCESS_TOKEN }}
+          github_user: XiGou
+          workflow_file_name: pages.yml
+          ref: master
+          wait_interval: 10
+          client_payload: '{}'
+          propagate_failure: false
+          trigger_workflow: true
+          wait_workflow: true
