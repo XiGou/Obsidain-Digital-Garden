@@ -4,12 +4,8 @@ dg-publish: true
 ---
 
 
-[[BlogPost]]
-[[Reading List]]
-[[Travels]]
-[[Friends]]
-[[Moments-2023]]
-[[Collections]]
+TODO
+
 # 💬留言板
 
 > 一个非常遗憾的消息，留言功能是匿名的不需要注册，但是需要连接国际互联网才能使用
