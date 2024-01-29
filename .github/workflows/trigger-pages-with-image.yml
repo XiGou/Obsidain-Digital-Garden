@@ -1,4 +1,4 @@
-name: trigger_pages
+name: trigger_pages_with_iamge
 
 on:
   push:
@@ -14,7 +14,7 @@ jobs:
           repo: personal-blog
           github_token: ${{ secrets._PERSONAL_ACCESS_TOKEN }}
           github_user: XiGou
-          workflow_file_name: pages.yml
+          workflow_file_name: pages-with-image.yml
           ref: master
           wait_interval: 10
           client_payload: '{}'
