@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-title: Moments-2023
 date: 2022-11-05 00:22:33
 description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
