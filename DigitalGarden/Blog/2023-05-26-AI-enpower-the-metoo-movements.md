@@ -3,11 +3,14 @@ Last Edited: 2023-05-26T13:48
 Date created: 2023-05-26T11:08
 dg-publish: true
 layout: post
-title: "AI 赋能米兔运动：小作文即将成为历史"
+title: AI 赋能米兔运动：小作文即将成为历史
 date: 2023-05-26 21:35:04
-tags: [AI]
-authors: [xigou]
+tags:
+  - AI
+authors:
+  - xigou
 ---
+
   
 
 最近 AIGC 是技术圈最火热的话题，众多的从业人员基于 ChatGPT、 Midjourney 等当红 AI 应用尝试了众多落地场景，这其中有推特网友尝试证明 ChatGPT 有能力理解 Program Language Virtual Machine 这种愚蠢而抽象的场景；也有利用 AI 训练孙燕姿的声音来让孙燕姿唱《漠河舞厅》这样的土味歌曲，最终引来孙燕姿亲自发文回应对于 AI 的看法这样影响深远的落地场景。
