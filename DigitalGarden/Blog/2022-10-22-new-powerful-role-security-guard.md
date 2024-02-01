@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "保安，中国新兴的实权角色"
+title: 保安，中国新兴的实权角色
 date: 2022-10-22 13:19:04
-tags: [abstract]
-authors: [xigou]
+tags:
+  - abstract
+authors:
+  - xigou
 ---
+
 
 
 
