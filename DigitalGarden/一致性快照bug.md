@@ -1,0 +1,3 @@
+ zbs-meta --meta_ip  172.20.130.117 consistency_group create name1 --volumes 0e0e850a-e5b2-43ba-aeda-83011d7da83c,108615ad-2926-4a34-ad37-8fa1bf83489e,CONSISTENCY_LUN,1
+ 
+ curl -X POST -H "Content-Type: application/json" -H "X-SmartX-Token:69bf44ae82ca409db8686cda68daa93d" -d '{"name":"test", "volumes":[{"id": "92b30461-0b15-4054-9151-18d097007d66",  "type": "CONSISTENCY_VOLUME", "pool_id": "66cb4856-9ba9-4780-b863-1edba7a7ed34"}]}' http://127.0.0.1:10402/api/v2/consistency_groups
