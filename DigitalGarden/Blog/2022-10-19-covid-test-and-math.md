@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "核酸检测的数学原理"
+title: 核酸检测的数学原理
 date: 2022-10-19 00:19:04
-tags: [abstract]
-authors: [xigou]
+tags:
+  - abstract
+authors:
+  - xigou
 ---
+
 
 
 肖申克看守所著名的劳改犯安迪·杜弗伦曾经说过：
