@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 
+
 [Coding 102: Writing code other people can read - Stack Overflow](https://stackoverflow.blog/2023/02/13/coding-102-writing-code-other-people-can-read/)
 
 ---
