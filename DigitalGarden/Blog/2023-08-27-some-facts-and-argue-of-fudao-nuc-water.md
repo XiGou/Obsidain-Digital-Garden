@@ -3,11 +3,14 @@ Last Edited: 2023-08-27T17:59
 Date created: 2023-08-26T00:39
 dg-publish: true
 layout: post
-title: "福岛核废水排放事件的一些事实和争议"
+title: 福岛核废水排放事件的一些事实和争议
 date: 2023-08-27 21:35:04
-tags: [society]
-authors: [xigou]
+tags:
+  - society
+authors:
+  - xigou
 ---
+
 <!-- more -->
 <!--truncate-->
 
