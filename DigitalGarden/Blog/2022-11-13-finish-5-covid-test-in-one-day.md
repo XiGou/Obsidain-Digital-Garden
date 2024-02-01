@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "真正的核酸爱好者：一天做五次"
+title: 真正的核酸爱好者：一天做五次
 date: 2022-11-13 09:35:04
-tags: [abstract]
-authors: [xigou]
+tags:
+  - abstract
+authors:
+  - xigou
 ---
+
 
 
 
