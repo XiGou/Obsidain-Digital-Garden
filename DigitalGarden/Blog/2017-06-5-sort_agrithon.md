@@ -1,11 +1,13 @@
 ---
-layout:  post
-title:  "各种排序算法的介绍与实现"
-date:   2017-06-05 01:14:31 +0800
-categories:  "technology" 
-cover-url:  http://oqqy3xbdd.bkt.clouddn.com/1349660783_1072.JPG
-authors: [xigou]
+layout: post
+title: 各种排序算法的介绍与实现
+date: 2017-06-05 01:14:31 +0800
+categories: technology
+cover-url: http://oqqy3xbdd.bkt.clouddn.com/1349660783_1072.JPG
+authors:
+  - xigou
 ---
+
 
 **写在前边**：这篇文章又臭又长，纯属个人无聊总结之作。
 
