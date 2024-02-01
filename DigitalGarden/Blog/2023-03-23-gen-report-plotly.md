@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "Generate Single Page HTML Data Report Using Plotly in Python"
+title: Generate Single Page HTML Data Report Using Plotly in Python
 date: 2023-04-14 01:11:04
 Last Edited: 2023-04-14T10:03
 Date created: 2023-04-01T22:44
-tags: [technology, data_visualization]
-authors: [xigou]
+tags:
+  - technology
+  - data_visualization
+authors:
+  - xigou
 ---
+
 
 > Someone said: the best way to write a blog is not just describe waht you did, but how you resolve a problem, to record how do you think about that at that moment.
 > 
