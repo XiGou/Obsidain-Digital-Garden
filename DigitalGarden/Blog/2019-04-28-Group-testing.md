@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "群组测试：毒药谜题"
+title: 群组测试：毒药谜题
 date: 2019-04-28 17:53:41
-categories:  "面试题" 
-tags: ["面试题"]
+categories: 面试题
+tags:
+  - 面试题
 mathjax: true
-authors: [xigou]
+authors:
+  - xigou
 ---
+
 
 ## 问题背景
 这个问题在统计学和组合数学领域被称为群组测试问题 (Group testing),问题源于二战时期，美国需要通过血样检测美军是否携带梅毒，但是血液检测耗时耗钱，将每个士兵的血液都检查一遍效率很低。考虑到携带梅毒的总归是少数，Rosenblatt 和 Dorfman 提出将全部待检测士兵的血样分组混合后再检测，如果混合后的血样没有病毒，可以推定整个组都没有病毒，如此便能够减少不必要的检测。
