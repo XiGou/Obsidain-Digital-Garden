@@ -2,9 +2,12 @@
 layout: post
 title: "[Literature Reading] Modern Code Review: A Case Study at Google"
 date: 2021-12-14 21:35:04
-tags: [Software Engineering]
-authors: [xigou]
+tags:
+  - Software Engineering
+authors:
+  - xigou
 ---
+
 
 Recently, after called some code review meetings in my daily work, I got interested about code review practice, so I read this excellent article on the weekend. 
 
