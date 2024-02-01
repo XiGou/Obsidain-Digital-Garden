@@ -2,12 +2,14 @@
 Last Edited: 2023-12-14T10:22
 Date created: 2023-04-30T02:51
 dg-publish: true
-layout:  post
-title:  "圆圈正义：你的互联网冲浪指南"
-date:   2023-04-30 01:14:31 +0800
-cover-url:  http://oqqy3xbdd.bkt.clouddn.com/1349660783_1072.JPG
-authors: [xigou]
+layout: post
+title: 圆圈正义：你的互联网冲浪指南
+date: 2023-04-30 01:14:31 +0800
+cover-url: http://oqqy3xbdd.bkt.clouddn.com/1349660783_1072.JPG
+authors:
+  - xigou
 ---
+
 
 
 罗翔爆红是在b站的视频区，很多人说罗翔的爆红是塞里斯法治精神的一次跳跃，但是事实上却并非如此。他的粉丝实际上大多是被他讲述的那些刑事案件当中离奇的剧情所吸引，因为无论罗翔发布了什么视频，他们大多数只会反复刷着“法外狂徒张三”这样一个烂梗，在他们眼里，根本没有理性和法治的光辉，因为这些人嬉皮笑脸的说出这个梗，实际上暗含着他们认为用很脑洞大开的的手段犯了罪并且被判无罪，是一种很酷的行为。
