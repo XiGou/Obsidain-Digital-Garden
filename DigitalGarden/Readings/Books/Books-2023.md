@@ -1,16 +1,18 @@
 ---
 dg-publish: true
 ---
+
+
 ## 第二性
 
 ![2dnsex.cover](https://i.imgur.com/ccVChDR.jpg)
-[[9.《第二性》读后感]]
+[[9.《第二性》读后感|9.《第二性》读后感]]
 
 ---
 
 ## 圆圈正义
 
-[[2023-04-30-circle-justice-reading-notes]]
+[[../../Blog/2023-04-30-circle-justice-reading-notes|2023-04-30-circle-justice-reading-notes]]
 ![s33544846](https://i.imgur.com/PwncDBJ.jpg)
 
 圆圈正义 (B站累计点击量超1000万，人称“刑法小王子”的罗翔教授全新力作，人追求正义不是出于“生活的智慧”，而是源于内心对于正义的信念) - 罗翔 (Highlight: 23; Note: 0)  
@@ -271,7 +273,6 @@ When the beautiful leaves disappear, the veins of life become visible.
 I want to do with you what spring does with the cherries.   
 ![neruda-20-poem-cover|neruda-20-poem-cover.png](https://i.imgur.com/Wk5wFbZ.png)  
 
-
 ---
 
 ## 疯癫与文明
@@ -279,25 +280,21 @@ I want to do with you what spring does with the cherries.
 疯癫是文明定义的，在野外生活的人，食用地上的食物，喝河里的水，在山坡上毫无征兆地奔跑，都不会被视为疯癫。   
 将什么样的人划为疯癫进行隔离，是随着统治阶层的利益需要而动态变化的。   
 
-
 ---
 
 ## Learn PyTorch for Deep Learning- Zero to Mastery book
 ![pytorch-pic|pytorch-pic.png](https://i.imgur.com/a3G4G4e.png)   
 不错的实操教程   
 
-
 ---
 
 ## 当我谈跑步时我谈些什么
 ![what-i-think-when-running|what-i-think-when-running.png](https://i.imgur.com/VXcg8OO.png)
 
-
 ---
 
 ## An Introduction to Philosophical Analysis
 ![intro-to-philo-analysis-cover|intro-to-philo-analysis-cover.png](https://i.imgur.com/9qEEIRo.png)
-
 
 ---
 
@@ -333,31 +330,26 @@ I want to do with you what spring does with the cherries.
 ▪ 个人在现代社会中的孤立、无权力与不安全；个人解脱了一度使生命有意义及安全的所有束缚。我们也已发现，个人不能忍受这种孤立；孤立的人与外界相形之下，变得完全无助，因此，非常害怕外界；由于他的孤立处境，对他而言，世界已失去了统一性。他不知如何适应这个世界。于是，他开始怀疑自己，怀疑生命的意义，最后，怀疑任何行为的原则。无助与怀疑麻痹了生命；为了求生，人试图逃避自由。他不由自主地又套进新的枷锁。这种枷锁与原始的约束不同，原始的约束还能给他一种安全感，而逃避自由并不能使人们复得已失去的安全感，而仅能帮助他忘记他是独立的个体。他牺牲了他个人的自我的完整性，所得到的不过是不堪一击的安全感。因为他忍受不了孤独的滋味，他宁愿失去自我。因此，自由又使人再度套入新的枷锁中。  
 ▪ 生命只有一个意义，那就是自发自动地生活。
 
-
 ---
 
 ## Clean Code
 ![clean-code-cover|clean-code-cover.png](https://i.imgur.com/maJMuC6.png)   
 计算机专业缺失的课程   
 
-
 ---
 
 ## 通往奴役之路
 ![road-to-slavary-cover|road-to-slavary-cover.png](https://i.imgur.com/N7l5Xgh.png)
-
 
 ---
 
 ## 博尔赫斯诗选
 ![boerhesi-poem-selection-cover|boerhesi-poem-selection-cover.png](https://i.imgur.com/q1JaOmX.png)
 
-
 ---
 
 ## Debug Hacks
 ![debug-hacks-cover|debug-hacks-cover.png](https://i.imgur.com/MtpkbP5.png)
-
 
 ---
 
@@ -389,7 +381,6 @@ I want to do with you what spring does with the cherries.
 ▪ 西蒙娜·德·波伏娃曾认为，人类的生活就是一出有关自由和偶然性的戏剧，无法言明、模棱两可。  
 ▪ 虽然口头上会说这让人不安，但实际上我们却可能从中获得一种确证——因为这样的想法替我们省了事儿，让我们不必再有那种伴随着认为我们是自由之人，要为自己所做之事负责而来的存在焦虑。萨特把这称作自欺。  
 ▪ 晰地揭示了技术的本质，其无限的连接性承诺要把整个世界都变成可存储和可利用的东西，但这样做的结果是，互联网抹去了事物的私密性和深度。存在主义咖啡馆存在主义咖啡馆
-
 
 ---
 
@@ -425,7 +416,6 @@ I want to do with you what spring does with the cherries.
 ◆ 代译后记 / 民主直通独裁的心理机制  
 ▪ 群众的民主权力就像一切个人权力一样，当它没有受到恰当的宪政约束时，很容易转变为它的反面，成为一种暴虐的权力
 
-
 ---
 
 ## What Dose It All Mean
@@ -435,7 +425,6 @@ I want to do with you what spring does with the cherries.
 就算那些问题没有在任何的媒介上留下资料，一代又一代的人总会不断的想起这些问题，思考这些问题，它就像刻在我们的基因里一样。  
 所以每一次发生群体性事件的时候，我总会听到这样的评论：你看那些人满嘴说的都是言论自由，民主法治，和西方反华势力的话术一模一样，肯定是收了黑钱的。   
 其实我刚开始听到这样的评论我也有些许的动摇，我很难相信在没有被境外势力资助的情况下会有这么多人共同提出这样的一些诉求，看完了这个句子我的疑惑终于解开了：虽然我们和西方人有着完全不同的文化背景，也很少有非常深入的沟通交流，但是我们脑袋里忽然就冒出了跟他们一样的想法，是因为这个想法早就已经刻在我们的基因里，就算没有任何媒体的传播, 我们也会不由自主地一遍遍想起，这是人的一种本能的需求。   
-
 
 ---
 
@@ -449,17 +438,13 @@ I want to do with you what spring does with the cherries.
 要想活得轻松最重要就是要将自己的生活必须精简到极致，我租房住可以只是一个睡觉的地方，足够放下一张床和一个书桌就可以，这样的要求在一线城市大约也就是不到一千元就足够了；吃饭可以吃城中村快餐，每餐饭十多元足够了，自己做饭成本也许更低；穿衣服可以买淘宝货，买迪卡侬，全身行头也很难超过500元。   
 我觉得梭罗坚持步行去旅行倒是跟我很像，在大城市生活，每天两点一线，不管过多久，不管是哪个城市，你对城市的记忆也不过就是由地铁和公交车的涂装和一个个离散的目的地构成，所以我在工作之初就拒绝了公共交通通勤，但是买车我又没有户口、牌照和停车位，所以我学了摩托车驾照计划去购买一辆摩托车上下班，最后没有实现，我退而求其次选择了自行车通勤。最近我想要减肥遏制一下自己的三高趋势，所以我开始尝试跑步 5Km 上下班。   
 
-
 ---
 
 ## DevOps实践指南
 ![dev-ops-practice-cover|dev-ops-practice-cover.png](https://i.imgur.com/PpVhA5J.png)
 
-
 ---
 ## One Hundred Years of Solitude
-
-
 
 ---
 
@@ -468,23 +453,19 @@ I want to do with you what spring does with the cherries.
 绝佳的哲学入门书籍    
 简单用图和几句话让读者对于某个哲学家有一个简单了解   
 
-
 ---
 
 ## 西西弗神话
-![[s33778488.jpg]]   
+   
 袁筱一译本   
 这本书可能需要反复的阅读，和我通常阅读的类型有很大的差异   
 读完以后记得的也只有只言片语，也只有那一些小小的引发共鸣的片段，而作者想要传达什么意思，我并不是很确切的知道。   
   
 一个疯子在浴缸里面钓鱼，医生走过来问他说：你能钓到吗，疯子对医生说：你疯了？浴缸里能钓到鱼吗？   
 
-
 ---
 
 ## 规训与惩罚
 
 ---
-
-
 
