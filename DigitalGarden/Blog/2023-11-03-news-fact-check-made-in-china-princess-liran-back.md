@@ -1,13 +1,16 @@
 ---
 Last Edited: 2023-11-03T16:53
-tags: [lezi]
+tags:
+  - lezi
 Date created: 2023-11-03T13:40
 dg-publish: true
 layout: post
-title: "NEWs Fact Check：国产比利时王妃李然回广东梅州探亲"
+title: NEWs Fact Check：国产比利时王妃李然回广东梅州探亲
 date: 2023-11-03 13:19:04
-authors: [xigou]
+authors:
+  - xigou
 ---
+
 
 
 ## 信息来源
