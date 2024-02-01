@@ -1,12 +1,13 @@
 ---
-
 layout: post
-title: "Joker 谈治国理政：论治安管理中的殴打他人"
+title: Joker 谈治国理政：论治安管理中的殴打他人
 date: 2023-10-21 01:11:04
-tags: [law]
-authors: [xigou]
-
+tags:
+  - law
+authors:
+  - xigou
 ---
+
 
 背景：我的一位朋友（确实是朋友，后续为叙述方便，简称"我方"）与他人因琐事吵架最后发生打架行为，双方报警后在派出所处理纠纷。
 
