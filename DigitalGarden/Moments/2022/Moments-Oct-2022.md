@@ -4,7 +4,8 @@ date: 2022-10-05 00:22:33
 description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 ---   
-October 29, 2022
+
+## October 29, 2022
 
 ![PXL_20221029_124301022](https://i.imgur.com/3RW9YXH.jpg)
 ![PXL_20221029_113014069](https://i.imgur.com/2BERmZr.jpg)
@@ -13,8 +14,7 @@ October 29, 2022
 
 ---
 
-  
-October 29, 2022
+## October 29, 2022
 
 很难蚌得住，俺跟余华一样
 
@@ -22,22 +22,20 @@ October 29, 2022
 
 ---
 
-
-October 24, 2022
+## October 24, 2022
 
 我觉得 C/C++ 中最邪恶的地方就是把返回值的指针放在参数列表里面, 非常影响可读性
 
 ---
 
+## October 23, 2022    
+很难蚌住😅    
 
-October 23, 2022
-
-![61cc1e04-af1f-40c8-bcaf-c5892c7432a0](https://i.imgur.com/tFFMfHA.png)
+![北京健康宝纪念塔](https://i.imgur.com/tFFMfHA.png)
 
 ---
 
-
-October 23, 2022
+## October 23, 2022
 
 所有赛里斯人都和我的冰箱一样：完蛋了
 
@@ -45,37 +43,31 @@ October 23, 2022
 
 ---
 
-  
-October 22, 2022
+## October 22, 2022
 
 只有荒诞才能够对抗荒诞
 
 ---
 
-
-October 21, 2022
+## October 21, 2022
 
 ![image-1666316695099.jpg6962469264063501524](https://i.imgur.com/cdFxt9W.jpg)
 
 ---
 
-
-October 18, 2022
+## October 18, 2022
 
 写程序让我明白了一个很重要的人生道理： 依赖是可怕的， 它会毁了你的一切
 
 ---
 
-
-October 19, 2022
+## October 19, 2022
 
 ![FfQdws5aUAATIQG](https://i.imgur.com/CGJTctd.jpg)
-  
 
 ---
 
-  
-October 22, 2022
+## October 22, 2022
 
 袁腾飞回忆文革时期电影院的全部内容：  
 

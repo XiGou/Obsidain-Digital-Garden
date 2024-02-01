@@ -3,9 +3,13 @@ dg-home: true
 dg-publish: true
 ---
 
-
-TODO
-
+Hi, I am Joker , a Software Developer now.  
+Welcome to My Digital Garden.  
+[Read My Blog](./Blog)   
+[[Travels]]  
+[[All My Moments]]  
+[[All My Readings]]  
+[[All My Collections]]  
 # 💬留言板
 
 > 一个非常遗憾的消息，留言功能是匿名的不需要注册，但是需要连接国际互联网才能使用
