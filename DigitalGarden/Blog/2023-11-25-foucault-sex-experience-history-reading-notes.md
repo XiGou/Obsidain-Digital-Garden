@@ -1,15 +1,17 @@
 ---
 Last Edited: 2023-11-25T21:03
 tags:
-  - "reading"
-  - "philosophy"
+  - reading
+  - philosophy
 Date created: 2023-11-25T17:29
 dg-publish: true
 layout: post
-title: "福柯《性经验史》读后感"
+title: 福柯《性经验史》读后感
 date: 2023-11-25 17:53:41
-authors: [xigou]
+authors:
+  - xigou
 ---
+
 阅读福柯的书籍，几乎无法绕过《性经验史》，这是福柯最后的长篇著作，而作为一个赛里斯人，读到这样一本书总是令人感到不自然，在文革时期阅读这样的书籍很可能被批斗致死，好在福柯为了照顾赛里斯人，在文革结束以后才发表了本书第一卷。
 
 <!-- more -->
