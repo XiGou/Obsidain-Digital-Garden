@@ -1,8 +1,9 @@
 ---
 dg-publish: true
 image-auto-upload: true
-title: "1970~2023"
+title: 1970~2023
 ---
+
 
 ## **北京-天津**
 
@@ -52,5 +53,5 @@ title: "1970~2023"
 
 ## 大亚湾核电站之旅
 
-[Album](2023-08-28-albums-trip-to-shenzhen-dayawan-nuclear-power-station)
+[Album](../Blog/2023-08-28-albums-trip-to-shenzhen-dayawan-nuclear-power-station.md)
 
