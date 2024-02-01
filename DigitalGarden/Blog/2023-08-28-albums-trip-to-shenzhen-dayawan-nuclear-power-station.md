@@ -3,11 +3,14 @@ Last Edited: 2023-08-28T16:00
 Date created: 2023-08-27T17:31
 dg-publish: true
 layout: post
-title: "深圳大亚湾核电站之旅（图集）"
+title: 深圳大亚湾核电站之旅（图集）
 date: 2023-08-28 21:35:04
-tags: [travel]
-authors: [xigou]
+tags:
+  - travel
+authors:
+  - xigou
 ---
+
   
 近期由于日本福岛核电站的核废水排放事件，网络上出现了很多有关于核能的信息，主要有对于日本人这个抽象人的网暴和对于核辐射的恐慌。
 
