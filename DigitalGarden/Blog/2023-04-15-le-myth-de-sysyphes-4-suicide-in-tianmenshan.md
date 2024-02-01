@@ -6,11 +6,13 @@ link: https://xigou.notion.site/393ce91c29114b39b1bb682f479458b3
 notionID: 393ce91c-2911-4b39-b1bb-682f479458b3
 tags:
   - philosophy
-layout:  post
-title:  "西西弗神话- 天门山四人集体自杀事件"
-date:   2023-04-15 01:14:31 +0800
-authors: [xigou]
+layout: post
+title: 西西弗神话- 天门山四人集体自杀事件
+date: 2023-04-15 01:14:31 +0800
+authors:
+  - xigou
 ---
+
   
 
 > 发疯文学，无不良导向，慎阅
@@ -18,9 +20,9 @@ authors: [xigou]
 <!-- more -->
 <!--truncate-->
 
-![lemythdesisyphe.cover](#)
+![lemythdesisyphe.cover](2023-04-15-le-myth-de-sysyphes-4-suicide-in-tianmenshan.md##)
 
-![lemythdesisyphe.cover.jpg](#)
+![lemythdesisyphe.cover.jpg](2023-04-15-le-myth-de-sysyphes-4-suicide-in-tianmenshan.md.md###)
 
 
 最近这些年我很少关注社会新闻，而近期唯一让我感到内心受到震撼，久久不能平静的，就是天门山发生的四人集体自杀事件。这种震撼不是来源于赛里斯那些脑瘫短视频平台配着的那些聒噪的音乐，而是他们这个行为的象征意义: 他们的赴死方式实在是太哲学了，结伴而行爬到高高的山顶，一跃而下，和希腊神话里的西西弗斯的隐喻不谋而合。
