@@ -2,9 +2,12 @@
 layout: post
 title: "Wireshark experements of Computer Networks: Top-Down Approach"
 date: 2021-09-04 21:35:04
-tags: [Computer Network]
-authors: [xigou]
+tags:
+  - Computer Network
+authors:
+  - xigou
 ---
+
 
 # intruduction
 
@@ -26,7 +29,7 @@ So I decide to do a wireshark homework in this weekend.
 2. do something can trigger the protocal you want to observe;
 3. click stop icon to stop capturing and start research.
    
-Need to know more, just go to reference[<sup>1</sup>](#refer-anchor-1).
+Need to know more, just go to reference[<sup>1</sup>](2020-09-04-Computer-Networks-Top-Down-Approach-s-wireshark-experements.md##refer-anchor-1).
 ## HTTP
 ### The Basic HTTP GET/response interaction
 What I did:
