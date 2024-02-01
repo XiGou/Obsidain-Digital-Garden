@@ -2,9 +2,13 @@
 layout: post
 title: "网友对话: 谈底层赛里斯人的规训"
 date: 2023-11-18 23:11:04
-tags: [philosophy, lezi]
-authors: [xigou]
+tags:
+  - philosophy
+  - lezi
+authors:
+  - xigou
 ---
+
 
 
 > 这是旧文新发
