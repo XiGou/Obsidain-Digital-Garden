@@ -1,16 +1,13 @@
 ---
-
 layout: post
-
 title: "Open Source Project Review: Convert command line to Web App with Wooey"
-
 date: 2022-11-19 09:35:04
-
-tags: [Software Practice]
-
-authors: [xigou]
-
+tags:
+  - Software Practice
+authors:
+  - xigou
 ---
+
 
 
 There is a problem always annoying the software developer: How to deliver your software to your user? 
