@@ -3,11 +3,14 @@ Last Edited: 2023-10-02T15:58
 Date created: 2023-09-28T09:55
 dg-publish: true
 layout: post
-title: "从承德”抄家“事件谈赛里斯法治的进步"
+title: 从承德”抄家“事件谈赛里斯法治的进步
 date: 2023-09-28 17:53:41
-tags: ["keyboard politics"]
-authors: [joker]
+tags:
+  - keyboard politics
+authors:
+  - joker
 ---
+
 
 
 
