@@ -6,11 +6,7 @@ tags: [abstract]
 authors: [xigou]
 ---
 
-
-
 [Vlog-I Finished 5 Covid Test in One Day!](https://youtu.be/zQoC9WkE0TE)
-
-
 
 在西方世界的视角中，人是由细胞构成的，所以新冠病毒会损害你的身体健康。
 

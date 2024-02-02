@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wireshark experements of Computer Networks: Top-Down Approach"
-date: 2021-09-04 21:35:04
+date: 2020-09-04 21:35:04
 tags: [Computer Network]
 authors: [xigou]
 ---
@@ -14,7 +14,6 @@ authors: [xigou]
 I read the *Computer Networks: Top-Down Approach* about 3 years ago preparing for my CN-GRE, after read this book, I learned a lot about computer network, the reading helped me to fill in the blanks on the test paper, but I don't have the confidence to tell others I know the principles behind computer network, expecially after years of forgetting process.
 
 So I decide to do a wireshark homework in this weekend.
-
 
 <!-- more -->
 <!--truncate-->
@@ -32,7 +31,6 @@ Need to know more, just go to reference[<sup>1</sup>](#refer-anchor-1).
 What I did:
 Open Microsoft Edge browser and open this url:  [http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html).
 
-
 Captured packets:
 
 | "No."    | "Time"       | "Source"         | "Destination"    | "Protocol" | "Length" | "Info"                                                    |
@@ -42,6 +40,7 @@ Captured packets:
 
 Detail of packets:
 Request:
+
 ```
 Frame 370872: 581 bytes on wire (4648 bits), 581 bytes captured (4648 bits) on interface \Device\NPF_{0A0B317B-E1D8-4D27-9D8A-9E3EC63057D4}, id 0
 Ethernet II, Src: Micro-St_06:62:ec (00:d8:61:06:62:ec), Dst: Fiberhom_35:92:b1 (74:5d:68:35:92:b1)
@@ -63,6 +62,7 @@ Hypertext Transfer Protocol
     [Response in frame: 372140]
 
 ```
+
 Response:
 
 ```
@@ -116,7 +116,6 @@ Last-Modified: Sun, 05 Sep 2021 05:59:01 GMT\r\n
 
 7.	By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window?  If so, name one.
 Content-Length.
-
 
 ### The HTTP CONDITIONAL GET/response interaction
 Operations:
@@ -269,8 +268,6 @@ Packets Captured:
 | "146" | "4.150099" | "192.168.1.3"    | "128.119.245.12" | "HTTP"     | "555"    | "GET /wireshark-labs/HTTP-wireshark-file3.html HTTP/1.1 " |
 | "176" | "4.411527" | "128.119.245.12" | "192.168.1.3"    | "HTTP"     | "679"    | "HTTP/1.1 200 OK  (text/html)"                            |
 
-
-
 Packets Details:
 
 ```
@@ -340,8 +337,6 @@ Line-based text data: text/html (98 lines)
 
 ```
 
-
-
 Q&As:
 
 12.	How many HTTP GET request messages did your browser send?  Which packet number in the trace contains the GET message for the Bill or Rights?
@@ -374,11 +369,8 @@ Packets Captured:
 | "55"  | "2.609925" | "128.119.245.12" | "192.168.1.3"    | "HTTP"     | "841"    | "HTTP/1.1 200 OK  (PNG)"                                  |
 | "58"  | "2.695694" | "178.79.137.164" | "192.168.1.3"    | "HTTP"     | "225"    | "HTTP/1.1 301 Moved Permanently "                         |
 
-
 Packets Details:
 ...
-
-
 
 Q&As:
 16.	How many HTTP GET request messages did your browser send?  To which Internet addresses were these GET requests sent?
@@ -386,7 +378,6 @@ Totally 3 GET requests, 2 to 128.119.245.12 to get html file and pearson.png, 1 
 
 17.	Can you tell whether your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel?  Explain.
 In parallel.
-
 
 ```mermaid
 sequenceDiagram
@@ -441,7 +432,6 @@ Hypertext Transfer Protocol
     [Response in frame: 140]
 
 ```
-
 
 ```
 Frame 726: 656 bytes on wire (5248 bits), 656 bytes captured (5248 bits) on interface \Device\NPF_{0A0B317B-E1D8-4D27-9D8A-9E3EC63057D4}, id 0
@@ -548,7 +538,6 @@ Domain Name System (response)
 
 ```
 
-
 Q&As:
 
 1. Locate the first DNS query message resolving the name gaia.cs.umass.edu. What is the packet number  in the trace for the DNS query message?  Is this query message sent over UDP or TCP?
@@ -576,7 +565,6 @@ Answer RRs: 0
 
 Questions: 1
 Answer RRs: 1
-
 
 ### Trace DNS from nslookup
 
@@ -664,7 +652,6 @@ Questions: 1
 Answer RRs: 1
 
 ### Trace DNS from nslookup with NS type record
-
 
 Operations:
 - Clear DNS cache by 'ipconfig' command
@@ -775,7 +762,6 @@ Answer the following questions , either from your own live trace, or by opening 
 | 19  | 0.080772 | 128.119.245.12 | 192.168.86.68  | TCP      | 66     | 80  >  55639 [ACK] Seq=1 Ack=10137 Win=49280 Len=0 TSval=3913851422 TSecr=725607560                                        |
 | 20  | 0.080845 | 192.168.86.68  | 128.119.245.12 | TCP      | 1514   | 55639  >  80 [ACK] Seq=13033 Ack=1 Win=131712 Len=1448 TSval=725607588 TSecr=3913851421 [TCP segment of a reassembled PDU] |
 
-
 ```
 Frame 1: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface en0, id 0
 Ethernet II, Src: Apple_98:d9:27 (78:4f:43:98:d9:27), Dst: Google_89:0e:c8 (3c:28:6d:89:0e:c8)
@@ -876,9 +862,7 @@ Transmission Control Protocol, Src Port: 55639, Dst Port: 80, Seq: 1, Ack: 1, Le
 
 ```
 
-
 Q&As:
-
 
 1.	What is the sequence number of the TCP SYN segment that is used to initiate the TCP connection between the client computer and gaia.cs.umass.edu? (Note: this is the “raw” sequence number carried in the TCP segment itself; it is NOT the packet # in the “No.” column in the Wireshark window.  Remember there is no such thing as a “packet number” in TCP or UDP; as you know, there are sequence numbers in TCP and that’s what we’re after here.  Also note that this is not the relative sequence number with respect to the starting sequence number of this TCP session.). What is it in this TCP segment that identifies the segment as a SYN segment? Will the TCP receiver in this session be able to use Selective Acknowledgments (allowing TCP to function a bit more like a “selective repeat” receiver, see section 3.4.5 in the text)?
 
@@ -890,7 +874,6 @@ Yes, there is an option 'SACK permitted'.
 
 2.	What is the sequence number of the SYNACK segment sent by gaia.cs.umass.edu to the client computer in reply to the SYN? What is it in the segment that identifies the segment as a SYNACK segment? What is the value of the Acknowledgement field in the SYNACK segment? How did gaia.cs.umass.edu determine that value? 
 
-
 Sequence Number (raw): 1068969752
 
 Flags: 0x012 (SYN, ACK) identifies the segment as a SYNACK segment.
@@ -898,7 +881,6 @@ Flags: 0x012 (SYN, ACK) identifies the segment as a SYNACK segment.
 Acknowledgment number (raw): 4236649188
 
 Ack = Seq<sub>(peer)</sub> + 1.
-
 
 3.	What is the sequence number of the TCP segment containing the header of the HTTP POST command?  Note that in order to find the POST message header, you’ll need to dig into the packet content field at the bottom of the Wireshark window, looking for a segment with the ASCII text “POST” within its DATA field , .  How many bytes of data are contained in the payload (data) field of this TCP segment? Did all of the data in the transferred file alice.txt fit into this single segment?
 
@@ -934,10 +916,10 @@ Note: Wireshark has a nice feature that allows you to plot the RTT for each of t
 [The RTT to ACK the segment was: 0.028624000 seconds]
 [The RTT to ACK the segment was: 0.028628000 seconds]```
 ```
+
 EstimatedRTT = (1 – α) • EstimatedRTT + α • SampleRTT
 
 So EstimatedRTT is $0.875*0.028624000 + 0.125*0.028628000 = 0.02862449s$.
-
 
 5.	What is the length (header plus payload) of each of the first four data-carrying TCP segments? 
 
@@ -949,28 +931,27 @@ Transmission Control Protocol, Src Port: 55639, Dst Port: 80, Seq: 1, Ack: 1, Le
 1448 Bytes.
 
 6.	What is the minimum amount of available buffer space advertised to the client by gaia.cs.umass.edu among these first four data-carrying TCP segments ?  Does the lack of receiver buffer space ever throttle the sender for these first four data-carrying segments?
+
 ```
 [Calculated window size: 31872]
 [Calculated window size: 34816]
 [Calculated window size: 37760]
 [Calculated window size: 40576]
 ```
+
 The lack of receiver buffer space **never** throttle the sender for these first four data-carrying segments
 
 7.	Are there any retransmitted segments in the trace file? What did you check for (in the trace) in order to answer this question?
 
  In the TimeSequence-Graph (Stevens) of this trace (if it's a straight line, click the reset direction button), all sequence numbers are incresing monotonically.
 
-
 8.	How much data does the receiver typically acknowledge in an ACK among the first ten data-carrying segments sent from the client to gaia.cs.umass.edu?  Can you identify cases where the receiver is ACKing every other received segment (see Table 3.2 in the text) among these first ten data-carrying segments?
 
 1448 bytes, No.8 packet Ack=2897, and No.7 Ack=1449, it is Acking 1448 bytes.
 
-
 9.	What is the throughput (bytes transferred per unit time) for the TCP connection?  Explain how you calculated this value.
 
 The last Ack is 153426, time is 0.191496s, and the first data carrying packet's time is 0.024047, so $bandwidth = 153426 byte / (0.191496s -  0.024047s) \approx 916255 byte/s$
-
 
 10.	Use the Time-Sequence-Graph(Stevens) plotting tool to view the sequence number versus time plot of segments being sent from the client to the gaia.cs.umass.edu server.  Consider the “fleets” of packets sent around t = 0.025, t = 0.053, t = 0.082 and t = 0.1. Comment on whether this looks as if TCP is in its slow start phase, congestion avoidance phase or some other phase. Figure 6 shows a slightly different view of this data.
 
@@ -984,12 +965,9 @@ The period is close to the RTT, because the TCP need a RTT time at averange to c
 
 ### Trigger UDP packets through nslookup
 
-
-
 Captured data:
 
 Answer the following questions , either from your own live trace, or by opening the Wireshark captured packet trace file dns-wireshark-trace1-1 in  http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces-8.1.zip  
-
 
 1.	Select the first UDP segment in your trace. What is the packet number  of this segment in the trace file?  What type of application-layer payload or protocol message is being carried in this UDP segment?  Look at the details of this packet in Wireshark.  How many fields there are in the UDP header? (You shouldn’t look in the textbook! Answer these questions directly from what you observe in the packet trace.) What are the names of these fields? 
 
@@ -1007,8 +985,8 @@ User Datagram Protocol, Src Port: 47931, Dst Port: 1900
     UDP payload (275 bytes)
 
 ```
-5th, SSDP(Simple Service Discovery Protocol), There are 4 fields in UDP Header: Source Port, Destination Port, Length, Checksum.
 
+5th, SSDP(Simple Service Discovery Protocol), There are 4 fields in UDP Header: Source Port, Destination Port, Length, Checksum.
 
 2.	By consulting the displayed information in Wireshark’s packet content field for this packet (or by consulting the textbook), what is the length (in bytes) of each of the UDP header fields?
 
@@ -1082,7 +1060,6 @@ User Datagram Protocol, Src Port: 53, Dst Port: 58350
 
 The destination port of the response packet is same as the request packet's source port, reverse is also true.
 
-
 ## IP
 
 ### Capturing packets from an execution of traceroute
@@ -1135,9 +1112,6 @@ $Payload Length = Total Length - Header Length = 56 - 20 = 36 Bytes$
 
 No, if it is fragmented, the payload length of IP layer should be less than the Length of upper layer.
 
-
-
-
 7.	Which fields in the IP datagram always change from one datagram to the next within this series of UDP segments sent by your computer destined to 128.119.245.12, via traceroute?  Why?
 
 TTL and destination port, because traceroute set the TTL to n to trigger a ICMP response packet (ttl exceeded) on the $n_{th}$ hot of the route of the packet. destination port is used to track the coresponding response of each packet. 
@@ -1169,6 +1143,7 @@ Internet Protocol Version 4, Src: 192.168.86.1, Dst: 192.168.86.61
     Destination Address: 192.168.86.61
 
 ```
+
 Protocol: ICMP (1).
 
 11.	Are the values in the Identification fields (across the sequence of all of ICMP packets from all of the routers) similar in behavior to your answer to question 9 above?
@@ -1182,6 +1157,7 @@ All equals to 1.
 #### Part 2: Fragmentation
 
 14.	What information in the IP header indicates that this datagram been fragmented?  
+
 ```
 Internet Protocol Version 4, Src: 192.168.86.61, Dst: 128.119.245.12
     0100 .... = Version: 4
@@ -1202,8 +1178,8 @@ Internet Protocol Version 4, Src: 192.168.86.61, Dst: 128.119.245.12
     Destination Address: 128.119.245.12
     [Reassembled IPv4 in frame: 181]
 ```
-Flags: 0x20, More fragments.
 
+Flags: 0x20, More fragments.
 
 15.	What information in the IP header for this packet indicates whether this is the first fragment versus a latter fragment?  
 
@@ -1236,6 +1212,7 @@ Internet Protocol Version 4, Src: 192.168.86.61, Dst: 128.119.245.12
         ..0. .... = More fragments: Not set
     Fragment Offset: 2960
 ```
+
 Flags: 0x01, ..0. .... = More fragments: Not set.
 
 ### Capturing IPV6 packets
@@ -1262,6 +1239,7 @@ Internet Protocol Version 6, Src: 2601:193:8302:4620:215c:f5ae:8b40:a27a, Dst: 2
     Destination Address: 2001:558:feed::1
 
 ```
+
 2601:193:8302:4620:215c:f5ae:8b40:a27a
 
 21.	What is the IPv6 destination address for this datagram? Give this IPv6 address in the exact same form as displayed in the Wireshark window.  
@@ -1299,6 +1277,7 @@ Domain Name System (response)
     [Time: 0.140916000 seconds]
 
 ```
+
 Only one.
 
 26.	What is the first of the IPv6 addresses returned by the DNS for youtube.com (in the ip-wireshark-trace2-1.pcapng trace file, this is also the address that is numerically the smallest)? Give this IPv6 address in the exact same shorthand form as displayed in the Wireshark window.
@@ -1332,8 +1311,6 @@ Internet Protocol Version 4, Src: 138.76.29.8, Dst: 192.168.10.11
 
 Transmission Control Protocol, Src Port: 80, Dst Port: 53924, Seq: 1, Ack: 331, Len: 547
 
-
-
 In the following we’ll focus on these two HTTP messages (GET and 200 OK). Our goal below will be to locate these two HTTP messages in the trace file nat-outside-wireshark-trace1-1.pcapng, captured on the Internet-side link between the router and the ISP. Because the captured packets heading towards the server will have already been forwarded through the NAT router, some of the IP address and port numbers will have been changed as a result of NAT translation.
 
 Open the trace file nat-outside-wireshark-trace1-1.pcapng. Note that the time stamps in this file and the nat-inside-wireshark-trace1-1.pcapng file are not necessarily synchronized. 
@@ -1349,7 +1326,6 @@ In the nat-outside-wireshark-trace1-1.pcapng trace file, find the HTTP GET messa
 Internet Protocol Version 4, Src: 10.0.1.254, Dst: 138.76.29.8
 Transmission Control Protocol, Src Port: 53924, Dst Port: 80, Seq: 1, Ack: 1, Len: 330
 
-
 6.	Which of these four fields are different than in your answer to question 1 above?
 
 The source IP changed.
@@ -1357,7 +1333,6 @@ The source IP changed.
 7.	Are any fields in the HTTP GET message changed? 
 
 None.
-
 
 8.	Which of the following fields in the IP datagram carrying the HTTP GET are changed from the datagram received on the local area network (inside) to the corresponding datagram forwarded on the Internet side (outside) of the NAT router: Version, Header Length, Flags, Checksum?
 
@@ -1372,11 +1347,9 @@ Let’s continue to look at the nat-outside-wireshark-trace1-1.pcapng trace file
 
 10.	What are the source and destination IP addresses and TCP source and destination port numbers on the IP datagram carrying this HTTP reply (“200 OK”) message (as recorded in the nat-outside-wireshark-trace1-1.pcapng trace file)? 
 
-
 Internet Protocol Version 4, Src: 138.76.29.8, Dst: 10.0.1.254
 
 Transmission Control Protocol, Src Port: 80, Dst Port: 53924, Seq: 1, Ack: 331, Len: 547
-
 
 Lastly, let’s consider what happens when the NAT router receives this datagram that you examined in questions 9 and 10, performs NAT translation, and finally forwards that datagram to the destination host on the LAN side. Based on your answers to questions 1 through 10 above and your knowledge of how NAT works, you should be able to answer the following question without actually looking at the nat-inside-wireshark-trace1-1.pcapng trace file:
 
@@ -1386,14 +1359,12 @@ Internet Protocol Version 4, Src: 138.76.29.8, Dst: 192.168.10.11
 
 Transmission Control Protocol, Src Port: 80, Dst Port: 53924
 
-
 ## DHCP
 ## ICMP
 ## Ethernet and ARP	
 ## 802.11 WiFi	
 ## SSL (currently being updated to TLS)	
 ## IP
-
 
 # Refs
 <div id="refer-anchor-1"></div>

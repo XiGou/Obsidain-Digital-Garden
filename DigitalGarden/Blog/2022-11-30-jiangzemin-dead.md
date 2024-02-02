@@ -1,13 +1,9 @@
 ---
 
 layout: post
-
 title: "长者死了，我的青年时代也死了"
-
 date: 2022-11-30 09:35:04
-
 tags: [Politics]
-
 authors: [xigou]
 
 ---
@@ -28,8 +24,7 @@ authors: [xigou]
 
 > 我们要坚决地坚持到底，坚持奋战，坚持再坚持！我们就一定能够取得最后的胜利。
 > 
->我们中华民族是有着很强的凝聚力，任何的困难都压不倒我们。中国人民是不可战胜的！
-> 
+> 我们中华民族是有着很强的凝聚力，任何的困难都压不倒我们。中国人民是不可战胜的！
 
 文字或许读起来很普通，但是在我听过了那一段录音以后，那个声音就一直在我脑海里回荡，每当我学习生活中遇到困难，这些话总是在激励着我前进。
 
@@ -51,10 +46,10 @@ authors: [xigou]
 
 [江泽民 - 维基语录，自由的名人名言录](https://zh.m.wikiquote.org/zh-sg/%E6%B1%9F%E6%B3%BD%E6%B0%91)
 
-[【2022 高清重置】江泽民主席怒斥香港记者，图样图森破，NAIVE, TOO YOUNG TOO SIMPLE 身经百战，和华莱士谈笑风生 #江泽民 #长者 #膜蛤 江泽民香港发飙](https://www.youtube.com/watch?v=tU5OIVEv0wg)
+[【2022 高清重置】江泽民主席怒斥香港记者，图样图森破，NAIVE, TOO YOUNG TOO SIMPLE 身经百战，和华莱士谈笑风生 江泽民香港发飙](https://www.youtube.com/watch?v=tU5OIVEv0wg)
 
 [](https://www.youtube.com/watch?v=20VGUzUPwCw)
 
 [時任中共上海市委書記江澤民，在上海電視台英文台現場。用英語向觀眾講話（諸位覺得長者的英語如何）](https://www.youtube.com/watch?v=h_a_X9N_jhY)
 
-[江泽民长者的人生十大巅峰时刻！！姿势水平高 谈笑风生 身经百战 见得多了 #膜蛤 #蛤丝](https://www.youtube.com/watch?v=pLXAVRFDZb8)
+[江泽民长者的人生十大巅峰时刻！！姿势水平高 谈笑风生 身经百战 见得多了](https://www.youtube.com/watch?v=pLXAVRFDZb8)

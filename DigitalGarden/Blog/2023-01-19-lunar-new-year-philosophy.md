@@ -1,13 +1,9 @@
 ---
 
 layout: post
-
 title: "赛里斯春节哲学：回埃及记、逼婚、三劝进"
-
 date: 2023-01-19 09:35:04
-
 tags: [abstract]
-
 authors: [xigou]
 
 ---
