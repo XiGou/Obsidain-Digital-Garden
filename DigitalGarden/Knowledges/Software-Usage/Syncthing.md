@@ -1,7 +1,11 @@
 ---
+date: 2024-01-06 01:14:31 +0800
 dg-publish: true
+title: Syncthing
 ---
+
 开源的全平台支持的 P2P 同步工具
+
 Golang 实现
 
 Web UI 默认端口  `8384`

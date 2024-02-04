@@ -21,21 +21,18 @@ echo "core.%e.%p" > /proc/sys/kernel/core_pattern
 ## Check Disk Space Usage
 - ncdu
 - du
-## Watch the specified file and sync it to test enviroment when changed.
+## Watch the specified file and sync it to test enviroment when changed.  
+[[File Transfering#rsync]]
 
 ```Shell
+
 while true; do inotifywait file.py; scp file.py root@x.x.x.x:/root; done;
+
+
+while true; do inotifywait -r /path/to/src; rsync -av --delete /src /dst; done;
 ```
 
 ## Network
 - ip
 - netstat
 - nload: show realtime network load graph in terminal
-
-## rsync
-
-Sync Source Directory to Destination Directory
-
-```bash
-rsync -av --delete ./src_path root@x.x.x.x:/dst_path
-```

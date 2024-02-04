@@ -1,8 +1,11 @@
 ---
+title: "Calibra: Ebook Management System"
 dg-publish: true
+date: 2024-01-06 01:14:31 +0800
 ---
->[!info] Github Repo
->[GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web)
+
+> [!info] Github Repo
+> [GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web)
 
 Webui can be found at `http://your-ip:8083`
 
@@ -40,3 +43,5 @@ docker run -d \
   --restart unless-stopped \
   lscr.io/linuxserver/calibre-web:latest
 ```
+
+It is heavy and old, finally I decide not to use it.
