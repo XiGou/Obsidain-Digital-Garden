@@ -5,11 +5,12 @@ dg-publish: true
 link: https://xigou.notion.site/393ce91c29114b39b1bb682f479458b3
 notionID: 393ce91c-2911-4b39-b1bb-682f479458b3
 tags:
-  - philosophy
-layout:  post
-title:  "西西弗神话- 天门山四人集体自杀事件"
-date:   2023-04-15 01:14:31 +0800
-authors: [xigou]
+  - Philosophy
+layout: post
+title: 西西弗神话- 天门山四人集体自杀事件
+date: 2023-04-15 01:14:31 +0800
+authors:
+  - xigou
 ---
   
 

@@ -11,7 +11,6 @@ dg-publish: true
 
 ## 圆圈正义
 
-
 ![s33544846](https://i.imgur.com/PwncDBJ.jpg)   
 [[2023-04-30-circle-justice-reading-notes]]  
 圆圈正义 (B站累计点击量超1000万，人称“刑法小王子”的罗翔教授全新力作，人追求正义不是出于“生活的智慧”，而是源于内心对于正义的信念) - 罗翔 (Highlight: 23; Note: 0)  
@@ -455,7 +454,7 @@ I want to do with you what spring does with the cherries.
 ---
 
 ## 西西弗神话
-![[s33778488.jpg]]   
+![s33778488](https://i.imgur.com/lWdOYcR.jpg)   
 袁筱一译本   
 这本书可能需要反复的阅读，和我通常阅读的类型有很大的差异   
 读完以后记得的也只有只言片语，也只有那一些小小的引发共鸣的片段，而作者想要传达什么意思，我并不是很确切的知道。   

@@ -1,8 +1,12 @@
-
+---
+dg-publish: true
+date: 2023-02-05 00:22:33
+description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
+---  
 
 ## February 26, 2023
 
-For me the Ferris wheel is a special thing, The most impressive big wheels for me is the Tianjin Eye, That was the first time I left my hometown and came to the big city, And that is the first time I understood the concept of landmark buildings, I clearly remember the ticket price of that big wheel is 80 China Yuan, And I had Student card, So I could get 50% off coupon, But I haven't tried it yet. Because I think the Ferris wheel is a symbol of romantic relationship, So I am always waiting for the special person of my life to appear and experience the Ferris wheel with me, But now I decided to try new things together with myself， Stop waiting for the complicated condition.
+"For me the Ferris wheel is a special thing, The most impressive big wheels for me is the Tianjin Eye, That was the first time I left my hometown and came to the big city, And that is the first time I understood the concept of landmark buildings, I clearly remember the ticket price of that big wheel is 80 China Yuan, And I had Student card, So I could get 50% off coupon, But I haven't tried it yet. Because I think the Ferris wheel is a symbol of romantic relationship, So I am always waiting for the special person of my life to appear and experience the Ferris wheel with me, But now I decided to try new things together with myself， Stop waiting for the complicated condition."
 
 ![PXL_20230226_182316730](https://i.imgur.com/WDpr3Vl.jpg)
 

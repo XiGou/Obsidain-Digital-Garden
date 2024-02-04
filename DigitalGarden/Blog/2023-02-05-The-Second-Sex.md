@@ -1,11 +1,11 @@
 ---
-
 layout: post
-title: "《第二性》读后感"
+title: 《第二性》读后感
 date: 2023-02-05 09:35:04
-tags: [philosophy]
-authors: [xigou]
-
+tags:
+  - Philosophy
+authors:
+  - xigou
 ---
 
 ## 波伏娃其人

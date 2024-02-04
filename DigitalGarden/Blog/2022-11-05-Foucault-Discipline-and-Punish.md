@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "现代生活中的规训与惩罚"
+title: 现代生活中的规训与惩罚
 date: 2022-11-05 12:36:04
-tags: [philosophy]
-authors: [xigou]
+tags:
+  - Philosophy
+authors:
+  - xigou
 ---
 
 

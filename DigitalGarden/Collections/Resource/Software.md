@@ -88,7 +88,7 @@ tags: [Software]
 [Walling - Organize & Present Your Ideas](https://walling.app/)                                                            
 
 ---
-[Explore](https://read.cv/explore)                                                         
+[Read.cv](https://read.cv/explore)                                                         
 
 ---
 
