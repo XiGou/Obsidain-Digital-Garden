@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 title: "黄薄码：我们来谈谈「江选研讨会」这个号"
-date：2022-11-05 00:22:33
+date: 2022-11-05 00:22:33
 ---
 
 ![image-082](https://i.imgur.com/JgDe84e.jpg)
