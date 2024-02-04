@@ -2,7 +2,8 @@
 date: 2023-09-05 00:22:33
 dg-home: true
 dg-publish: true
-aliases: index
+aliases: HomePage
+title: HomePage
 ---
 
 Hi, I am Joker , a Software Developer now.  
