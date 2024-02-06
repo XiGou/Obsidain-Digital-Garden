@@ -34,3 +34,8 @@ docker run -d --rm -p 0.0.0.0:3001:80 ghcr.io/logseq/logseq-webapp:latest
 ```
 
 But actually, you cannot store your data on the server, the self-host version is just a web-based desktop App,  I think it is useless.
+
+## Anytype
+
+No web version, awful user experience, Non-Standard data format.   
+But the team is from Swiden, They have an ambitious goal.

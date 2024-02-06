@@ -1,10 +1,13 @@
 ---
 dg-publish: true
----
+date: 2023-02-05 00:22:33
+description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
+---  
 
 [Coding 102: Writing code other people can read - Stack Overflow](https://stackoverflow.blog/2023/02/13/coding-102-writing-code-other-people-can-read/)
 
 ---
+
 https://www.zyops.com/autodeploy-yum/
 
 ---
