@@ -8,7 +8,7 @@ title: All My Readings
 [[Books-2023]]
 
 ## Movies
-[[Movies & TV]]
+[[Others]]
 
 ## Musics
 [[Lizhi]]
