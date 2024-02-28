@@ -12,5 +12,6 @@ title: All My Collections
 [[Internet Resource]]   
 [[Miscellaneous]]  
 [[Introduce| Bible Reading]]
+
 ## Reddit
-[[The Most Common Life of Chinese Youth Generation]]
+[[The_Most_Common_Life_of_Chinese_Youth_Generation]]
