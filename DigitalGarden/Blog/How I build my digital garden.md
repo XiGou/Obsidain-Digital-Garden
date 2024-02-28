@@ -1,6 +1,6 @@
 ---
 date: 2024-02-06 01:14:31 +0800
-title: "我如何构建我的数字花园"
+title: 我如何构建我的数字花园
 Last Edited: 2024-02-06-15T11:17
 Date created: 2024-02-06-15T01:29
 dg-publish: true
@@ -9,6 +9,8 @@ tags:
 layout: post
 authors:
   - xigou
+link: https://xigou.notion.site/How-I-build-my-digital-garden-4ac7f4c7cf1c4fb68759ce0a4d66dd83
+notionID: 4ac7f4c7-cf1c-4fb6-8759-ce0a4d66dd83
 ---
 
 在web2.0早期的时代，我想第一次打开互联网的人都会有一个想法：我如何才能让我的信息发布在网络上？

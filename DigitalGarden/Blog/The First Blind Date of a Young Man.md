@@ -1,6 +1,6 @@
 ---
 date: 2024-02-15 01:14:31 +0800
-title: "年轻人的第一次相亲"
+title: 年轻人的第一次相亲
 Last Edited: 2024-02-15-15T11:17
 Date created: 2024-02-15-15T01:29
 dg-publish: true
@@ -9,6 +9,8 @@ tags:
 layout: post
 authors:
   - xigou
+link: https://xigou.notion.site/The-First-Blind-Date-of-a-Young-Man-842c2e4bbd964b6cb209d0a20cbc73fd
+notionID: 842c2e4b-bd96-4b6c-b209-d0a20cbc73fd
 ---
 
 今年过年回家，因为一些契机，我们在家里开始搞起了封建迷信活动，按照神仙在凡间代言人的指导，在我八十八岁高龄的老外婆的见证之下，我拜了我的二姨和二姨父作干爹干妈, 我也进行了人生中第一次相亲。

@@ -464,9 +464,13 @@ I want to do with you what spring does with the cherries.
   
 一个疯子在浴缸里面钓鱼，医生走过来问他说：你能钓到吗，疯子对医生说：你疯了？浴缸里能钓到鱼吗？   
 
+[[2023-04-15-le-myth-de-sysyphes-4-suicide-in-tianmenshan|西西弗神话- 天门山四人集体自杀事件]]
+
 ---
 
 ## 规训与惩罚
+
+[[2022-11-05-Foucault-Discipline-and-Punish|现代生活中的规训与惩罚]]
 
 ---
 
