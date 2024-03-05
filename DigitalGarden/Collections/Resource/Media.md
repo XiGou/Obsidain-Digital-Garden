@@ -45,3 +45,5 @@ tags: [Media]
 
 ---
 
+日本国图文媒体。 
+[note ――つくる、つながる、とどける。](https://note.com/)
