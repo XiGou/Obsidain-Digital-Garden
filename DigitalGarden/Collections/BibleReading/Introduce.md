@@ -30,7 +30,7 @@ sidebar_position: 1
 | Ἀριθμοί                 | Arithmoí                           | Numbers                      | 民数记       |
 | Δευτερονόμιον           | Deuteronómion                      | Deuteronomy                  | 申命记       |
 | **History**             |                                    |                              |              |
-| Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | Joshua                       |              |
+| Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | Joshua                       | 约书亚记     |
 | Κριταί                  | Kritaí                             | Judges                       |              |
 | Ῥούθ                    | Roúth                              | Ruth                         |              |
 | Βασιλειῶν Αʹ            | I Reigns                           | I Samuel                     |              |
