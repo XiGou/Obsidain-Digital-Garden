@@ -95,3 +95,8 @@ tags: [Software]
 [Joker](https://bento.me/xigou)                                                          
 
 ---
+
+## Tools
+
+[Ping, mtr, dig and TCP port check from multiple locations](https://ping.pe/)  
+检查网站是否被封，从世界各地去ping 一个网站

@@ -25,3 +25,8 @@ total 12K
 ```
 
 ---
+
+微软开源的 KV 系统  
+[GitHub - microsoft/garnet: Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.](https://github.com/microsoft/garnet)
+
+---

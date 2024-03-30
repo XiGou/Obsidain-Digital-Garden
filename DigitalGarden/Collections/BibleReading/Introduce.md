@@ -31,8 +31,8 @@ sidebar_position: 1
 | Δευτερονόμιον           | Deuteronómion                      | Deuteronomy                  | 申命记       |
 | **History**             |                                    |                              |              |
 | Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | Joshua                       | 约书亚记     |
-| Κριταί                  | Kritaí                             | Judges                       |              |
-| Ῥούθ                    | Roúth                              | Ruth                         |              |
+| Κριταί                  | Kritaí                             | Judges                       | 士师记       |
+| Ῥούθ                    | Roúth                              | Ruth                         | 路德记       |
 | Βασιλειῶν Αʹ            | I Reigns                           | I Samuel                     |              |
 | Βασιλειῶν Βʹ            | II Reigns                          | II Samuel                    |              |
 | Βασιλειῶν Γʹ            | III Reigns                         | I Kings                      |              |

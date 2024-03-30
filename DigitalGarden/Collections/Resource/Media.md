@@ -10,40 +10,49 @@ tags: [Media]
 
 ---
 
-[MyGoPen](https://www.mygopen.com/)
-谣言求证平台
+[MyGoPen](https://www.mygopen.com/)  
+谣言求证平台  
 #Media
 
 ---
 
-[CLB Strikes Map | China Labour Bulletin](https://maps.clb.org.hk/)          
+[CLB Strikes Map | China Labour Bulletin](https://maps.clb.org.hk/)  
 #Politics #Media 
 
 ---
 
-[daily.dev | Where developers grow together](https://daily.dev/)
+[daily.dev | Where developers grow together](https://daily.dev/)  
 #Media 
 
 ---
 
-[Carnegie Endowment for International Peace](https://carnegieendowment.org/ )    
+[Carnegie Endowment for International Peace](https://carnegieendowment.org/ )  
 #Career  #Media  
 
 ---
 
-[Levels.fyi | Salaries & Tools to Level Up Your Career](https://www.levels.fyi/)       
+[Levels.fyi | Salaries & Tools to Level Up Your Career](https://www.levels.fyi/)  
 #Media #Career 
 
 ---
 
-[xLog - Write. Own. Earn.](https://xlog.app/) 
+[xLog - Write. Own. Earn.](https://xlog.app/)  
 #Web3 #Media #BlogPlatform
 
 ---
-[China Law Translate —](https://www.chinalawtranslate.com/en/)                                           
+[China Law Translate —](https://www.chinalawtranslate.com/en/)  
 #Law #English
 
 ---
 
-日本国图文媒体。 
-[note ――つくる、つながる、とどける。](https://note.com/)
+[note ――つくる、つながる、とどける。](https://note.com/)  
+日本国图文媒体。  
+
+---
+
+[工劳网｜劳动争议判决文书资料库](https://search.laborinfocn.com/lawcases)  
+#Law 
+
+---
+
+[大神123 - 记录躺平生活，每天更新三和大神现状](https://dashen123.com/)
