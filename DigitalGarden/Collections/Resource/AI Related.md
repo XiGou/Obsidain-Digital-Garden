@@ -20,17 +20,22 @@ tags: [AI]
  
 ---
 
-[Home - boardmix](https://boardmix.com/app/)      
+[Home - boardmix](https://boardmix.com/app/)  
 White Board App
 
 ---
 
-[Speak & Improve](https://speakandimprove.com/)           
+[Speak & Improve](https://speakandimprove.com/)  
 AI Powered Spoken English Learning App
  
 ---
 
-[Enter Your Business Name | LOGO.com](https://app.logo.com/ideas)   
+[Enter Your Business Name | LOGO.com](https://app.logo.com/ideas)  
+AI Logo Generating App
+
+---
+
+[ Logo Diffusion](https://logodiffusion.com)  
 AI Logo Generating App
 
 ---
@@ -41,6 +46,5 @@ AI Logo Generating App
 [歸藏的AI素材库](https://walling.app/kDaEnjcPrTTkWyNieSaG/e6adb8e8978fe79a84aie5a381e7bab8)    Built over walling.                                                    
 
 ---
-
 
 https://www.globe.engineer/

@@ -19,7 +19,7 @@ sidebar_position: 8
 而这后面讲的故事我用一个流程图就能说明白：
 
 ```mermaid
-graph LR 
+graph TB 
 A(以色列人干坏事) --> AA(失去神的庇护)
 AA(失去神的庇护)--> B(以色列人被打败) 
 B --> C(耶和华派士师拯救) 
