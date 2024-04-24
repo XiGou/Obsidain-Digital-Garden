@@ -5,7 +5,6 @@ tags: [Software]
 ---
 
 ---
-
 [The Logfile Navigator | The Logfile Navigator, lnav for short, is an advanced log file viewer for the small-scale.](https://lnav.org/) 
 
 ---
@@ -23,6 +22,10 @@ tags: [Software]
 ---
 
 [RustDesk开源远程桌面访问软件](https://rustdesk.com/zh/)                                                        
+
+---
+
+[GitHub - FreeRDP/FreeRDP: FreeRDP is a free remote desktop protocol library and clients](https://github.com/FreeRDP/FreeRDP)
 
 ---
 
@@ -96,7 +99,20 @@ tags: [Software]
 
 ---
 
-## Tools
+## Network Tools
 
 [Ping, mtr, dig and TCP port check from multiple locations](https://ping.pe/)  
 检查网站是否被封，从世界各地去ping 一个网站
+
+[Traceroute Online with Network Map | Tactical Network Testing](https://traceroute-online.com/)  
+Traceroute 网页版本，带地图
+
+## OS Tools
+
+[GitHub - massgravel/Microsoft-Activation-Scripts: A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.](https://github.com/massgravel/Microsoft-Activation-Scripts)  
+激活 windows 的工具
+
+## Linux Tools
+
+[Zellij](https://zellij.dev/)  
+Rust developed Tmux alternative

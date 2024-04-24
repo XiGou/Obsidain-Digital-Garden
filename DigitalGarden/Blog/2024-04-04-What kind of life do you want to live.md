@@ -2,6 +2,9 @@
 title: "书影：你想活出怎样的人生？"
 authors:
   - xigou
+tags:
+  - Reading
+  - Movie
 date: 2024-04-14 13:14:31 +0800
 ---
 

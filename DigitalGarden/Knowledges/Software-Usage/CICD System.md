@@ -5,7 +5,7 @@ title: "CICD System"
 
 ## Jenkins
 Implemented by Java ，pipeline defined by Jenkinsfile, can achieve `CI as Code`.  
-Master-Slave architecture.   
+Master-Slave architecture.  
 There are abundant plug-ins, but many of them are in a state of no maintenance,  are usable but have a lot of Warnings.  
 The UI is a bit outdated, but the new version is barely evolving into modern society.  
 
@@ -18,6 +18,10 @@ Can easily integrate with github/gitea/bitbucket/gogs, the pipeline is defined b
 ## Gitea
 
 Opensource Github Alternative, Can run github actions.
+
+## Gogs
+
+Same As Gitea.
 
 ## Github Actions
 

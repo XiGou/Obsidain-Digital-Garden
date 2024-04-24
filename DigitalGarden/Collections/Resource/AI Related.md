@@ -47,4 +47,13 @@ AI Logo Generating App
 
 ---
 
-https://www.globe.engineer/
+[Globe.](https://www.globe.engineer/)  
+Globe's mission is to optimally represent information for human comprehension.
+
+[  
+](https://explorer.globe.engineer/)
+
+---
+
+A collection of awesome-lists for AI, creativity and art.  
+[Latent Box](https://latentbox.com/en)

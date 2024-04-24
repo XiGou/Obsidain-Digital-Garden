@@ -2,6 +2,8 @@
 title: 读博尔赫斯《沙之书》
 authors:
   - xigou
+tags:
+  - Reading
 date: 2024-03-17 01:14:31 +0800
 link: https://xigou.notion.site/2024-03-17-Reading-The-Book-of-Sand-0fe3f011fc8b4dc7adf9e3a638a84cb3
 notionID: 0fe3f011-fc8b-4dc7-adf9-e3a638a84cb3
