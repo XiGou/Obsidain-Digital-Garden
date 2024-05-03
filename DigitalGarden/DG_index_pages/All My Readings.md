@@ -5,6 +5,7 @@ title: All My Readings
 ---
 
 ## Books
+[[Books-2024]]  
 [[Books-2023]]
 
 ## Movies

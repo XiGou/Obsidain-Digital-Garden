@@ -1,8 +1,11 @@
 ---
 dg-publish: true
 image-auto-upload: true
-title: "Others"
+title: "Travels"
 ---
 
-
+[[Beijing]]  
+[[Shanghai]]  
+[[Guangzhou]]  
+[[Shenzhen]]
 

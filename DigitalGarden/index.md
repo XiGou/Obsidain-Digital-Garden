@@ -19,13 +19,15 @@ Welcome to My Digital Garden.
 - 使用搜索功能查找关键字  
 
 ##  Sitemap  
-[Read My Blog](./Blog)   
+[Read My Blog](./Blog)  
 [[Travels]]  
 [[All My Moments]]  
 [[All My Readings]]  
 [[All My Collections]]  
 [[All My Knowledges]]  
 
+[[Jiangxuan Workshop]]  
+[[DigitalGarden/Collections/BibleReading/Introduce|Bible Reading Series]]
 
 # 💬留言板  
 
