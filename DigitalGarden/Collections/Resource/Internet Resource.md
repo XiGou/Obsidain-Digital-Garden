@@ -7,12 +7,17 @@ dg-publish: true
 
 --- 
 
-[Anna’s Archive](https://annas-archive.org/)    
+[Anna’s Archive](https://annas-archive.org/)  
 Ebook download service
 
 ---
 
 [Liber3](https://liber3.eth.limo/)                                                        
+
+---
+
+[Jane Reader - A modern epub reader](https://janereader.com/)  
+Not Open Source, build with Tauri
 
 ---
 

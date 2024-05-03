@@ -33,8 +33,8 @@ sidebar_position: 1
 | Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | Joshua                       | 约书亚记     |
 | Κριταί                  | Kritaí                             | Judges                       | 士师记       |
 | Ῥούθ                    | Roúth                              | Ruth                         | 路德记       |
-| Βασιλειῶν Αʹ            | I Reigns                           | I Samuel                     |              |
-| Βασιλειῶν Βʹ            | II Reigns                          | II Samuel                    |              |
+| Βασιλειῶν Αʹ            | I Reigns                           | I Samuel                     | 撒母耳记上   |
+| Βασιλειῶν Βʹ            | II Reigns                          | II Samuel                    | 撒母耳记下   |
 | Βασιλειῶν Γʹ            | III Reigns                         | I Kings                      |              |
 | Βασιλειῶν Δʹ            | IV Reigns                          | II Kings                     |              |
 | Παραλειπομένων Αʹ       | I Paralipomenon                    | I Chronicles                 |              |
