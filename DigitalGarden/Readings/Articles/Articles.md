@@ -72,3 +72,8 @@ The document shared many technical details how Nutanix build their HCI products;
 [Memory Allocation](https://samwho.dev/memory-allocation/)
 
 ---
+
+[ What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)  
+***Stephen Wolfram***
+
+---
