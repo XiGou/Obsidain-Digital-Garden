@@ -24,17 +24,17 @@ sidebar_position: 1
 | The Orthodox            | Greek-based name                   | Conventional English name    | Chinese Name |
 |:----------------------- |:---------------------------------- |:---------------------------- |:------------ |
 | **Law**                 |                                    |                              |              |
-| Γένεσις                 | Génesis                            | Genesis                      | 创世记       |
-| Ἔξοδος                  | Éxodos                             | Exodus                       | 出埃及记     |
-| Λευϊτικόν               | Leuitikón                          | Leviticus                    | 利未记       |
-| Ἀριθμοί                 | Arithmoí                           | Numbers                      | 民数记       |
-| Δευτερονόμιον           | Deuteronómion                      | Deuteronomy                  | 申命记       |
+| Γένεσις                 | Génesis                            | [[Genesis]]                  | 创世记       |
+| Ἔξοδος                  | Éxodos                             | [[Exodus]]                   | 出埃及记     |
+| Λευϊτικόν               | Leuitikón                          | [[Leviticus]]                | 利未记       |
+| Ἀριθμοί                 | Arithmoí                           | [[Numbers]]                  | 民数记       |
+| Δευτερονόμιον           | Deuteronómion                      | [[Deuteronomy]]              | 申命记       |
 | **History**             |                                    |                              |              |
-| Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | Joshua                       | 约书亚记     |
-| Κριταί                  | Kritaí                             | Judges                       | 士师记       |
-| Ῥούθ                    | Roúth                              | Ruth                         | 路德记       |
-| Βασιλειῶν Αʹ            | I Reigns                           | I Samuel                     | 撒母耳记上   |
-| Βασιλειῶν Βʹ            | II Reigns                          | II Samuel                    | 撒母耳记下   |
+| Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | [[Joshua]]                   | 约书亚记     |
+| Κριταί                  | Kritaí                             | [[Judges]]                   | 士师记       |
+| Ῥούθ                    | Roúth                              | [[Ruth]]                     | 路德记       |
+| Βασιλειῶν Αʹ            | I Reigns                           | [[I_Samuel\|I Samuel]]       | 撒母耳记上   |
+| Βασιλειῶν Βʹ            | II Reigns                          | [[II_Samuel\|II Samuel]]     | 撒母耳记下   |
 | Βασιλειῶν Γʹ            | III Reigns                         | I Kings                      |              |
 | Βασιλειῶν Δʹ            | IV Reigns                          | II Kings                     |              |
 | Παραλειπομένων Αʹ       | I Paralipomenon                    | I Chronicles                 |              |
