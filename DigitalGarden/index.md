@@ -20,7 +20,7 @@ Welcome to My Digital Garden.
 
 ##  Sitemap  
 [Read My Blog](./Blog)  
-[[Travels]]  
+[[All My Travels]]  
 [[All My Moments]]  
 [[All My Readings]]  
 [[All My Collections]]  

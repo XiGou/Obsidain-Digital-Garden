@@ -7,5 +7,6 @@ title: "Travels"
 [[Beijing]]  
 [[Shanghai]]  
 [[Guangzhou]]  
-[[Shenzhen]]
+[[Shenzhen]]  
+[[HongKong]]
 

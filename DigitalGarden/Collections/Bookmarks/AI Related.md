@@ -50,9 +50,6 @@ AI Logo Generating App
 [Globe.](https://www.globe.engineer/)  
 Globe's mission is to optimally represent information for human comprehension.
 
-[  
-](https://explorer.globe.engineer/)
-
 ---
 
 A collection of awesome-lists for AI, creativity and art.  

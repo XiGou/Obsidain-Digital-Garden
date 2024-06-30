@@ -4,6 +4,8 @@ Last Edited: 2023-11-17T23:58
 date: 2022-11-05 00:22:33
 ---
 
+## How to check RPM Dependencies
+
 有以下几种方法可以查看一个RPM软件包的依赖关系:
 
 1. 使用rpm命令的-qR参数
@@ -55,3 +57,9 @@ rpmlint package.rpm
 如果有源代码,可以分析编译过程中自动生成的依赖。
 
 以上方法结合使用可以全面了解一个RPM包的直接和间接所有依赖关系。
+
+## List the files in a rpm package file
+
+```bash
+rpm -qpl xxx.rpm
+```

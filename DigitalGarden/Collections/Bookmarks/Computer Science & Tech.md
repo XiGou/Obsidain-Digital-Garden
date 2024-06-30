@@ -6,12 +6,12 @@ dg-publish: true
 ## Docs #Doc #Dev
 
 ---
-[Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+[Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)  
 Quickly to Learn a program language in minutes.
 
 ---
 
-[DevDocs API Documentation](https://devdocs.io/)
+[DevDocs API Documentation](https://devdocs.io/)  
 Collections of Docs for software developers.
 
 ---
@@ -67,11 +67,11 @@ Collections of Docs for software developers.
 
 ---
 
-[Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)          
+[Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)  
 Draw.io
 
 ---
-[Create a Palette - Coolors](https://coolors.co/85ccff-d8e0e1-25c764-1a532f-f1f5f9)                           
+[Create a Palette - Coolors](https://coolors.co/85ccff-d8e0e1-25c764-1a532f-f1f5f9)  
 Choose a color for design.
 
 ---
@@ -91,3 +91,8 @@ Choose a color for design.
 [Heynote](https://heynote.com/)                                                            
 
 ---
+
+[CheatSheets.zip - Quick Reference Cheat Sheet](https://cheatsheets.zip/)
+
+---
+

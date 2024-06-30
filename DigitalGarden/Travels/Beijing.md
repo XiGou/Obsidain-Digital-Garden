@@ -16,8 +16,14 @@ title: "Beijing"
 ## **妙峰山**
 
 > [!info] 妙峰山露营----扛车上山之旅  
-> [https://www.acfun.cn/v/ac29469038](https://www.acfun.cn/v/ac29469038)  
+> [妙峰山露营----扛车上山之旅](https://www.acfun.cn/v/ac29469038)  
 
 ## **怀柔水库**
 
-[https://www.youtube.com/watch?v=zVK0bDFXyDc](https://www.youtube.com/watch?v=zVK0bDFXyDc)
+[北京怀柔水库骑行& 户外 螺狮粉吃播 - YouTube](https://www.youtube.com/watch?v=zVK0bDFXyDc)
+
+## Others
+
+[后海-老北京正宗酒吧爬行 - YouTube](https://youtu.be/EbZkUwkVZDA)
+
+[探访北京工体土味酒吧: OT - YouTube](https://youtu.be/fNiBnI8AEs4)

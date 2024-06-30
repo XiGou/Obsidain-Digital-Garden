@@ -16,6 +16,11 @@ title: 李志
 
 [李志2014新專輯 [高品質] 李志-熱河.mp3](https://pub-a2862aad9fe14cbd8039c55c669ae40c.r2.dev/%E6%9D%8E%E5%BF%972014%E6%96%B0%E5%B0%88%E8%BC%AF%20%5B%E9%AB%98%E5%93%81%E8%B3%AA%5D%20%E6%9D%8E%E5%BF%97-%E7%86%B1%E6%B2%B3.mp3)
 
+<audio controls>  
+  <source src="https%3A%2F%2Fpub-a2862aad9fe14cbd8039c55c669ae40c.r2.dev%2F%25E6%259D%258E%25E5%25BF%25972014%25E6%2596%25B0%25E5%25B0%2588%25E8%25BC%25AF%2520%255B%25E9%25AB%2598%25E5%2593%2581%25E8%25B3%25AA%255D%2520%25E6%259D%258E%25E5%25BF%2597-%25E7%2586%25B1%25E6%25B2%25B3.mp3" type="audio/mpeg">  </source>  
+Your browser does not support the audio element.  
+</audio>
+
 热河路就像 八十年代的金坛县  
 梧桐垃圾灰尘  
 和各式各样的杂货店  

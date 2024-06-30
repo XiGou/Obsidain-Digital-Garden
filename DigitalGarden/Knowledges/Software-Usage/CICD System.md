@@ -26,3 +26,8 @@ Same As Gitea.
 ## Github Actions
 
 Easy to use, github provide a 2C compute resource to run your actions, you don't need to maintain a linux server.
+
+
+## Refs
+
+[[2024-05-13-1005|Best CI/CD tools (2024)]]

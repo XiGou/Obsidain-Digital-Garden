@@ -29,7 +29,7 @@ check dynamic section to get libc version。
 If you can access the source code, check the building scripts for the glibc version。
 
 5. rpm/deb package manage tools
-[[How to check RPM Dependencies]]
+[[RPM]]
 6. gdb debugging 
 
 ```

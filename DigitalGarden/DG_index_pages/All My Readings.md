@@ -9,7 +9,7 @@ title: All My Readings
 [[Books-2023]]
 
 ## Movies
-[[Others]]
+[[DigitalGarden/Readings/Movies/Others]]
 
 ## Musics
 [[Lizhi]]

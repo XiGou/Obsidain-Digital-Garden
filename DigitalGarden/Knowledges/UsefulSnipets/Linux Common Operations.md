@@ -19,7 +19,7 @@ echo "core.%e.%p" > /proc/sys/kernel/core_pattern
 ```
 
 ## Check Disk Space Usage
-- ncdu
+- ncdu: usually used to clean the file system, find out big files.
 - du
 ## Watch the specified file and sync it to test enviroment when changed.  
 [[File Transfering#rsync]]
