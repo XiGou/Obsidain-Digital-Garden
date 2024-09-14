@@ -4,14 +4,14 @@ dg-publish: true
 title: All My Collections
 ---
 
-[[AI Related]]  
-[[Computer Science & Tech]]  
-[[Literature & Art]]  
-[[Media]]  
-[[Software]]  
-[[Internet Resource]]   
-[[Miscellaneous]]  
-[[DigitalGarden/Collections/BibleReading/Introduce| Bible Reading]]
+[[AI_Related | AI Related]]  
+[[Computer_Science_and_Tech | Computer Science & Tech]]  
+[[Literature_and_Art | Literature & Art]]  
+[[Media_ | Media]]  
+[[Software_ | Software]]  
+[[Internet_Resource | Internet Resource]]  
+[[Miscellaneous_ | Miscellaneous]]  
+[[Collections/BibleReading/Introduce | Bible Reading]]
 
 ## Reddit
 [[The_Most_Common_Life_of_Chinese_Youth_Generation]]

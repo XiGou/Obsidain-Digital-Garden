@@ -28,7 +28,7 @@ check dynamic section to get libc version。
 
 If you can access the source code, check the building scripts for the glibc version。
 
-5. rpm/deb package manage tools
+5. rpm/deb package manage tools  
 [[RPM]]
 6. gdb debugging 
 

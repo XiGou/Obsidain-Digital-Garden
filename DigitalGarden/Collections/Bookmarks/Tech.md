@@ -11,3 +11,13 @@ tags: [Tech]
 [Terminal Trove - The $HOME of all things in the terminal.](https://terminaltrove.com/)
 
 ---
+
+[Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
+
+---
+
+查询常见命令，浏览器缓存，速度快  
+[tldr InBrowser.App](https://tldr.inbrowser.app/)
+
+---
+

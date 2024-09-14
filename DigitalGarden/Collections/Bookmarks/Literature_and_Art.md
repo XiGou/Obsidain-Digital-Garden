@@ -5,7 +5,7 @@ tags: [Software]
 ---
 
 ---
-[https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/37/rec/1](https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/37/rec/1)    
+[https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/37/rec/1](https://digital.cincinnatilibrary.org/digital/collection/p16998coll21/id/37/rec/1)  
 36 views of Mount Fuji #Art 
 
 ---

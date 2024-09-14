@@ -22,7 +22,7 @@ Databases about China
 
 ---
 
-[Rufus - Create bootable USB drives the easy way](https://rufus.ie/en/)
+[Rufus - Create bootable USB drives the easy way](https://rufus.ie/en/)  
 iso burning tool
 
 ---
@@ -31,5 +31,17 @@ iso burning tool
 
 ---
 
-CrystalDiskInfo、CrystalDiskMark
+CrystalDiskInfo、CrystalDiskMark  
 [CrystalDiskMark - Crystal Dew World [en]](https://crystalmark.info/en/software/crystaldiskmark/)
+
+---
+
+[动画巡礼 - anitabi - 圣地巡礼 - 聖地巡礼 - せいちじゅんれい - 神奇海螺试验场](https://anitabi.cn/map)  
+二次元圣地巡礼地图
+
+---
+
+深圳 IP 可以下载国际期刊  
+[中国知网系列数据库 - https://itic-sci.com/](https://itic-sci.com/navigatorDetail/index?id=8)
+
+---

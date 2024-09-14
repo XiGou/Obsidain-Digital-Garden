@@ -35,10 +35,10 @@ sidebar_position: 1
 | Ῥούθ                    | Roúth                              | [[Ruth]]                     | 路德记       |
 | Βασιλειῶν Αʹ            | I Reigns                           | [[I_Samuel\|I Samuel]]       | 撒母耳记上   |
 | Βασιλειῶν Βʹ            | II Reigns                          | [[II_Samuel\|II Samuel]]     | 撒母耳记下   |
-| Βασιλειῶν Γʹ            | III Reigns                         | I Kings                      |              |
-| Βασιλειῶν Δʹ            | IV Reigns                          | II Kings                     |              |
-| Παραλειπομένων Αʹ       | I Paralipomenon                    | I Chronicles                 |              |
-| Παραλειπομένων Βʹ       | II Paralipomenon                   | II Chronicles                |              |
+| Βασιλειῶν Γʹ            | III Reigns                         | [[I_Kings\|I Kings ]]        | 列王纪上     |
+| Βασιλειῶν Δʹ            | IV Reigns                          | [[II_Kings\|II Kings]]       | 列王纪下     |
+| Παραλειπομένων Αʹ       | I Paralipomenon                    | I Chronicles                 | 历代志上     |
+| Παραλειπομένων Βʹ       | II Paralipomenon                   | II Chronicles                | 历代志下     |
 | Ἔσδρας Αʹ               | I Esdras                           | 1 Esdras                     |              |
 | Ἔσδρας Βʹ               | II Esdras                          | Ezra–Nehemiah                |              |
 | Τωβίτ                   | Tobit                              | Tobit or Tobias              |              |
