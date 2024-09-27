@@ -63,3 +63,10 @@ rpmlint package.rpm
 ```bash
 rpm -qpl xxx.rpm
 ```
+
+## Show RPM Package Info
+
+```bash
+rpm -qi xxx.rpm
+rpm -qpi xxx.rpm
+```

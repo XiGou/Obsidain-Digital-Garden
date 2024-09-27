@@ -138,3 +138,11 @@ hackmd 博客发布
 
 Small. Simple. Secure.  
 [index | Alpine Linux](https://alpinelinux.org/)
+
+---
+
+# Self-Host
+
+[Self-Hosted Software and Apps](https://selfh.st/apps/)
+
+一个列表，展示了大多数流行的 self host 服务
