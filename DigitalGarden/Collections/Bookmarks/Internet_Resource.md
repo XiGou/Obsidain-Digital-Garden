@@ -21,6 +21,12 @@ Not Open Source, build with Tauri
 
 ---
 
+Thorium Reader, 一个免费跨平台的电子书阅读器，使用体验很好  
+[Thorium Reader – EDRLab](https://www.edrlab.org/software/thorium-reader/)
+[GitHub - edrlab/thorium-reader: A cross platform desktop reading app, based on the Readium Desktop toolkit](https://github.com/edrlab/thorium-reader)
+
+---
+
 ## Miscellaneous
 
 ---
