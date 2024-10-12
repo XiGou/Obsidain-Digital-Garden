@@ -1,5 +1,5 @@
 ---
-title: 以斯帖记- Tobit or Tobias
+title: 以斯帖记- Esther
 date: 2024-10-05 22:22:33
 sidebar_position: 18
 ---
