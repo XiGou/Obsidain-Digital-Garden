@@ -21,65 +21,65 @@ sidebar_position: 1
 
 ### Old Testament（旧约）
 
-| The Orthodox            | Greek-based name                   | Conventional English name         | Chinese Name      |
-| :---------------------- | :--------------------------------- | :-------------------------------- | :---------------- |
-| **Law**                 |                                    |                                   |                   |
-| Γένεσις                 | Génesis                            | [[Genesis]]                       | 创世记               |
-| Ἔξοδος                  | Éxodos                             | [[Exodus]]                        | 出埃及记              |
-| Λευϊτικόν               | Leuitikón                          | [[Leviticus]]                     | 利未记               |
-| Ἀριθμοί                 | Arithmoí                           | [[Numbers]]                       | 民数记               |
-| Δευτερονόμιον           | Deuteronómion                      | [[Deuteronomy]]                   | 申命记               |
-| **History**             |                                    |                                   |                   |
-| Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | [[Joshua]]                        | 约书亚记              |
-| Κριταί                  | Kritaí                             | [[Judges]]                        | 士师记               |
-| Ῥούθ                    | Roúth                              | [[Ruth]]                          | 路德记               |
-| Βασιλειῶν Αʹ            | I Reigns                           | [[I_Samuel\|I Samuel]]            | 撒母耳记上             |
-| Βασιλειῶν Βʹ            | II Reigns                          | [[II_Samuel\|II Samuel]]          | 撒母耳记下             |
-| Βασιλειῶν Γʹ            | III Reigns                         | [[I_Kings\|I Kings ]]             | 列王纪上              |
-| Βασιλειῶν Δʹ            | IV Reigns                          | [[II_Kings\|II Kings]]            | 列王纪下              |
-| Παραλειπομένων Αʹ       | I Paralipomenon                    | [[I_Chronicles\|I Chronicles]]    | 历代志上              |
-| Παραλειπομένων Βʹ       | II Paralipomenon                   | [[II_Chronicles\|II Chronicles]]  | 历代志下              |
-| Ἔσδρας Αʹ               | I Esdras                           | [[I_Esdras\|1 Esdras]]            | 以斯拉记              |
-| Ἔσδρας Βʹ               | II Esdras                          | [[II_Esdras\|Ezra–Nehemiah]]      | 尼希米记              |
-| Τωβίτ                   | Tobit                              | Tobit or Tobias                   | 多俾亚传 （次经）新世界译本不存在 |
-| Ἰουδίθ                  | Ioudith                            | Judith                            | 友弟德传 （次经）新世界译本不存在 |
-| Ἐσθήρ                   | Esther                             | [[Esther\|Esther with additions]] | 以斯帖记              |
-| Μακκαβαίων Αʹ           | I Makkabaioi                       | 1 Maccabees                       |                   |
-| Μακκαβαίων Βʹ           | II Makkabaioi                      | 2 Maccabees                       |                   |
-| Μακκαβαίων Γʹ           | III Makkabaioi                     | 3 Maccabees                       |                   |
-| **Wisdom**              |                                    |                                   |                   |
-| Ψαλμοί                  | Psalms                             | Psalms                            |                   |
-| Ψαλμός ΡΝΑʹ             | Psalm 151                          | Psalm 151                         |                   |
-| Προσευχὴ Μανάσση        | Prayer of Manasseh                 | Prayer of Manasseh                |                   |
-| Ἰώβ                     | Iōb                                | Job                               |                   |
-| Παροιμίαι               | Proverbs                           | Proverbs                          |                   |
-| Ἐκκλησιαστής            | Ekklesiastes                       | Ecclesiastes                      |                   |
-| Ἆσμα Ἀσμάτων            | Song of Songs                      | Song of Solomon or Canticles      |                   |
-| Σοφία Σαλoμῶντος        | Wisdom of Solomon                  | Wisdom                            |                   |
-| Σοφία Ἰησοῦ Σειράχ      | Wisdom of Jesus the son of Seirach | Sirach or Ecclesiasticus          |                   |
-| Ψαλμοί Σαλoμῶντος       | Psalms of Solomon                  | Psalms of Solomon                 |                   |
-| **Prophets**            |                                    |                                   |                   |
-| Δώδεκα                  | The Twelve                         | Minor Prophets                    |                   |
-| Ὡσηέ Αʹ                 | I. Osëe                            | Hosea                             |                   |
-| Ἀμώς Βʹ                 | II. Amōs                           | Amos                              |                   |
-| Μιχαίας Γʹ              | III. Michaias                      | Micah                             |                   |
-| Ἰωήλ Δʹ                 | IV. Ioël                           | Joel                              |                   |
-| Ὀβδίου Εʹ               | V. Obdias                          | Obadiah                           |                   |
-| Ἰωνᾶς Ϛ'                | VI. Ionas                          | Jonah                             |                   |
-| Ναούμ Ζʹ                | VII. Naoum                         | Nahum                             |                   |
-| Ἀμβακούμ Ηʹ             | VIII. Ambakum                      | Habakkuk                          |                   |
-| Σοφονίας Θʹ             | IX. Sophonias                      | Zephaniah                         |                   |
-| Ἀγγαῖος Ιʹ              | X. Angaios                         | Haggai                            |                   |
-| Ζαχαρίας ΙΑʹ            | XI. Zacharias                      | Zachariah                         |                   |
-| Ἄγγελος ΙΒʹ             | XII. Messenger                     | Malachi                           |                   |
-| Ἠσαΐας                  | Hesaias                            | Isaiah                            |                   |
-| Ἱερεμίας                | Hieremias                          | Jeremiah                          |                   |
-| Βαρούχ                  | Baruch                             | Baruch                            |                   |
-| Θρῆνοι                  | Lamentations                       | Lamentations                      |                   |
-| Ἐπιστολή Ιερεμίου       | Epistle of Jeremiah                | Letter of Jeremiah                |                   |
-| Ἰεζεκιήλ                | Iezekiêl                           | Ezekiel                           |                   |
-| Δανιήλ                  | Daniêl                             | Daniel with additions             |                   |
-| **Appendix**            |                                    |                                   |                   |
-| Μακκαβαίων Δ' Παράρτημα | IV Makkabees                       | 4 Maccabees                       |                   |
+| The Orthodox            | Greek-based name                   | Conventional English name         | Chinese Name       |
+| :---------------------- | :--------------------------------- | :-------------------------------- | :----------------- |
+| **Law**                 |                                    |                                   |                    |
+| Γένεσις                 | Génesis                            | [[Genesis]]                       | 创世记                |
+| Ἔξοδος                  | Éxodos                             | [[Exodus]]                        | 出埃及记               |
+| Λευϊτικόν               | Leuitikón                          | [[Leviticus]]                     | 利未记                |
+| Ἀριθμοί                 | Arithmoí                           | [[Numbers]]                       | 民数记                |
+| Δευτερονόμιον           | Deuteronómion                      | [[Deuteronomy]]                   | 申命记                |
+| **History**             |                                    |                                   |                    |
+| Ἰησοῦς Nαυῆ             | Iêsous Nauê                        | [[Joshua]]                        | 约书亚记               |
+| Κριταί                  | Kritaí                             | [[Judges]]                        | 士师记                |
+| Ῥούθ                    | Roúth                              | [[Ruth]]                          | 路德记                |
+| Βασιλειῶν Αʹ            | I Reigns                           | [[I_Samuel\|I Samuel]]            | 撒母耳记上              |
+| Βασιλειῶν Βʹ            | II Reigns                          | [[II_Samuel\|II Samuel]]          | 撒母耳记下              |
+| Βασιλειῶν Γʹ            | III Reigns                         | [[I_Kings\|I Kings ]]             | 列王纪上               |
+| Βασιλειῶν Δʹ            | IV Reigns                          | [[II_Kings\|II Kings]]            | 列王纪下               |
+| Παραλειπομένων Αʹ       | I Paralipomenon                    | [[I_Chronicles\|I Chronicles]]    | 历代志上               |
+| Παραλειπομένων Βʹ       | II Paralipomenon                   | [[II_Chronicles\|II Chronicles]]  | 历代志下               |
+| Ἔσδρας Αʹ               | I Esdras                           | [[I_Esdras\|1 Esdras]]            | 以斯拉记               |
+| Ἔσδρας Βʹ               | II Esdras                          | [[II_Esdras\|Ezra–Nehemiah]]      | 尼希米记               |
+| Τωβίτ                   | Tobit                              | Tobit or Tobias                   | 多俾亚传, 次经,新世界译本不存在  |
+| Ἰουδίθ                  | Ioudith                            | Judith                            | 友弟德传, 次经,新世界译本不存在  |
+| Ἐσθήρ                   | Esther                             | [[Esther\|Esther with additions]] | 以斯帖记               |
+| Μακκαβαίων Αʹ           | I Makkabaioi                       | 1 Maccabees                       | 马加比一书, 次经,新世界译本不存在 |
+| Μακκαβαίων Βʹ           | II Makkabaioi                      | 2 Maccabees                       | 马加比二书, 次经,新世界译本不存在 |
+| Μακκαβαίων Γʹ           | III Makkabaioi                     | 3 Maccabees                       | 马加比三书, 次经,新世界译本不存在 |
+| **Wisdom**              |                                    |                                   |                    |
+| Ψαλμοί                  | Psalms                             | Psalms                            |                    |
+| Ψαλμός ΡΝΑʹ             | Psalm 151                          | Psalm 151                         |                    |
+| Προσευχὴ Μανάσση        | Prayer of Manasseh                 | Prayer of Manasseh                |                    |
+| Ἰώβ                     | Iōb                                | [[Job]]                           | 约伯记                |
+| Παροιμίαι               | Proverbs                           | Proverbs                          |                    |
+| Ἐκκλησιαστής            | Ekklesiastes                       | Ecclesiastes                      |                    |
+| Ἆσμα Ἀσμάτων            | Song of Songs                      | Song of Solomon or Canticles      |                    |
+| Σοφία Σαλoμῶντος        | Wisdom of Solomon                  | Wisdom                            |                    |
+| Σοφία Ἰησοῦ Σειράχ      | Wisdom of Jesus the son of Seirach | Sirach or Ecclesiasticus          |                    |
+| Ψαλμοί Σαλoμῶντος       | Psalms of Solomon                  | Psalms of Solomon                 |                    |
+| **Prophets**            |                                    |                                   |                    |
+| Δώδεκα                  | The Twelve                         | Minor Prophets                    |                    |
+| Ὡσηέ Αʹ                 | I. Osëe                            | Hosea                             |                    |
+| Ἀμώς Βʹ                 | II. Amōs                           | Amos                              |                    |
+| Μιχαίας Γʹ              | III. Michaias                      | Micah                             |                    |
+| Ἰωήλ Δʹ                 | IV. Ioël                           | Joel                              |                    |
+| Ὀβδίου Εʹ               | V. Obdias                          | Obadiah                           |                    |
+| Ἰωνᾶς Ϛ'                | VI. Ionas                          | Jonah                             |                    |
+| Ναούμ Ζʹ                | VII. Naoum                         | Nahum                             |                    |
+| Ἀμβακούμ Ηʹ             | VIII. Ambakum                      | Habakkuk                          |                    |
+| Σοφονίας Θʹ             | IX. Sophonias                      | Zephaniah                         |                    |
+| Ἀγγαῖος Ιʹ              | X. Angaios                         | Haggai                            |                    |
+| Ζαχαρίας ΙΑʹ            | XI. Zacharias                      | Zachariah                         |                    |
+| Ἄγγελος ΙΒʹ             | XII. Messenger                     | Malachi                           |                    |
+| Ἠσαΐας                  | Hesaias                            | Isaiah                            |                    |
+| Ἱερεμίας                | Hieremias                          | Jeremiah                          |                    |
+| Βαρούχ                  | Baruch                             | Baruch                            |                    |
+| Θρῆνοι                  | Lamentations                       | Lamentations                      |                    |
+| Ἐπιστολή Ιερεμίου       | Epistle of Jeremiah                | Letter of Jeremiah                |                    |
+| Ἰεζεκιήλ                | Iezekiêl                           | Ezekiel                           |                    |
+| Δανιήλ                  | Daniêl                             | Daniel with additions             |                    |
+| **Appendix**            |                                    |                                   |                    |
+| Μακκαβαίων Δ' Παράρτημα | IV Makkabees                       | 4 Maccabees                       |                    |
 
 ### New Testament（新约）
