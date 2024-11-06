@@ -22,7 +22,7 @@ Not Open Source, build with Tauri
 ---
 
 Thorium Reader, 一个免费跨平台的电子书阅读器，使用体验很好  
-[Thorium Reader – EDRLab](https://www.edrlab.org/software/thorium-reader/)
+[Thorium Reader – EDRLab](https://www.edrlab.org/software/thorium-reader/)  
 [GitHub - edrlab/thorium-reader: A cross platform desktop reading app, based on the Readium Desktop toolkit](https://github.com/edrlab/thorium-reader)
 
 ---
@@ -43,3 +43,7 @@ Thorium Reader, 一个免费跨平台的电子书阅读器，使用体验很好
 [National Archives NextGen Catalog](https://catalog.archives.gov/)
 
 [日本国投降书](https://catalog.archives.gov/id/1752336)
+
+---
+
+[自托管精选](https://zituoguan.com/)

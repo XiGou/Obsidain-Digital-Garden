@@ -80,7 +80,11 @@ tags: [Software]
 
 ---
 
-[Owen 数字花园](https://www.owenyoung.com/about/)                                                
+[Owen 数字花园](https://www.owenyoung.com/about/)           
+
+---
+
+[GitHub - draios/sysdig: Linux system exploration and troubleshooting tool with first class support for containers](https://github.com/draios/sysdig)
 
 ## Profile Service
 ---
@@ -146,6 +150,9 @@ Small. Simple. Secure.
 [Self-Hosted Software and Apps](https://selfh.st/apps/)
 
 一个列表，展示了大多数流行的 self host 服务
+
+[GitHub - flarum/flarum: Simple forum software for building great communities.](https://github.com/flarum/flarum)  
+这是一个开源的论坛软件
 
 ---
 

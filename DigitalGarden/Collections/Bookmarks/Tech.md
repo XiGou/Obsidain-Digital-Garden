@@ -25,3 +25,9 @@ Linux 代码阅读网站
 [Linux source code (v6.11) - Bootlin](https://elixir.bootlin.com/)
 
 ---
+
+
+[LinkCheck: check if your url is safe](https://www.linkcheck.org/)
+检查网站的技术细节
+
+---
