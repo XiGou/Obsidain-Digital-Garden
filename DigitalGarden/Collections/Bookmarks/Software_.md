@@ -161,3 +161,12 @@ Small. Simple. Secure.
 [GitHub - mifi/lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 
 ---
+
+# Backup
+
+[GitHub - kopia/kopia: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.](https://github.com/kopia/kopia/)
+
+
+[GitHub - duplicati/duplicati: Store securely encrypted backups in the cloud!](https://github.com/duplicati/duplicati)
+
+---

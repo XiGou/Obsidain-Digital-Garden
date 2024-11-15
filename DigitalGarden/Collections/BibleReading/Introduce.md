@@ -15,8 +15,8 @@ sidebar_position: 1
 
 我忽然觉得这种引用宗教文本进行论战的形式还是挺有乐趣的，它让本来严肃的、神圣的、针锋相对的宗教辩论变得轻松愉快，仿佛基督徒和穆斯林的世仇忽然消失了，他们成了一对嬉皮笑脸打情骂俏的小情侣。另外这些句子事实上还是很精炼很有道理的，所以我觉得有好机会真的应该好好看看这些宗教文学作品。
 
-如果你在中文互联网上搜索圣经，出现最多的翻译版本就是简体中文和合本，这个版本翻译文本格式比较规整简练，有宗教文本所需要的晦涩与威严，上述的”尖刺梁木论战“的翻译就是出于和合本翻译，而最近我恰好看到有人讨论不同圣经版本的阅读体验实际上是千差万别的，同时了解到了新世界译本是目前发行量最大的圣经版本之一，且发行年代较近，这个版本的汉语翻译读起来十分顺畅易懂，所以我选择了此版本作为我通读圣经的目标版本。、
-[守望台线上书库](https://wol.jw.org/cmn-Hans/wol/h/r23/lp-chs)
+如果你在中文互联网上搜索圣经，出现最多的翻译版本就是简体中文和合本，这个版本翻译文本格式比较规整简练，有宗教文本所需要的晦涩与威严，上述的”尖刺梁木论战“的翻译就是出于和合本翻译，而最近我恰好看到有人讨论不同圣经版本的阅读体验实际上是千差万别的，同时了解到了新世界译本是目前发行量最大的圣经版本之一，且发行年代较近，这个版本的汉语翻译读起来十分顺畅易懂，所以我选择了此版本作为我通读圣经的目标版本。、  
+[Fetching Title#b7kf](https://wol.jw.org/cmn-Hans/wol/h/r23/lp-chs)
 
 ## 圣经内容目录
 
@@ -61,26 +61,28 @@ sidebar_position: 1
 | Ψαλμοί Σαλoμῶντος       | Psalms of Solomon                  | Psalms of Solomon                               |                    |
 | **Prophets**            |                                    |                                                 |                    |
 | Δώδεκα                  | The Twelve                         | Minor Prophets                                  |                    |
-| Ὡσηέ Αʹ                 | I. Osëe                            | Hosea                                           |                    |
-| Ἀμώς Βʹ                 | II. Amōs                           | Amos                                            |                    |
-| Μιχαίας Γʹ              | III. Michaias                      | Micah                                           |                    |
-| Ἰωήλ Δʹ                 | IV. Ioël                           | Joel                                            |                    |
-| Ὀβδίου Εʹ               | V. Obdias                          | Obadiah                                         |                    |
-| Ἰωνᾶς Ϛ'                | VI. Ionas                          | Jonah                                           |                    |
-| Ναούμ Ζʹ                | VII. Naoum                         | Nahum                                           |                    |
-| Ἀμβακούμ Ηʹ             | VIII. Ambakum                      | Habakkuk                                        |                    |
-| Σοφονίας Θʹ             | IX. Sophonias                      | Zephaniah                                       |                    |
-| Ἀγγαῖος Ιʹ              | X. Angaios                         | Haggai                                          |                    |
-| Ζαχαρίας ΙΑʹ            | XI. Zacharias                      | Zachariah                                       |                    |
-| Ἄγγελος ΙΒʹ             | XII. Messenger                     | Malachi                                         |                    |
-| Ἠσαΐας                  | Hesaias                            | Isaiah                                          |                    |
-| Ἱερεμίας                | Hieremias                          | Jeremiah                                        |                    |
+| Ὡσηέ Αʹ                 | I. Osëe                            | [[Hosea]]                                       | 何西阿书               |
+| Ἀμώς Βʹ                 | II. Amōs                           | [[Amos]]                                        | 阿摩司书               |
+| Μιχαίας Γʹ              | III. Michaias                      | [[Micah]]                                       | 弥迦书                |
+| Ἰωήλ Δʹ                 | IV. Ioël                           | [[Joel]]                                        | 约珥书                |
+| Ὀβδίου Εʹ               | V. Obdias                          | [[Obadiah]]                                     | 俄巴底亚书              |
+| Ἰωνᾶς Ϛ'                | VI. Ionas                          | [[Jonah]]                                       | 约拿书                |
+| Ναούμ Ζʹ                | VII. Naoum                         | [[Nahum]]                                       | 那鸿书                |
+| Ἀμβακούμ Ηʹ             | VIII. Ambakum                      | [[Habakkuk]]                                    | 哈巴谷书               |
+| Σοφονίας Θʹ             | IX. Sophonias                      | [[Zephaniah]]                                   | 西番雅书               |
+| Ἀγγαῖος Ιʹ              | X. Angaios                         | [[Haggai]]                                      | 哈该书                |
+| Ζαχαρίας ΙΑʹ            | XI. Zacharias                      | [[Zachariah]]                                   | 撒迦利亚书              |
+| Ἄγγελος ΙΒʹ             | XII. Messenger                     | [[Malachi]]                                     | 玛拉基书               |
+| Ἠσαΐας                  | Hesaias                            | [[Isaiah]]                                      | 以赛亚书               |
+| Ἱερεμίας                | Hieremias                          | [[Jeremiah]]                                    | 耶利米书               |
 | Βαρούχ                  | Baruch                             | Baruch                                          |                    |
 | Θρῆνοι                  | Lamentations                       | Lamentations                                    |                    |
-| Ἐπιστολή Ιερεμίου       | Epistle of Jeremiah                | Letter of Jeremiah                              |                    |
-| Ἰεζεκιήλ                | Iezekiêl                           | Ezekiel                                         |                    |
-| Δανιήλ                  | Daniêl                             | Daniel with additions                           |                    |
+| Ἐπιστολή Ιερεμίου       | Epistle of Jeremiah                | [[Letter_of_Jeremiah\|Letter of Jeremiah]]      | 耶利米哀歌              |
+| Ἰεζεκιήλ                | Iezekiêl                           | [[Ezekiel]]                                     | 以西结书               |
+| Δανιήλ                  | Daniêl                             | [[Daniel\|Daniel with additions]]               | 但以理书               |
 | **Appendix**            |                                    |                                                 |                    |
 | Μακκαβαίων Δ' Παράρτημα | IV Makkabees                       | 4 Maccabees                                     |                    |
+
+[[Old_Testament_Retrospec|旧约圣经总结]]
 
 ### New Testament（新约）
