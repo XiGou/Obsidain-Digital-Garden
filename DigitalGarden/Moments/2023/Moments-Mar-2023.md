@@ -1,8 +1,7 @@
 ---
-dg-publish: true
 date: 2023-03-05 00:22:33
 description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
----  
+---
 
 ## March 24, 2023
 
@@ -128,7 +127,7 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 刚刚我看到一个男人, 穿淘宝上100元买的外套，安踏的运动鞋，30元的化学纤维衬衫，买了一个哈根达斯蛋糕，小心翼翼的保护着, 坐门票140元的摩天轮, 就是为了把握摩天轮转动过程当中每一分钟的机会和给身旁的女人拍照片发小红书，他甚至都没有一刻钟停下来仔细看过城市的夜景。而在摩天轮快要降到地面之时，那个拍照拍厌烦了的女人，终于想起来要给这个男人也拍两张，但是那时候美景已经没有了，男人丑陋的脸庞，稀疏的头发和尴尬的笑容，都让氛围变得更加尴尬  
 
-![7e4fe5bb-a937-4800-a7ac-e6d77633a660.png](https://i.imgur.com/FTbIHip.png)
+![7e4fe5bb-a937-4800-a7ac-e6d77633a660.png](https://i.imgur.com/FTbIHip.png)  
 ![4ed10a1a-f6c5-4c26-938c-80f8bccd6c09|4ed10a1a-f6c5-4c26-938c-80f8bccd6c09.png](https://i.imgur.com/pwNK3jl.png)
 
 ---
