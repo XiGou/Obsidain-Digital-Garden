@@ -111,10 +111,13 @@ Just like you do with an FTP server, point FileRun to where you keep the files o
 ## Network Tools
 
 [Ping, mtr, dig and TCP port check from multiple locations](https://ping.pe/)  
-检查网站是否被封，从世界各地去ping 一个网站
+检查 IP ，网站是否被封，从世界各地去 ping 一个网站
 
 [Traceroute Online with Network Map | Tactical Network Testing](https://traceroute-online.com/)  
 Traceroute 网页版本，带地图
+
+[GitHub - xykt/IPQuality: A script for IP quality detection](https://github.com/xykt/IPQuality)  
+检查 IP 质量
 
 ## OS Tools
 
@@ -124,7 +127,8 @@ Traceroute 网页版本，带地图
 ## Linux Tools
 
 [Zellij](https://zellij.dev/)  
-Rust developed Tmux alternative
+Rust developed Tmux alternative  
+Really good alternative of Tmux, But when using through SSH, copy-paste is not working.
 
 ## SaaS
 
@@ -156,6 +160,10 @@ Small. Simple. Secure.
 
 ---
 
+[GitHub - discourse/discourse: A platform for community discussion. Free, open, simple.](https://github.com/discourse/discourse) 开源的论坛软件
+
+---
+
 # Multimedia
 
 [GitHub - mifi/lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
@@ -165,7 +173,6 @@ Small. Simple. Secure.
 # Backup
 
 [GitHub - kopia/kopia: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.](https://github.com/kopia/kopia/)
-
 
 [GitHub - duplicati/duplicati: Store securely encrypted backups in the cloud!](https://github.com/duplicati/duplicati)
 

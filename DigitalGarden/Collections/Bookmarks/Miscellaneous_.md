@@ -41,12 +41,26 @@ CrystalDiskInfo、CrystalDiskMark
 
 ---
 
-深圳 IP 可以下载国际期刊  
+深圳 IP 可以下载国际期刊 , 文献  
 [中国知网系列数据库 - https://itic-sci.com/](https://itic-sci.com/navigatorDetail/index?id=8)
 
 ---
 
+[粤港澳大湾区一体化算力服务平台](https://ai.cnix.cn/)
+
+---
+
 [Luma · Delightful Events Start Here](https://lu.ma/)  
-举办 Events 并且邀请访客的 SaaS 服务
+举办活动 Events 并且邀请访客的 SaaS 服务
+
+---
+
+举办活动 Events 并且邀请访客的 SaaS 服务  
+[Meetup | Find Local Groups, Events, and Activities Near You](https://www.meetup.com/)
+
+---
+
+Open Source Identity and Access Management, 身份与认证管理器  
+[Keycloak](https://www.keycloak.org/)
 
 ---

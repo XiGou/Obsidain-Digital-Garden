@@ -21,13 +21,20 @@ tags: [Tech]
 
 ---
 
-Linux 代码阅读网站
+Linux 代码阅读网站  
 [Linux source code (v6.11) - Bootlin](https://elixir.bootlin.com/)
 
 ---
 
-
-[LinkCheck: check if your url is safe](https://www.linkcheck.org/)
+[LinkCheck: check if your url is safe](https://www.linkcheck.org/)  
 检查网站的技术细节
 
 ---
+
+[Omakub — An Omakase Developer Setup for Ubuntu 24.04+ by DHH](https://omakub.org/)  
+#dev
+
+---
+
+[ONCE — Writebook](https://once.com/writebook)  
+网络发布文档和书籍
