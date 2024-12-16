@@ -27,7 +27,7 @@ Welcome to My Digital Garden.
 [[All My Knowledges]]  
 
 [[Jiangxuan Workshop]]  
-[[Collections/BibleReading/Introduce|Bible Reading Series]]
+[[Introduce|Bible Reading Series]]
 # 💬留言板  
 
 > 一个非常遗憾的消息，留言功能是匿名的不需要注册，但是需要连接国际互联网才能使用

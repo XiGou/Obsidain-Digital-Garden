@@ -11,7 +11,7 @@ title: All My Collections
 [[Software_ | Software]]  
 [[Internet_Resource | Internet Resource]]  
 [[Miscellaneous_ | Miscellaneous]]  
-[[Collections/BibleReading/Introduce | Bible Reading]]
+[[Introduce| Bible Reading]]
 
 ## Reddit
 [[The_Most_Common_Life_of_Chinese_Youth_Generation]]
