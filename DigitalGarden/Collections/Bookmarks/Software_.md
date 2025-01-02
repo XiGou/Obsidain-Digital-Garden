@@ -33,6 +33,13 @@ tags: [Software]
 
 ---
 
+[GitHub - lyc8503/UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks](https://github.com/lyc8503/UptimeFlare)
+
+---
+[Kener - Open-Source and Modern looking Node.js Status Page for Effortless Incident Management](https://kener.ing/)
+
+---
+
 [Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)                                                        
 
 ---

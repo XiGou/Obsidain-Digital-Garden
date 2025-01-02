@@ -35,6 +35,8 @@ title: "Shenzhen"
 ## Clubs
 [我的圈子很小，但很干净 - YouTube](https://youtu.be/80QYr-OYDe0) ML Club，已经倒闭
 
+## 深圳妈湾-太子湾 City Walk
+[摄影作品集：基尔巴兹的艳阳下](https://xigou.simple.ink/%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%9A%E5%9F%BA%E5%B0%94%E5%B7%B4%E5%85%B9%E7%9A%84%E8%89%B3%E9%98%B3%E4%B8%8B-16a4b6444f1b80d88a57ebc9f9fb17af)
 ## Other Vlogs
 
 [深圳南头古城人行天桥街头演出:再见-邓紫棋 - YouTube](https://www.youtube.com/watch?v=SXJpI8nhU4w)  
