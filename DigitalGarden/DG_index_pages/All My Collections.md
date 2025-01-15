@@ -4,13 +4,7 @@ dg-publish: true
 title: All My Collections
 ---
 
-[[AI_Related | AI Related]]  
-[[Computer_Science_and_Tech | Computer Science & Tech]]  
-[[Literature_and_Art | Literature & Art]]  
-[[Media_ | Media]]  
-[[Software_ | Software]]  
-[[Internet_Resource | Internet Resource]]  
-[[Miscellaneous_ | Miscellaneous]]  
+[[SelfHostedServices]]  
 [[Introduce| Bible Reading]]
 
 ## Reddit
