@@ -8,7 +8,7 @@ authors: [xigou]
 
 ---
 
-There is a problem always annoying the software developer: How to deliver your software to your user? 
+There is a problem always annoying the software developer: How to deliver your software to your user?
 
 Recently, I wrote a tool for internal use,  It is implemented in Python , and packaged as a command line program, I think it is esay enough for me to use, but the reality is cruel,  not all the target user have technical background, the feedback is they all think it is hard to use it. when they need to use it, they would definitely asking me to support them again and again,  so the software I developed became a nightmare of mine.
 <!-- more -->
@@ -110,7 +110,7 @@ nohup celery -A cmd2web_wooey worker -c 3 --beat -l info &
 python3.7 manage.py runserver 0.0.0.0:8000
 ```
 
-I must point out that I run celery inside the same docker container with the wooey server, and I changed the setting of Django project to accept any host, these are all bad practices and not safe at all. Considering my command line tool is for internal use, I don’t care about security issues.  
+I must point out that I run celery inside the same docker container with the wooey server, and I changed the setting of Django project to accept any host, these are all bad practices and not safe at all. Considering my command line tool is for internal use, I don’t care about security issues.
 
 The docker image building command is:
 
@@ -126,17 +126,17 @@ docker run -d -p 8000:8000 cmd2web_wooey:latest
 
 Now we can assess our Command Line WebUI in browser through http://IP:8000
 
-![Imgur](https://imgur.com/JlRaGqx.png)
+![Imgur](https://r2.blog-image.19960312.xyz/JlRaGqx.png)
 
 Click the “wooey_entry_cmd” script, that is the name of our python command line script, then set the arguments through the WebUI, click “submit” to run the command.
 
-![Imgur](https://imgur.com/OiGSCKa.png)
+![Imgur](https://r2.blog-image.19960312.xyz/OiGSCKa.png)
 
 Wait a moment, and we can get the console output and the generated empty file from the result.
 
-![Imgur](https://imgur.com/ykgGckZ.png)
+![Imgur](https://r2.blog-image.19960312.xyz/ykgGckZ.png)
 
-code of this post are published on: 
+code of this post are published on:
 
 [https://github.com/XiGou/cmd2web_wooey](https://github.com/XiGou/cmd2web_wooey)
 

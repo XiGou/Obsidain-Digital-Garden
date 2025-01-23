@@ -13,14 +13,14 @@ authors: [xigou]
 
 # 核物理基础知识
 ## 辐射种类
-核辐射主要分为以下几种类型：  
-1. 阿尔法辐射（Alpha Radiation）：阿尔法辐射由带有2个质子和2个中子的阿尔法粒子组成，即氦核。它的穿透能力较弱，只能在几厘米的空气或几毫米的物体中传播。然而，如果阿尔法辐射进入人体，就会对组织造成严重伤害。  
-2. 贝塔辐射（Beta Radiation）：贝塔辐射由高速电子（β-粒子）或正电子（β+粒子）组成。贝塔粒子比阿尔法粒子穿透能力更强，可以穿过几米的空气和几毫米的物体。当贝塔辐射进入人体时，它可以引起组织损伤，并对细胞和基因造成破坏。  
-3. 伽马辐射（Gamma Radiation）：伽马辐射是高能量电磁波，具有极强的穿透能力。它可以穿透物体和组织，甚至可以穿透几米的混凝土或数厘米的铅。伽马辐射对人体组织有很高的穿透力，因此对人体的辐射危害最大。  
-4. 中子辐射（Neutron Radiation）：中子辐射由中子组成，没有电荷，因此穿透能力非常强。中子辐射可以与原子核相互作用，引起核反应和核裂变，对物质和生物体产生广泛的影响。它对物质的穿透能力取决于中子的能量。  
+核辐射主要分为以下几种类型：
+1. 阿尔法辐射（Alpha Radiation）：阿尔法辐射由带有2个质子和2个中子的阿尔法粒子组成，即氦核。它的穿透能力较弱，只能在几厘米的空气或几毫米的物体中传播。然而，如果阿尔法辐射进入人体，就会对组织造成严重伤害。
+2. 贝塔辐射（Beta Radiation）：贝塔辐射由高速电子（β-粒子）或正电子（β+粒子）组成。贝塔粒子比阿尔法粒子穿透能力更强，可以穿过几米的空气和几毫米的物体。当贝塔辐射进入人体时，它可以引起组织损伤，并对细胞和基因造成破坏。
+3. 伽马辐射（Gamma Radiation）：伽马辐射是高能量电磁波，具有极强的穿透能力。它可以穿透物体和组织，甚至可以穿透几米的混凝土或数厘米的铅。伽马辐射对人体组织有很高的穿透力，因此对人体的辐射危害最大。
+4. 中子辐射（Neutron Radiation）：中子辐射由中子组成，没有电荷，因此穿透能力非常强。中子辐射可以与原子核相互作用，引起核反应和核裂变，对物质和生物体产生广泛的影响。它对物质的穿透能力取决于中子的能量。
 
-这些核辐射类型在核能产业、医学放射治疗、科学研究和其他领域中普遍存在。  
-![Screenshot_20230827-003514_Pixel_Launcher](https://i.imgur.com/eWsDHUH.png)
+这些核辐射类型在核能产业、医学放射治疗、科学研究和其他领域中普遍存在。
+![Screenshot_20230827-003514_Pixel_Launcher](https://r2.blog-image.19960312.xyz/eWsDHUH.png)
 ## 放射性活度单位：贝克勒尔
 **贝克勒尔**（法语：**Becquerel**，符号为：**Bq**），简称**贝克**[1](https://zh.wikipedia.org/zh-sg/%E8%B4%9D%E5%85%8B%E5%8B%92%E5%B0%94\#cite_note-1) [2](https://zh.wikipedia.org/zh-sg/%E8%B4%9D%E5%85%8B%E5%8B%92%E5%B0%94#cite_note-2)。是[放射性活度](https://zh.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E6%80%A7%E6%B4%BB%E5%BA%A6)的[国际单位制导出单位](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D%E5%88%B6%E5%AF%BC%E5%87%BA%E5%8D%95%E4%BD%8D)，用于衡量[放射性](https://zh.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E6%80%A7)物质或**放射源**的计量单位[3](https://zh.wikipedia.org/zh-sg/%E8%B4%9D%E5%85%8B%E5%8B%92%E5%B0%94#cite_note-%E6%96%B0-3)。贝克勒尔的[国际单位制](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D%E5%88%B6)量纲为[s-1]，同[频率](https://zh.wikipedia.org/wiki/%E9%A2%91%E7%8E%87)单位[赫兹](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%B9)相同，但意义完全不一样。一定量的放射性核素，若每秒有一个[原子](https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%AD%90)[衰变](https://zh.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E6%80%A7%E8%A1%B0%E8%AE%8A)，其放射性活度即为1贝克，例如，一克的[镭](https://zh.wikipedia.org/wiki/%E9%95%AD)-226放射性活度有3.7×10^10Bq。这是个相当庞大的数值，因此常用千贝克（kBq）甚至百万贝克（MBq）来表示[3](https://zh.wikipedia.org/zh-sg/%E8%B4%9D%E5%85%8B%E5%8B%92%E5%B0%94#cite_note-%E6%96%B0-3)。 放射性射线对人体具有危害，毫无防护下长期接触放射物质，会使健康受到严重损害[4](https://zh.wikipedia.org/zh-sg/%E8%B4%9D%E5%85%8B%E5%8B%92%E5%B0%94#cite_note-%E6%98%9F-4)。
 
@@ -37,24 +37,24 @@ authors: [xigou]
 
 **地球上普通人受到的累计辐射平均值为每年2.4毫希沃特**（mSv，即2.4 (mSv/[a](https://zh.wikipedia.org/wiki/%E5%B9%B4))÷365÷24 = 0.274 (µSv/[h](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%99%82))），其中[氡](https://zh.wikipedia.org/wiki/%E6%B0%A1)为1.2毫希沃特，[宇宙射线](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E5%B0%84%E7%B7%9A)为0.4毫希沃特，大地本底辐射为0.5毫希沃特，食物中摄入0.3毫希沃特。
 
-> [!info] 西弗  
-> 希沃特（英語：sievert，符號：Sv；又称西弗，简称希）。是一个用来衡量輻射劑量对生物组织的影響程度的国际单位制导出单位，为受辐射等效生物当量的单位&\#91;1&\#93;。  
-> [https://zh.wikipedia.org/wiki/西弗](https://zh.wikipedia.org/wiki/西弗)  
+> [!info] 西弗
+> 希沃特（英語：sievert，符號：Sv；又称西弗，简称希）。是一个用来衡量輻射劑量对生物组织的影響程度的国际单位制导出单位，为受辐射等效生物当量的单位&\#91;1&\#93;。
+> [https://zh.wikipedia.org/wiki/西弗](https://zh.wikipedia.org/wiki/西弗)
 ## 贝克和西弗之间的关系
 
 辐射可以类比于手电筒发出的光，贝克计量的是手电筒的光照强度，西弗计量的是人收到的光的强度。贝克和西弗之间的关系要考虑人接受辐射的具体条件，如果你旁边有一克的[镭](https://zh.wikipedia.org/wiki/%E9%95%AD)-226，放射性活度有3.7×10^10Bq，但是你生活在一个屏蔽罩内，那么你接收到的辐射当量就是0，因为辐射没有对你的身体造成影响。
 
-![Screenshot_20230827-003902_Pixel_Launcher](https://i.imgur.com/o2Wuvy5.png)
+![Screenshot_20230827-003902_Pixel_Launcher](https://r2.blog-image.19960312.xyz/o2Wuvy5.png)
 所以在制定核电站排放污水标准的时候，需要度量的是排放的放射物质的总量，使用的单位是贝克，由于贝克是一个非常小的单位，他代表一秒钟只有一个原子衰变，而水的摩尔质量=18g/mol，水又由三个原子组成，所以6克的水大约就有6.02×10^23个原子。所以贝克在使用的时候比较常用的是更大的单位百万贝克和兆贝克，这里需要特别注意的是兆贝克这个单位比较容易混淆，在港澳台日的常用翻译当中，兆指的是万亿而不是而不是我们翻译当中熟悉的百万。
 
 # 福岛核污水形成过程
 
-![Screenshot_20230827-010628_Pixel_Launcher](https://i.imgur.com/hEuOeQC.png)
+![Screenshot_20230827-010628_Pixel_Launcher](https://r2.blog-image.19960312.xyz/hEuOeQC.png)
 
 福岛核电站是沸水堆，上图为一个沸水的主要结构，这图中红色部分的液体称为燃料冷却剂，会在核反应堆内部被加热成为蒸汽，同时也会与核燃料进行直接接触，当核电站正常运行的时候这部分水是在一个封闭系统内循环使用，随着反应的进行这部分水的放射物质会积累，所以核电站会定期更换这些水，这个更换周期一般是月份为单位。在核电站正常运行的时候，这部分水被更换出来以后可以进行净化处理以后排放到环境，也可以净化处理以后重新作为冷却水使用。但是在核电站正常运行的时候，这部分的水量应该是非常小的，真正占排放主流的是13号所指的二级冷却水，它和核燃料并不直接接触，理论上不应该含有任何的放射性物质，但实际运行当中有可能会含有，所以这部分水一般会在监测合格的情况下排放。
 
 而福岛核电站当中部分反应堆被炸毁，堆芯出现熔毁，东电直接将海水注入堆芯冷却反应堆，所以形成了现在的100多万吨核废水，这些废水可以简单理解为核燃料棒的洗澡水，就像大家想的那么恐怖。
-  
+
 # ALPS （多核素去除系统）运作原理
 这种废水里面主要含有62种放射性元素和氚，日本开发了ALPS系统对这些水进行处理，处理结果是讲60多种放射性元素的放射性浓度都降到了放射性废物排放标准以下。但是氚没有办法去除，是否经过这个装置的处理，对氚的含量没有丝毫改变，这个就是为什么要把氚单独拿出来说的原因。
 
@@ -67,11 +67,11 @@ authors: [xigou]
 下面这个官方文件公布了处理前后的核废水当中每一种放射性元素的放射性浓度，在处理之后除了氚之外所有元素都达到了标准值以下，也就是说如果没有氚，这些处理过后的水完全可以正常排放到环境当中（虽然浓度达标，但是也要控制总量）。
 
 通过下面图表可以看到，氚的标准浓度是6万贝克每升，而这些废水当中的浓度却达到了10万到1,000万之间最坏的情况超出接近百倍。
-![Screenshot_20230827-015211_Microsoft_365_(Office)](https://i.imgur.com/RIq4KPu.png)
+![Screenshot_20230827-015211_Microsoft_365_(Office)](https://r2.blog-image.19960312.xyz/RIq4KPu.png)
 
-> [!info]  
->  
-> [https://www.tepco.co.jp/en/decommission/progress/watertreatment/images/exit_en.pdf](https://www.tepco.co.jp/en/decommission/progress/watertreatment/images/exit_en.pdf)  
+> [!info]
+>
+> [https://www.tepco.co.jp/en/decommission/progress/watertreatment/images/exit_en.pdf](https://www.tepco.co.jp/en/decommission/progress/watertreatment/images/exit_en.pdf)
 
 
 这个文件详细介绍了氚的性质，其中有一个重要的性质，就是氚的衰变本身只会产生贝塔射线（电子流），它的穿透性无法穿过一层金属，所以不存在体外的伤害，也就是你端着一杯超标的含氚水并不会对你造成任何的辐射伤害，只有将它喝进去才会造成伤害。
@@ -80,57 +80,57 @@ authors: [xigou]
 
 因为氚实在是无法处理，而伤害性又较低，所以选择了用水稀释以后排放，这个稀释行为并不是某些自媒体解释的换汤不换药，浓度高和浓度低是完全不同的概念，假设政府允许我每年排放一吨盐到大海里，我将它兑成生理盐水，扔在大海里，这个是对大海毫无伤害的，但我如果制造一块巨大的盐让他在海里飘来飘去，他每飘到一个地方就会把周围的鱼都咸死，这样是会有非常大的伤害的。
 
-> [!info] ALPS的原理是什么？ - 知乎  
-> 我们知道，日本福岛核电站事故后，为了处理核废水建立了ALPS系统。查了很多资料，包括东电提供的和IAEA提…  
-> [https://www.zhihu.com/question/615594878](https://www.zhihu.com/question/615594878)  
+> [!info] ALPS的原理是什么？ - 知乎
+> 我们知道，日本福岛核电站事故后，为了处理核废水建立了ALPS系统。查了很多资料，包括东电提供的和IAEA提…
+> [https://www.zhihu.com/question/615594878](https://www.zhihu.com/question/615594878)
 
 
 # 排放计划定量分析
 下面这个文档当中计算目前所有核废水当中的氚的总量，最重要的数据如下图，估算目前。平均的氚浓度为620000贝克每升，超过标准值10倍以上，总共的放射性活度为780trillion （10^12，港澳台日翻译为兆）贝克，大约相当于15克纯的氚水。
-  
-![Screenshot_20230827-021020_Pixel_Launcher](https://i.imgur.com/8fuh6nD.png)
+
+![Screenshot_20230827-021020_Pixel_Launcher](https://r2.blog-image.19960312.xyz/8fuh6nD.png)
 [20210427.pdf#page=4](https://www.tepco.co.jp/en/decommission/progress/watertreatment/images/20210427.pdf#page=4)
 
 日本目前的排放计划是每年22trillion 贝克，大约三四十年可以排完，因为这个储量是动态的，每一天会有新的含氚废水产生，同时氚本身也会衰变，氚的半衰期是13年，真的等到40年以后现存的氚会衰变成为现在的八分之一, 所以这个三四十年的排放计划平均下来是可以满足每年的排放标准的。
 那这个标准到底是高还是低，我们可以参考其他核电站的正常运转时的排放标准，根据中国政府的官方文件，大亚湾核电站的液态氚年排放上限为225trillion 贝克，当然，目前大亚湾核电站并没有按照最高标准排放：
 
-> [!info] 关于大亚湾核电基地六台机组放射性流出物年排放量限值的批复  
->  
-> [https://www.mee.gov.cn/gkml/sthjbgw/haq/201707/t20170717_417967.htm](https://www.mee.gov.cn/gkml/sthjbgw/haq/201707/t20170717_417967.htm)  
+> [!info] 关于大亚湾核电基地六台机组放射性流出物年排放量限值的批复
+>
+> [https://www.mee.gov.cn/gkml/sthjbgw/haq/201707/t20170717_417967.htm](https://www.mee.gov.cn/gkml/sthjbgw/haq/201707/t20170717_417967.htm)
 - 根据与大亚没核电厂合营的香港核电投资公司数据显示，过去十年，大亚湾核电站的液态氚排放量平均为上限的20%，即是约49.5兆贝克。(单位是港澳台翻译, 相当于trillion Bq)
 
 所以每年排放22trillion贝克这个标准只要能够满足的话，实际上它的排放和正常运转的核电站是差不多的。
-  
+
 这里必须要严重吐槽一下东电20210427这个文件，这个文件当中引用2019年的一部分实测数据和估计数据，在估计数据当中，83万立方米的水只含5.6million 贝克，但是看到后面的汇总数据，可以看到他是把单位trillion错写成了million， 同时下面给出了注解，这个值在后来已经被修正成了860trillion贝克。
 
 这里可以反映出东电的测量误差并不小，同时工作并不严谨，这是一个非常大的风险。
-![Screenshot_20230827-021910_Microsoft_365_(Office)](https://i.imgur.com/lEONaWw.png)
+![Screenshot_20230827-021910_Microsoft_365_(Office)](https://r2.blog-image.19960312.xyz/lEONaWw.png)
 
 下面的网页当中有非常详细的一些争议问题的回应，比如说为什么不把废水采用大气排放或者地下储存/原地储存等其他方式处理。
 
-> [!info] 处理水相关Q＆A（最新版）  
-> Back to List  
-> [https://www.cn.emb-japan.go.jp/itpr_zh/00_000485_00225.html](https://www.cn.emb-japan.go.jp/itpr_zh/00_000485_00225.html)  
+> [!info] 处理水相关Q＆A（最新版）
+> Back to List
+> [https://www.cn.emb-japan.go.jp/itpr_zh/00_000485_00225.html](https://www.cn.emb-japan.go.jp/itpr_zh/00_000485_00225.html)
 
 
 虽然说了很多，但是我认为最关键的问题是两个，第1个就是为什么必须要处理这些水，而不是放在那里不动? 最主要原因是，目前场地已经无法容纳更多废水，但是冷却核反应堆的工作仍在进行，还会源源不断的产生更多废水，如果没有一个良性的处理机制，总有一天这些水无法再储藏，就只能停止冷却，等待核燃料发生更严重的泄漏。
 
 第2个就是为什么排进海里？我想这其中最重要的就是经济原因，排进海里是最省钱的方案。但这个方案已经受到了国际原子能专家的评审，同时后续所有的排放过程都会受到国际原子能机构的监督，我想应该是可以接受的。
-  
+
 # 风险
 东京电力公司完全有动机隐瞒实际情况，超量超标排放核污水，应该有非常严苛的标准关注和监督他的排放情况。
 
-> [!info]  
->  
-> [https://www.iaea.org/sites/default/files/iaea_comprehensive_alps_report.pdf](https://www.iaea.org/sites/default/files/iaea_comprehensive_alps_report.pdf)  
+> [!info]
+>
+> [https://www.iaea.org/sites/default/files/iaea_comprehensive_alps_report.pdf](https://www.iaea.org/sites/default/files/iaea_comprehensive_alps_report.pdf)
 
-> [!info] Q＆A | 東京電力  
-> “处理水”与“污染水”性质完全不同。  
-> [https://www.tepco.co.jp/zh-cn/decommission/progress/watertreatment/faq/index-cn.html](https://www.tepco.co.jp/zh-cn/decommission/progress/watertreatment/faq/index-cn.html)  
+> [!info] Q＆A | 東京電力
+> “处理水”与“污染水”性质完全不同。
+> [https://www.tepco.co.jp/zh-cn/decommission/progress/watertreatment/faq/index-cn.html](https://www.tepco.co.jp/zh-cn/decommission/progress/watertreatment/faq/index-cn.html)
 
-> [!info]  
->  
-> [https://www-pub.iaea.org/MTCD/Publications/PDF/P1419C_web.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/P1419C_web.pdf)  
+> [!info]
+>
+> [https://www-pub.iaea.org/MTCD/Publications/PDF/P1419C_web.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/P1419C_web.pdf)
 # 个人感受
 ## 我们是否应该为防辐射做准备？
 完全不需要。

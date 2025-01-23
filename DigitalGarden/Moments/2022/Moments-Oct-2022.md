@@ -7,10 +7,10 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 ## October 29, 2022
 
-![PXL_20221029_124301022](https://i.imgur.com/3RW9YXH.jpg)
-![PXL_20221029_113014069](https://i.imgur.com/2BERmZr.jpg)
-![PXL_20221029_113643716](https://i.imgur.com/HCnn2jX.jpg)
-![PXL_20221029_111117603](https://i.imgur.com/dz5zOG3.jpg)
+![PXL_20221029_124301022](https://r2.blog-image.19960312.xyz/3RW9YXH.jpg)
+![PXL_20221029_113014069](https://r2.blog-image.19960312.xyz/2BERmZr.jpg)
+![PXL_20221029_113643716](https://r2.blog-image.19960312.xyz/HCnn2jX.jpg)
+![PXL_20221029_111117603](https://r2.blog-image.19960312.xyz/dz5zOG3.jpg)
 
 ---
 
@@ -18,7 +18,7 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 很难蚌得住，俺跟余华一样
 
-![FgMn6BDUYAABaxx](https://i.imgur.com/JUrpkxI.jpg)
+![FgMn6BDUYAABaxx](https://r2.blog-image.19960312.xyz/JUrpkxI.jpg)
 
 ---
 
@@ -28,10 +28,10 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 ---
 
-## October 23, 2022    
-很难蚌住😅    
+## October 23, 2022
+很难蚌住😅
 
-![北京健康宝纪念塔](https://i.imgur.com/tFFMfHA.png)
+![北京健康宝纪念塔](https://r2.blog-image.19960312.xyz/tFFMfHA.png)
 
 ---
 
@@ -39,7 +39,7 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 所有赛里斯人都和我的冰箱一样：完蛋了
 
-![PXL_20221015_231644215](https://i.imgur.com/GYIHyTj.jpg)
+![PXL_20221015_231644215](https://r2.blog-image.19960312.xyz/GYIHyTj.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 ## October 21, 2022
 
-![image-1666316695099.jpg6962469264063501524](https://i.imgur.com/cdFxt9W.jpg)
+![image-1666316695099.jpg6962469264063501524](https://r2.blog-image.19960312.xyz/cdFxt9W.jpg)
 
 ---
 
@@ -63,17 +63,17 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 ## October 19, 2022
 
-![FfQdws5aUAATIQG](https://i.imgur.com/CGJTctd.jpg)
+![FfQdws5aUAATIQG](https://r2.blog-image.19960312.xyz/CGJTctd.jpg)
 
 ---
 
 ## October 22, 2022
 
-袁腾飞回忆文革时期电影院的全部内容：  
+袁腾飞回忆文革时期电影院的全部内容：
 
-八个样板戏，外加一个西游记  
+八个样板戏，外加一个西游记
 
-样板戏，老三战，西哈努克到处转  
-  
-某天报纸上登了这样一条消息：“西哈努克亲王八日到京，外交部长姬鹏飞到机场迎接，国务院副总理陈永贵在人民大会堂会见。”结果，在某单位政治学习时被读成：“西哈努克亲，王八日到京。外交部长姬鹏，飞到机场迎接。国务院副总理陈永，贵（跪）在人民大会堂会见。”  
-  
+样板戏，老三战，西哈努克到处转
+
+某天报纸上登了这样一条消息：“西哈努克亲王八日到京，外交部长姬鹏飞到机场迎接，国务院副总理陈永贵在人民大会堂会见。”结果，在某单位政治学习时被读成：“西哈努克亲，王八日到京。外交部长姬鹏，飞到机场迎接。国务院副总理陈永，贵（跪）在人民大会堂会见。”
+

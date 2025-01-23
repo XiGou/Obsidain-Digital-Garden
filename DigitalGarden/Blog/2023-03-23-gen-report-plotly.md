@@ -9,7 +9,7 @@ authors: [xigou]
 ---
 
 > Someone said: the best way to write a blog is not just describe waht you did, but how you resolve a problem, to record how do you think about that at that moment.
-> 
+>
 
 > I agree with this.
 
@@ -54,7 +54,7 @@ class ReportData:
     bar_chart_data = []
 
 class ReportGenerator:
-  
+
     def __init__(self, report_data, report_filename):
         self._report_data = report_data
         self._report_filename = report_filename
@@ -111,7 +111,7 @@ clean:
 
 ## Implement the Core Function
 
-To make the post more clear, I will just put some code snipets to demostrate the core structure of the implementation, full version of code can be accessed at github repo: 
+To make the post more clear, I will just put some code snipets to demostrate the core structure of the implementation, full version of code can be accessed at github repo:
 
 [https://github.com/XiGou/plotly_gen_offline_report](https://github.com/XiGou/plotly_gen_offline_report)
 
@@ -205,4 +205,4 @@ def gen_report_html_str(self):
 
 It looks morden, elegant, and it is interative.
 
-![Web capture_14-4-2023_05713_192.168.75.183.jpeg](https://imgur.com/rxpfH1h.jpeg)
+![Web capture_14-4-2023_05713_192.168.75.183.jpeg](https://r2.blog-image.19960312.xyz/rxpfH1h.jpeg)

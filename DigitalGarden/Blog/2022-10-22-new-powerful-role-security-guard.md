@@ -11,7 +11,7 @@ authors: [xigou]
 一位红遍中国互联网的青年保安陈义曾经说过：如果 2019 年你还没有从事保安，那你就真的 out 了！这句话从陈义那表情夸张的脸上的口中说出来有一股自嘲的味道，但是在今天这个时间复述这句话，却是意味深长而又富有远见的观点.
 <!-- more -->
 <!--truncate-->
-![Imgur](https://imgur.com/MQIcqBp.jpg)
+![Imgur](https://r2.blog-image.19960312.xyz/MQIcqBp.jpg)
 [青年保安陈义发表对职业的见解](https://youtu.be/1hX4QdwiFBI)
 
 # 人口密集的大城市：权力的真空

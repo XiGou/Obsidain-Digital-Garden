@@ -88,15 +88,15 @@ From [四川地区”写袱子“习俗 - 知乎](https://zhuanlan.zhihu.com/p/3
 
 列举几个常用的格式图片，方便大家依照各地方习俗选用。
 
-![Imgur](https://i.imgur.com/WyWEtyd.png)
+![Imgur](https://r2.blog-image.19960312.xyz/WyWEtyd.png)
 
-![Imgur](https://i.imgur.com/hdcmyQe.jpg)
+![Imgur](https://r2.blog-image.19960312.xyz/hdcmyQe.jpg)
 
-![Imgur](https://i.imgur.com/Sf9ZjeS.jpg)
+![Imgur](https://r2.blog-image.19960312.xyz/Sf9ZjeS.jpg)
 
-![Imgur](https://i.imgur.com/0uqW3fd.jpg)
+![Imgur](https://r2.blog-image.19960312.xyz/0uqW3fd.jpg)
 
-![Imgur](https://i.imgur.com/emH2Os8.jpg)
+![Imgur](https://r2.blog-image.19960312.xyz/emH2Os8.jpg)
 
 ---
 # 原文地址:“_袱包_”_的写法_--农村乡党应酬之(一)

@@ -14,7 +14,7 @@ authors:
 <!-- more -->
 <!--truncate-->
 
-![220px-Simone_de_Beauvoir_&_Jean-Paul_Sartre_in_Beijing_1955.jpg](https://imgur.com/jKVYO7U.jpg)
+![220px-Simone_de_Beauvoir_&_Jean-Paul_Sartre_in_Beijing_1955.jpg](https://r2.blog-image.19960312.xyz/jKVYO7U.jpg)
 
 波伏娃最出名的八卦事件，就是她与萨特的开放关系，没有阅读波伏娃的著作之前，我就已经主观地对这段关系下了定论：萨特是法国富裕家庭的独子，同时也是存在主义哲学家，一个富有而有智慧的男人，没有女人会不喜欢他。而萨特患有眼疾，长相略显丑陋，波伏娃也和现在的那些颜控女孩一样因此拒绝与他结婚。读完了她的著作之后，再看我这个想法实在是过于幼稚。
 
