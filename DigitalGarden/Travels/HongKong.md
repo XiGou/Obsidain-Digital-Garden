@@ -13,3 +13,7 @@ title: "HongKong"
 [香港Citywalk-深圳湾口岸-坚尼地城新海旁-庙街 - YouTube](https://www.youtube.com/watch?v=Qj_seYVj1i4)
 
 [二零二四年七月六号下午六点之前的一分钟，你同我一起 - YouTube](https://youtu.be/_ToRHWpDKpM)
+
+[香港麦理浩径第1-2段 | MacLehose Trail Sections 1-2 in Hong Kong - YouTube](https://www.youtube.com/watch?v=h1xJNrYjloM&t=2s)
+
+[香港尖沙咀地道街头演出: 座右铭-吴雨霏 @m\_iffy.c #HK - YouTube](https://www.youtube.com/watch?v=5-k64f8mbKE)
