@@ -3,9 +3,9 @@ title: How Etcd IO Looks Like?
 authors:
   - xigou
 tags:
-  - "Software"
-  - "Dev"
-date: 2025-01-02 23:14:31 +0800
+  - Software
+  - Dev
+date: 2025-03-07 23:14:31 +0800
 ---
 
 Recently I am working with an issue that complains about `etcd` WAL fsync met high P99 Latency.
