@@ -55,11 +55,6 @@ jobs:
         run: |
           git commit -m "auto sync from ${{ secrets.REMOTE_SERVER_IP_OR_HOST }}:${{ secrets.REMOTE_SOURCE_PATH }}"
 
-      - name: Force Push Branch
-        if: steps.check_changes.outputs.has_changes == 'true'
-        run: |
-          git push -f origin HEAD:auto-pr
-
       - name: Create Pull Request
         if: steps.check_changes.outputs.has_changes == 'true'
         uses: peter-evans/create-pull-request@v5
