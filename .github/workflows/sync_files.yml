@@ -58,7 +58,7 @@ jobs:
       - name: Force Push Branch
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          git push -f origin auto-pr
+          git push -f origin HEAD:auto-pr
 
       - name: Create Pull Request
         if: steps.check_changes.outputs.has_changes == 'true'
