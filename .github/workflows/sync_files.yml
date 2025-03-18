@@ -1,0 +1,66 @@
+name: Sync Files from Server
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 每天 UTC 时间 0 点运行 (可以根据需要调整)
+  workflow_dispatch: # 允许手动触发 workflow
+
+jobs:
+  sync_and_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install rsync and ssh
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y rsync openssh-client
+
+      - name: Set up SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 400 ~/.ssh/id_rsa
+          ssh-keyscan ${{ secrets.REMOTE_SERVER_IP_OR_HOST }} >> ~/.ssh/known_hosts
+          chmod 644 ~/.ssh/known_hosts
+
+      - name: Sync files from remote server
+        env:
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          REMOTE_SERVER_IP_OR_HOST: ${{ secrets.REMOTE_SERVER_IP_OR_HOST }}
+          REMOTE_SOURCE_PATH: ${{ secrets.REMOTE_SOURCE_PATH }}
+          LOCAL_DESTINATION_PATH: . # 同步到当前 repo 根目录，可以修改
+        run: |
+          rsync -avz -e "ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa" \
+            "$REMOTE_USER@$REMOTE_SERVER_IP_OR_HOST:$REMOTE_SOURCE_PATH/" \
+            "$LOCAL_DESTINATION_PATH"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.name "${{ github.actor }}"
+          git add .
+          git status --porcelain
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "::set-output name=has_changes::false"
+            echo "No changes detected."
+          else
+            echo "::set-output name=has_changes::true"
+          fi
+
+      - name: Commit changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git commit -m "自动同步文件 from ${{ secrets.REMOTE_SERVER_IP_OR_HOST }}:${{ secrets.REMOTE_SOURCE_PATH }}"
+
+      - name: Create Pull Request
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: sync-files-from-server # PR 的目标分支，可以修改
+          title: "自动同步文件 from Server"
+          body: "自动同步来自服务器的文件更新。"
+          commit-message: "chore: 自动同步文件"
