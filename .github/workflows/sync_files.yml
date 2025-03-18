@@ -32,8 +32,8 @@ jobs:
           REMOTE_SOURCE_PATH: ${{ secrets.REMOTE_SOURCE_PATH }}
           LOCAL_DESTINATION_PATH: . # 同步到当前 repo 根目录，可以修改
         run: |
-          rsync -avz -e "ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa" \
-            "$REMOTE_USER@$REMOTE_SERVER_IP_OR_HOST:$REMOTE_SOURCE_PATH/" \
+          rsync -avz --delete -e "ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa" \
+            "$REMOTE_USER@$REMOTE_SERVER_IP_OR_HOST:$REMOTE_SOURCE_PATH" \
             "$LOCAL_DESTINATION_PATH"
 
       - name: Check for changes
