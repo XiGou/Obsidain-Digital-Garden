@@ -15,7 +15,7 @@ Then a question appeared on my head: How the IO of etcd looks like? Is it unfrie
 <!-- more -->
 <!--truncate-->
 
-Then I used the biosnoop in (bcc-tools)[https://github.com/iovisor/bcc], and recorded the IO of etcd about one hour.
+Then I used the biosnoop in [bcc-tools](https://github.com/iovisor/bcc) to recorded the IO of etcd about one hour.
 
 That is the result:
 - most IO size are 4KB aligned;  
