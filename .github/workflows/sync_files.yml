@@ -60,7 +60,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: sync-files-from-server # PR 的目标分支，可以修改
+          branch: master # PR 的目标分支，可以修改
           title: "自动同步文件 from Server"
           body: "自动同步来自服务器的文件更新。"
           commit-message: "chore: 自动同步文件"
