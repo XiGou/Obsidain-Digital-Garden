@@ -2,7 +2,7 @@ name: Sync Files from Server
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # 每天 UTC 时间 0 点运行 (可以根据需要调整)
+    - cron: '0 0 1 * *'  # At 00:00 on day-of-month 1.
   workflow_dispatch: # 允许手动触发 workflow
 
 jobs:
@@ -61,6 +61,6 @@ jobs:
         with:
           token: ${{ secrets._PERSONAL_ACCESS_TOKEN }}
           branch: auto-pr # PR 的目标分支，可以修改
-          title: "自动同步文件 from Server"
-          body: "自动同步来自服务器的文件更新。"
-          commit-message: "chore: 自动同步文件"
+          title: "auto sync from Server"
+          body: "auto"
+          commit-message: "chore: auto sync from Server"
