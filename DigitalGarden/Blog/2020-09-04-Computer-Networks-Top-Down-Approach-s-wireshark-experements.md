@@ -28,7 +28,7 @@ So I decide to do a wireshark homework in this weekend.
 Need to know more, just go to reference[<sup>1</sup>](#refer-anchor-1).
 ## HTTP
 ### The Basic HTTP GET/response interaction
-What I did:
+What I did:  
 Open Microsoft Edge browser and open this url:  [http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html).
 
 Captured packets:
@@ -38,7 +38,7 @@ Captured packets:
 | "370872" | "899.553481" | "192.168.1.3"    | "128.119.245.12" | "HTTP"     | "581"    | "GET /wireshark-labs/HTTP-wireshark-file1.html HTTP/1.1 " |
 | "372140" | "899.824395" | "128.119.245.12" | "192.168.1.3"    | "HTTP"     | "540"    | "HTTP/1.1 200 OK  (text/html)"                            |
 
-Detail of packets:
+Detail of packets:  
 Request:
 
 ```
@@ -96,31 +96,31 @@ Line-based text data: text/html (4 lines)
 ```
 
 Q&As:
-1.	Is your browser running HTTP version 1.0, 1.1, or 2?  What version of HTTP is the server running?
+1.	Is your browser running HTTP version 1.0, 1.1, or 2?  What version of HTTP is the server running?  
 From the header of request packet, I can see the HTTP version of my browser and server are both HTTP/1.1.
 
-2.	What languages (if any) does your browser indicate that it can accept to the server?
+2.	What languages (if any) does your browser indicate that it can accept to the server?  
 It is in the "Accept-Language" of the request packet.
 
-3.	What is the IP address of your computer?  What is the IP address of the gaia.cs.umass.edu server?
+3.	What is the IP address of your computer?  What is the IP address of the gaia.cs.umass.edu server?  
 The Internet Protocal layer indicates my IP(Src) is 192.168.1.3, IP of gaia.cs.umass.edu server(Dst) is 128.119.245.12.
 
-4.	What is the status code returned from the server to your browser?
+4.	What is the status code returned from the server to your browser?  
 200 OK.
 
-5.	When was the HTML file that you are retrieving last modified at the server?
+5.	When was the HTML file that you are retrieving last modified at the server?  
 Last-Modified: Sun, 05 Sep 2021 05:59:01 GMT\r\n
 
-6.	How many bytes of content are being returned to your browser?
+6.	How many bytes of content are being returned to your browser?  
 540 bytes.
 
-7.	By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window?  If so, name one.
+7.	By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window?  If so, name one.  
 Content-Length.
 
 ### The HTTP CONDITIONAL GET/response interaction
 Operations:
-- Enter the following URL into your browser
-[http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file2.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file2.html)
+- Enter the following URL into your browser  
+[http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file2.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file2.html)  
 Your browser should display a very simple five-line HTML file. 
 - Quickly enter the same URL into your browser again (or simply select the refresh button on your browser)
 
@@ -241,24 +241,24 @@ Hypertext Transfer Protocol
     [Request URI: http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file2.html]
 ```
 
-Q&As:
-8.	Inspect the contents of the first HTTP GET request from your browser to the server.  Do you see an “IF-MODIFIED-SINCE” line in the HTTP GET?
+Q&As:  
+8.	Inspect the contents of the first HTTP GET request from your browser to the server.  Do you see an “IF-MODIFIED-SINCE” line in the HTTP GET?  
 No.
 
-9.	Inspect the contents of the server response. Did the server explicitly return the contents of the file?   How can you tell?
+9.	Inspect the contents of the server response. Did the server explicitly return the contents of the file?   How can you tell?  
 Yes, in the File Data field of the response packet.
 
-10.	Now inspect the contents of the second HTTP GET request from your browser to the server.  Do you see an “IF-MODIFIED-SINCE:” line in the HTTP GET ? If so, what information follows the “IF-MODIFIED-SINCE:” header?
+10.	Now inspect the contents of the second HTTP GET request from your browser to the server.  Do you see an “IF-MODIFIED-SINCE:” line in the HTTP GET ? If so, what information follows the “IF-MODIFIED-SINCE:” header?  
 Yes,  "If-Modified-Since: Sun, 05 Sep 2021 05:59:01 GMT\r\n".
 
-11.	What is the HTTP status code and phrase returned from the server in response to this second HTTP GET?  Did the server explicitly return the contents of the file?   Explain.
+11.	What is the HTTP status code and phrase returned from the server in response to this second HTTP GET?  Did the server explicitly return the contents of the file?   Explain.  
 Status code is 304(Not Modified), server didn't return the contents of the file explicitly,  because the browser keep a copy of this file last modified at  "Sun, 05 Sep 2021 05:59:01 GMT", and put this timestamp in “IF-MODIFIED-SINCE:” header field to inform the server no need to return the file didn't modified after the timestamp.
 
 ### Retrieving Long Documents
 
 Operations:
-- Enter the following URL into your browser
-[http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html)
+- Enter the following URL into your browser  
+[http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html)  
 Your browser should display the rather lengthy US Bill of Rights.
 
 Packets Captured:
@@ -339,13 +339,13 @@ Line-based text data: text/html (98 lines)
 
 Q&As:
 
-12.	How many HTTP GET request messages did your browser send?  Which packet number in the trace contains the GET message for the Bill or Rights?
+12.	How many HTTP GET request messages did your browser send?  Which packet number in the trace contains the GET message for the Bill or Rights?  
 Only one, packet 146.
 
-13.	Which packet number in the trace contains the status code and phrase associated with the response to the HTTP GET request?
+13.	Which packet number in the trace contains the status code and phrase associated with the response to the HTTP GET request?  
 Packet 176.
 
-14.	What is the status code and phrase in the response?
+14.	What is the status code and phrase in the response?  
 200(OK).
 
 15.	How many data-containing TCP segments were needed to carry the single HTTP response and the text of the Bill of Rights?
@@ -354,8 +354,8 @@ Packet 176.
 ###  HTML Documents with Embedded Objects
 
 Operations:
-- Enter the following URL into your browser
-[http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html)
+- Enter the following URL into your browser  
+[http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html](http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html)  
 Your browser should display a short HTML file with two images. These two images are referenced in the base HTML file.  That is, the images themselves are not contained in the HTML; instead the URLs for the images are contained in the downloaded HTML file. As discussed in the textbook, your browser will have to retrieve these logos from the indicated web sites.   Our publisher’s logo is retrieved from the gaia.cs.umass.edu web site.   The image of our 8th edition cover (one of our favorite covers) is stored at a server in France. 
 
 Packets Captured:
@@ -369,14 +369,14 @@ Packets Captured:
 | "55"  | "2.609925" | "128.119.245.12" | "192.168.1.3"    | "HTTP"     | "841"    | "HTTP/1.1 200 OK  (PNG)"                                  |
 | "58"  | "2.695694" | "178.79.137.164" | "192.168.1.3"    | "HTTP"     | "225"    | "HTTP/1.1 301 Moved Permanently "                         |
 
-Packets Details:
+Packets Details:  
 ...
 
-Q&As:
-16.	How many HTTP GET request messages did your browser send?  To which Internet addresses were these GET requests sent?
+Q&As:  
+16.	How many HTTP GET request messages did your browser send?  To which Internet addresses were these GET requests sent?  
 Totally 3 GET requests, 2 to 128.119.245.12 to get html file and pearson.png, 1 to 178.79.137.164 for the 8E_cover_small.jpg.
 
-17.	Can you tell whether your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel?  Explain.
+17.	Can you tell whether your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel?  Explain.  
 In parallel.
 
 ```mermaid
@@ -392,8 +392,8 @@ sequenceDiagram
 ### HTTP Authentication
 
 Operations:
-- Enter the following URL into your browser
-http://gaia.cs.umass.edu/wireshark-labs/protected_pages/HTTP-wireshark-file5.html
+- Enter the following URL into your browser  
+http://gaia.cs.umass.edu/wireshark-labs/protected_pages/HTTP-wireshark-file5.html  
 Type the requested user name and password into the pop up box.  The username is “wireshark-students” (without the quotes), and the password is “network” (again, without the quotes).
 
 Packets Captured:
@@ -467,7 +467,7 @@ Q&As:
 
 401 Unauthorized.
 
-19.	When your browser’s sends the HTTP GET message for the second time, what new field is included in the HTTP GET message? 
+19.	When your browser’s sends the HTTP GET message for the second time, what new field is included in the HTTP GET message?  
 Authorization: Basic d2lyZXNoYXJrLXN0dWRlbnRzOm5ldHdvcms=\r\n
 
 ## DNS
@@ -476,7 +476,7 @@ Authorization: Basic d2lyZXNoYXJrLXN0dWRlbnRzOm5ldHdvcms=\r\n
 
 Operations:
 - Clear DNS cache by 'ipconfig' command
-- Open the following URL into your browser
+- Open the following URL into your browser  
 [http://gaia.cs.umass.edu/kurose_ross/index.php](http://gaia.cs.umass.edu/kurose_ross/index.php)
 
 Captured packets:
@@ -558,12 +558,12 @@ fe80::1.
 
 5.	Examine the DNS query message. How many “questions” does this DNS message contain? How many “answers” answers does it contain?
 
-Questions: 1
+Questions: 1  
 Answer RRs: 0
 
 6.	Examine the DNS response message to the initial query message. How many “questions” does this DNS message contain? How many “answers” answers does it contain?
 
-Questions: 1
+Questions: 1  
 Answer RRs: 1
 
 ### Trace DNS from nslookup
@@ -648,7 +648,7 @@ No.
 
 10.	Examine the DNS response message to the query message. How many “questions” does this DNS response message contain? How many “answers”?
 
-Questions: 1
+Questions: 1  
 Answer RRs: 1
 
 ### Trace DNS from nslookup with NS type record
@@ -891,7 +891,7 @@ TCP payload (1448 bytes).
 No.
 
 4.	Consider the TCP segment containing the HTTP “POST” as the first segment in the data transfer part of the TCP connection.  
-•	At what time was the first segment (the one containing the HTTP POST) in the 
+•	At what time was the first segment (the one containing the HTTP POST) in the  
 data-transfer part of the TCP connection sent?  
 
 0.024047s.
@@ -908,7 +908,7 @@ data-transfer part of the TCP connection sent?
 
 [The RTT to ACK the segment was: 0.028628000 seconds]
 
-•	What is the EstimatedRTT value (see Section 3.5.3, in the text) after the ACK for the second data-carrying segment is received? Assume that in making this calculation after the received of the ACK for the second segment, that the initial value of EstimatedRTT is equal to the measured RTT for the first segment, and then is computed using the EstimatedRTT equation on page 242, and a value of $\alpha$ = 0.125.
+•	What is the EstimatedRTT value (see Section 3.5.3, in the text) after the ACK for the second data-carrying segment is received? Assume that in making this calculation after the received of the ACK for the second segment, that the initial value of EstimatedRTT is equal to the measured RTT for the first segment, and then is computed using the EstimatedRTT equation on page 242, and a value of $\alpha$ = 0.125.  
 Note: Wireshark has a nice feature that allows you to plot the RTT for each of the TCP segments sent.  Select a TCP segment in the “listing of captured packets” window that is being sent from the client to the gaia.cs.umass.edu server.  Then select: Statistics->TCP Stream Graph->Round Trip Time Graph.
 
 ```
@@ -1302,7 +1302,7 @@ Transmission Control Protocol, Src Port: 53924, Dst Port: 80, Seq: 1, Ack: 1, Le
 
 2.	At what time  is the corresponding HTTP 200 OK message from the webserver forwarded by the NAT router to the client on the router’s LAN side? 
 
-[Time since first frame in this TCP stream: 0.030672101 seconds]
+[Time since first frame in this TCP stream: 0.030672101 seconds]  
 .
 
 3.	What are the source and destination IP addresses and TCP source and destination ports on the IP datagram carrying this HTTP 200 OK message?
@@ -1318,12 +1318,12 @@ Open the trace file nat-outside-wireshark-trace1-1.pcapng. Note that the time st
 In the nat-outside-wireshark-trace1-1.pcapng trace file, find the HTTP GET message that corresponds to the HTTP GET message that was sent from the client to the 138.76.29.8 server at time t=0.27362245, where t=0.27362245 is the time at which this message was sent, as recorded in the nat-inside-wireshark-trace1-1.pcapng trace file.  
 4.	At what time does this HTTP GET message appear in the nat-outside-wireshark-trace1-1.pcapng trace file? 
 
-[Time since first frame in this TCP stream: 0.027356291 seconds]
+[Time since first frame in this TCP stream: 0.027356291 seconds]  
 .
 
 5.	What are the source and destination IP addresses and TCP source and destination port numbers on the IP datagram carrying this HTTP GET (as recorded in the nat-outside-wireshark-trace1-1.pcapng trace file)? 
 
-Internet Protocol Version 4, Src: 10.0.1.254, Dst: 138.76.29.8
+Internet Protocol Version 4, Src: 10.0.1.254, Dst: 138.76.29.8  
 Transmission Control Protocol, Src Port: 53924, Dst Port: 80, Seq: 1, Ack: 1, Len: 330
 
 6.	Which of these four fields are different than in your answer to question 1 above?
@@ -1342,7 +1342,7 @@ Let’s continue to look at the nat-outside-wireshark-trace1-1.pcapng trace file
 
 9.	At what time does this message appear in the nat-outside-wireshark-trace1-1.pcapng trace file? 
 
-[Time since first frame in this TCP stream: 0.030625966 seconds]
+[Time since first frame in this TCP stream: 0.030625966 seconds]  
 .
 
 10.	What are the source and destination IP addresses and TCP source and destination port numbers on the IP datagram carrying this HTTP reply (“200 OK”) message (as recorded in the nat-outside-wireshark-trace1-1.pcapng trace file)? 

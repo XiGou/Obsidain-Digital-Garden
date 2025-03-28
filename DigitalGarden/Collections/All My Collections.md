@@ -4,8 +4,8 @@ dg-publish: true
 title: All My Collections
 ---
 
-[[SelfHostedServices]]  
-[[Introduce| Bible Reading]]
+[SelfHostedServices](NotClassified/SelfHostedServices.md)  
+[ Bible Reading](BibleReading/Introduce.md)
 
 ## Reddit
-[[The_Most_Common_Life_of_Chinese_Youth_Generation]]
+[The_Most_Common_Life_of_Chinese_Youth_Generation](Reddit/The_Most_Common_Life_of_Chinese_Youth_Generation.md)

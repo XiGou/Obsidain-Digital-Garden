@@ -9,10 +9,8 @@ authors: [xigou]
 ---
 
 > Someone said: the best way to write a blog is not just describe waht you did, but how you resolve a problem, to record how do you think about that at that moment.
->
-
+> 
 > I agree with this.
-
 
 <!-- more -->
 <!--truncate-->

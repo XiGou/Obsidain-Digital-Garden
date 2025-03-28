@@ -4,9 +4,9 @@ image-auto-upload: true
 title: "Travels"
 ---
 
-[[Beijing]]  
-[[Shanghai]]  
-[[Guangzhou]]  
-[[Shenzhen]]  
-[[HongKong]]
+[Beijing](Beijing.md)  
+[Shanghai](Shanghai.md)  
+[Guangzhou](Guangzhou.md)  
+[Shenzhen](Shenzhen.md)  
+[HongKong](HongKong.md)
 

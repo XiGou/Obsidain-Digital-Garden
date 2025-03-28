@@ -14,6 +14,8 @@ omz plugin enable zsh-autosuggestions zsh-syntax-highlighting
 
 ```
 
+## Git
+[[Git]]
 ## ninja
 ## cmake
 ## mold (replace ld)

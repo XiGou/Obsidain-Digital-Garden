@@ -8,10 +8,8 @@ authors: [xigou]
 
 Recently, after called some code review meetings in my daily work, I got interested about code review practice, so I read this excellent article on the weekend. 
 
-
 <!-- more -->
 <!--truncate-->
-
 
 ## Hisroty of code review practice
 
@@ -22,7 +20,6 @@ It's a very  structured process style code review, when developers finished code
 2. Asynchronous review via email
 
 Until the late 2000s, most large OSS projects adopted a form of remote, asynchronous reviews, relying on patches sent to communication channels such as mailing lists and issue tracking systems. So this method broke the limitations of "sitting toghter" and authors don't need to do a presentation to explain the code, instead they should explain the code in the length of one email.
-
 
 3. Tool-based review
 
@@ -49,7 +46,6 @@ This is in line with my daily experience, when fixing bug it very useful to sear
 
 Besides, The most important aim in business view is to grab out the knowledge out of the brain of the developer and make others easy to learn it, this makes every piece of code at least read by 2-3 employee inside organization, when some empolyee leave the organization, negative impact will be small.
 
-
 ### RQ2: What is the practice of code review at Google?
 
 > Finding 3. The Google code review process is aligned with the convergent practice of being lightweight and flexible. In contrast to other studied systems, however, ownership and readability are explicit and play a key role. The review tool includes reviewer recommendation and code analysis result
@@ -58,18 +54,17 @@ The most impressive part for me is: In Google, every code directory has owner(a 
 
 ## Something interesting
 
-> At Google, over 35% of
-the changes under consideration modify only a single file and
-about 90% modify fewer than 10 files. Over 10% of changes
-modify only a single line of code, and the median number of
-lines modified is 24. The median change size is significantly
-lower than reported by Rigby and Bird for companies such as
-AMD (44 lines), Lucent (263 lines), and Bing, Office and SQL
-Server at Microsoft (somewhere between those boundaries),
+> At Google, over 35% of  
+the changes under consideration modify only a single file and  
+about 90% modify fewer than 10 files. Over 10% of changes  
+modify only a single line of code, and the median number of  
+lines modified is 24. The median change size is significantly  
+lower than reported by Rigby and Bird for companies such as  
+AMD (44 lines), Lucent (263 lines), and Bing, Office and SQL  
+Server at Microsoft (somewhere between those boundaries),  
 but in line for change sizes in open source projects.
 
 Even in big and fast-developing company like Google, most of the code modification is "small", when you usually need to change hundreds lines of code, that means something wrong with your company, please start to post your resume as soon as possible. 
-
 
 ## Write at the end
 
@@ -78,5 +73,4 @@ In my team now, I'd rather define the code review process as "Tool-based Code In
 # Refs
 <div id="refer-anchor-1"></div>
 - [1] Caitlin Sadowski, Emma Söderberg, Luke Church, Michal Sipko and Alberto Bacchelli. 2018. Modern Code Review: A Case Study at Google. In Proceedings of 40th International Conference on Software Engineering: Software Engineering in Practice Track, Gothenburg, Sweden, May 27-June 3, 2018 (ICSE-SEIP ’18), 10 pages. DOI: 10.1145/3183519.3183525
-
 

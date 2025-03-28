@@ -9,20 +9,19 @@ tags: [AI]
 authors: [xigou]
 ---
 
-
 最近 AIGC 是技术圈最火热的话题，众多的从业人员基于 ChatGPT、 Midjourney 等当红 AI 应用尝试了众多落地场景，这其中有推特网友尝试证明 ChatGPT 有能力理解 Program Language Virtual Machine 这种愚蠢而抽象的场景；也有利用 AI 训练孙燕姿的声音来让孙燕姿唱《漠河舞厅》这样的土味歌曲，最终引来孙燕姿亲自发文回应对于 AI 的看法这样影响深远的落地场景。
 
 <!-- more -->
 <!--truncate-->
 
-![Screenshot_2023-05-26_at_13.47.38](https://r2.blog-image.19960312.xyz/orxIZ6w.png)
+![Screenshot_2023-05-26_at_13.47.38](https://r2.blog-image.19960312.xyz/orxIZ6w.png)  
 AI Pre/Doc/Webpage 生成软件 gamma 的界面
 
 > 讽刺的是，人类再怎么快也无法超越它。没有人类能够获得如此大量的信息并且在正确的时机做出正确的决策，或者犯下正确的错误（OK，或许我想得有点太远）。这项新技术将能够为每个人提供他们所需要的一切，无论是独立的、扭曲的还是疯狂的，都可能会有一种专门为你创作的独特内容。你并不特别，你已经是可预测的，而且不幸的是，你也是可塑的。
->
+> 
 > 此时此刻，我觉得自己像是一个在吃着爆米花、坐在电影院最好的位置上的观众。（顺便说一句：这种情况下，很可能没有任何技术能预测我本人是什么感受，直到这篇文章出现在网络上）。这就像看那部改变了我们生活的电影《瞬息全宇宙》，有别于电影的是，爱并不是拯救这一切的关键。
->
->
+> 
+> 
 > _from_ 孙燕姿 blog 文章
 
 作为一个关心女权主义的民间社会科学家（民科），我不禁开始思考 AI 在女权主义运动中的落地场景。女权主义在赛里斯的传播有很多形式，有理性的学术文章、也有非理性的咪蒙爽文和小红书贴吧网络大战，但是这些对于女权主义发展的贡献远远比不上一次又一次的米兔事件（[**#MeToo**](https://zh.wikipedia.org/wiki/%EF%BC%83MeToo)（中文：#我也是、#米兔）起源于2017年美国，于2018年1月在中国大陆开始，指的是涉及中国大陆政治界、学术界、公益圈、媒体界、宗教界的著名性侵案件指控）。
@@ -43,36 +42,37 @@ AI Pre/Doc/Webpage 生成软件 gamma 的界面
 ## 案例背景
 本文选取两天前最新发生的案例： [5月23日晚，一位女性发贴称字节跳动前高管金钱琛因强奸、拍摄她的隐私视频并意欲传播，被刑事拘留](https://www.163.com/dy/article/I5GAIDFR0512DMHM.html)，由于事件尚未盖棺定论，本文内容仅作为技术展示，不代表对任何一方的支持。
 ## 使用 ChatGPT 生成事件摘要
-假设受害人已经写好了一篇“小作文”，由于普通人文字功底有限，很可能和这个网易新闻的编辑一样写得比较混乱，充满了无关紧要的信息，首先就要借助 ChatGPT 为小作文生成一篇简单的摘要，便于后续输入其他的 AI 系统。
+假设受害人已经写好了一篇“小作文”，由于普通人文字功底有限，很可能和这个网易新闻的编辑一样写得比较混乱，充满了无关紧要的信息，首先就要借助 ChatGPT 为小作文生成一篇简单的摘要，便于后续输入其他的 AI 系统。  
 ![Screenshot_2023-05-26_at_13.36.34](https://r2.blog-image.19960312.xyz/WgpoVuq.png)
 
 ## 使用 Gamma 自动生成 PPT 开始传播
-在 Gamma 上输入上一步生成的摘要信息，选择 Presentation 项生成一个 PPT，然后走到咖啡机前，等待一杯咖啡流进杯子里，再次返回电脑桌前，PPT 就已经完成了，举报变得空前的简单与高效。
-![Screenshot_2023-05-26_at_13.38.12](https://r2.blog-image.19960312.xyz/bbJMUjy.png)
-以下为生成的PPT样本，透过网页链接即可分享，比起小作文和 PDF 更加容易阅读和传播，形式美观大气，水平仅次于某些科技公司的新品发布会，仅需微调部分文字，即可投入使用，而这一切几乎是完全自动化实现的！
-![Screenshot_2023-05-26_at_13.44.55](https://r2.blog-image.19960312.xyz/notoFki.png)
-![Screenshot_2023-05-26_at_13.45.15](https://r2.blog-image.19960312.xyz/66UTboP.png)
-![Screenshot_2023-05-26_at_13.45.30](https://r2.blog-image.19960312.xyz/VZIfZu6.png)
-![Screenshot_2023-05-26_at_13.45.43](https://r2.blog-image.19960312.xyz/ywx60ga.png)
-![Screenshot_2023-05-26_at_13.45.58](https://r2.blog-image.19960312.xyz/goMaFZD.png)
-![Screenshot_2023-05-26_at_13.46.12](https://r2.blog-image.19960312.xyz/oOY8gBV.png)
+在 Gamma 上输入上一步生成的摘要信息，选择 Presentation 项生成一个 PPT，然后走到咖啡机前，等待一杯咖啡流进杯子里，再次返回电脑桌前，PPT 就已经完成了，举报变得空前的简单与高效。  
+![Screenshot_2023-05-26_at_13.38.12](https://r2.blog-image.19960312.xyz/bbJMUjy.png)  
+以下为生成的PPT样本，透过网页链接即可分享，比起小作文和 PDF 更加容易阅读和传播，形式美观大气，水平仅次于某些科技公司的新品发布会，仅需微调部分文字，即可投入使用，而这一切几乎是完全自动化实现的！  
+![Screenshot_2023-05-26_at_13.44.55](https://r2.blog-image.19960312.xyz/notoFki.png)  
+![Screenshot_2023-05-26_at_13.45.15](https://r2.blog-image.19960312.xyz/66UTboP.png)  
+![Screenshot_2023-05-26_at_13.45.30](https://r2.blog-image.19960312.xyz/VZIfZu6.png)  
+![Screenshot_2023-05-26_at_13.45.43](https://r2.blog-image.19960312.xyz/ywx60ga.png)  
+![Screenshot_2023-05-26_at_13.45.58](https://r2.blog-image.19960312.xyz/goMaFZD.png)  
+![Screenshot_2023-05-26_at_13.46.12](https://r2.blog-image.19960312.xyz/oOY8gBV.png)  
 ![Screenshot_2023-05-26_at_13.46.23](https://r2.blog-image.19960312.xyz/k4UUExG.png)
 
 ## 本文所用主要 AI 工具：
 
-> [!info] Gamma
-> A new medium for presenting ideas, powered by AI.
+> [!info] Gamma  
+> A new medium for presenting ideas, powered by AI.  
 > [https://gamma.app/signup?r=3wr1mk3cea2ycy3](https://gamma.app/signup?r=3wr1mk3cea2ycy3)
 
-> [!info] Introducing ChatGPT
-> We’ve trained a model called ChatGPT which interacts in a conversational way.
+> [!info] Introducing ChatGPT  
+> We’ve trained a model called ChatGPT which interacts in a conversational way.  
 > [https://openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
+
 # Refs：
 
-> [!info] 网友称被字节跳动前高管强奸！他曾涉嫌贪腐、打压下属……被开除
-> 网友称被字节跳动前高管强奸！他曾涉嫌贪腐、打压下属……被开除,强奸,性侵,贪腐,被开除,字节跳动,刑事拘留,足浴技师
+> [!info] 网友称被字节跳动前高管强奸！他曾涉嫌贪腐、打压下属……被开除  
+> 网友称被字节跳动前高管强奸！他曾涉嫌贪腐、打压下属……被开除,强奸,性侵,贪腐,被开除,字节跳动,刑事拘留,足浴技师  
 > [https://www.163.com/dy/article/I5GAIDFR0512DMHM.html](https://www.163.com/dy/article/I5GAIDFR0512DMHM.html)
 
-> [!info] 我的 AI — MAKE / MUSIC
-> 当我正在为自己凸出的肚子和孩子们的日常琐事烦心时，AI孙燕姿已正式“出道”，于是我决定来写一些对它的感想。 我的粉丝们都已跳槽，也同时接受我就是一名冷门歌手的事实，而我的AI角色也成为了目前所谓的顶流。毕竟该怎么跟一个每几分钟就能推出一张新专辑的“人”比呢？ 无论是ChatGPT、AI或叫什么名字都无所谓，这个“东西”能够通过处理海量的信息，同时以最连贯的方式拼接组合手头的任务，来模仿和/或创造出独特而复杂的内容。等一下，这不就是人类已经在做的吗？之前我们一直坚信，思想或观点的形成是机器无法复制的任务，这超出了它们的能力范围，但现在它却赫然耸现并将威胁到成千上万个由人类创造的工作，比如法律
+> [!info] 我的 AI — MAKE / MUSIC  
+> 当我正在为自己凸出的肚子和孩子们的日常琐事烦心时，AI孙燕姿已正式“出道”，于是我决定来写一些对它的感想。 我的粉丝们都已跳槽，也同时接受我就是一名冷门歌手的事实，而我的AI角色也成为了目前所谓的顶流。毕竟该怎么跟一个每几分钟就能推出一张新专辑的“人”比呢？ 无论是ChatGPT、AI或叫什么名字都无所谓，这个“东西”能够通过处理海量的信息，同时以最连贯的方式拼接组合手头的任务，来模仿和/或创造出独特而复杂的内容。等一下，这不就是人类已经在做的吗？之前我们一直坚信，思想或观点的形成是机器无法复制的任务，这超出了它们的能力范围，但现在它却赫然耸现并将威胁到成千上万个由人类创造的工作，比如法律  
 > [http://www.makemusic.sg/new-blog/wodeai](http://www.makemusic.sg/new-blog/wodeai)

@@ -5,20 +5,20 @@ title: All My Readings
 ---
 
 ## Books
-[[Books-2024]]  
-[[Books-2023]]
+[Books-2024](Books/Books-2024.md)  
+[Books-2023](Books/Books-2023.md)
 
 ## Movies
-[[Readings/Movies/Others]]
+[Others](Movies/Others.md)
 
 ## Musics
-[[Lizhi]]
+[Lizhi](Music/Lizhi.md)
 
 ## Papers
-[[Papers]]
+[Papers](Papers/Papers.md)
 
 ## Videos
-[[Videos]]
+[Videos](Videos/Videos.md)
 
 ## Articles
-[[Articles]]
+[Articles](Articles/Articles.md)
