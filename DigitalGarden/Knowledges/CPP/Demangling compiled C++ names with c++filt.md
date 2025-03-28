@@ -8,6 +8,7 @@ description: IBM Documentation.
 tags:
   - clippings
 ---
+
 The c++filt utility is a filter that copies characters from file names or standard input to standard output, replacing all mangled names with their corresponding demangled names. You can use the filter directly with file name arguments, and the filter outputs the demangled names of all mangled names in the files; or you can use a shell command that inputs text, such as specific mangled names, and pipe it to the filter, so that the filter provides the demangled names of the names you specified.
 
 ## c++filt command syntax![Read syntax diagram](https://www.ibm.com/docs/en/SSGH3R_16.1.0/c.gif)[![Skip visual syntax diagram](https://www.ibm.com/docs/en/SSGH3R_16.1.0/c.gif)](https://www.ibm.com/docs/en/xl-c-and-cpp-aix/?topic=names-demangling-compiled-c-cfilt#skip)

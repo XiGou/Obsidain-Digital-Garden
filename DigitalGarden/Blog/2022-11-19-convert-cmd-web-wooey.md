@@ -19,7 +19,7 @@ I have to think about what is best way to deliver software to end user, if you a
 
 ### Complicated Dependencies
 
-Some colleagues cannot even install it, because the user enviroment are different, and my tool depends on a Python3.7 and some Pypi packages, cause Python3.7 is not the default python version for most linux distributions, so the user need to install it by themselves, it is a hard task for user without a technical background.
+Some colleagues cannot even install it, because the user enviroment are different, and my tool depends on a Python3.7 and some Pypi packages, cause Python3.7 is not the default python version for most linux distributions, so the user need to install it by themselves, it is a hard task for user without a technical background.  
 This issue is easy to resolve, docker is a powerful weapon deal with the dependencies, I packaged my tool into a docker image with all the dependencies in, then I just need to told the user how to download the image and run it.
 
 ### Has No Graphical User Interface

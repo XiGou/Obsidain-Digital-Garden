@@ -13,13 +13,11 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 ---
 
-
 ## December 12, 2022
 
 浪人口中的抽象, 就是荒谬!
 
 ---
-
 
 ## December 10, 2022
 
@@ -29,7 +27,6 @@ Golden moment.
 
 ---
 
-
 ## December 9, 2022
 
 住在下水道一样的出租屋，也不要忘了仰望富岳，早安浪人。
@@ -37,7 +34,6 @@ Golden moment.
 ![PXL_20221208_201633478](https://r2.blog-image.19960312.xyz/tWUaO25.jpg)
 
 ---
-
 
 ## December 7, 2022
 
@@ -47,12 +43,11 @@ Golden moment.
 
 ---
 
-
 ## December 2, 2022
 
-![PXL_20221202_080455152-01](https://r2.blog-image.19960312.xyz/6O6Qzjm.jpg)
-![PXL_20221202_080438724-01](https://r2.blog-image.19960312.xyz/8yBMB4w.jpg)
-![PXL_20221202_080503262-01](https://r2.blog-image.19960312.xyz/ndLqTe5.jpg)
+![PXL_20221202_080455152-01](https://r2.blog-image.19960312.xyz/6O6Qzjm.jpg)  
+![PXL_20221202_080438724-01](https://r2.blog-image.19960312.xyz/8yBMB4w.jpg)  
+![PXL_20221202_080503262-01](https://r2.blog-image.19960312.xyz/ndLqTe5.jpg)  
 ![PXL_20221202_080515010-01](https://r2.blog-image.19960312.xyz/cYFgD9U.jpg)
 
 ---

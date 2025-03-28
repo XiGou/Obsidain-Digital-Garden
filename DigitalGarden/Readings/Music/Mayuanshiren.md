@@ -3,7 +3,7 @@ dg-publish: true
 date: 2023-02-05 00:22:33
 description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 title: 麻园诗人
----  
+---
 
 麻园诗人比较火的点居然是主唱唱歌爱破音，不过我认为是这种撕心裂肺的感觉，让人能够感觉到更加充沛的情感表达。
 

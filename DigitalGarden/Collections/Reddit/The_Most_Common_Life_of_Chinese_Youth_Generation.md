@@ -5,7 +5,6 @@ title: 在中国，最普通的少男少女们
 link: https://xigou.notion.site/The_Most_Common_Life_of_Chinese_Youth_Generation-beefec10f030417fab0d78de161bc3e9
 notionID: beefec10-f030-417f-ab0d-78de161bc3e9
 ---
- 
 
 转载 Reddit 冲浪文学创作
 

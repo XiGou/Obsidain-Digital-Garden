@@ -5,8 +5,8 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 ---
 
 ## November 28, 2022
-我要做实验动物！
-![IMG_20221128_223802_762](https://r2.blog-image.19960312.xyz/Hg6ITPz.jpg)
+我要做实验动物！  
+![IMG_20221128_223802_762](https://r2.blog-image.19960312.xyz/Hg6ITPz.jpg)  
 ![IMG_20221128_223802_849](https://r2.blog-image.19960312.xyz/OAOXSEd.jpg)
 
 ---
@@ -15,9 +15,9 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 刻舟求剑的人更愚蠢，还是为了防止他们找到剑而将记号抹去的人更愚蠢？
 
-![Filh800UoAAJQ19](https://r2.blog-image.19960312.xyz/0Bi7RAO.jpg)
-![IMG_20221128_090352_307](https://r2.blog-image.19960312.xyz/ISrujXh.jpg)
-![FilAnN6aUAEp2Et](https://r2.blog-image.19960312.xyz/kJSy9xe.jpg)
+![Filh800UoAAJQ19](https://r2.blog-image.19960312.xyz/0Bi7RAO.jpg)  
+![IMG_20221128_090352_307](https://r2.blog-image.19960312.xyz/ISrujXh.jpg)  
+![FilAnN6aUAEp2Et](https://r2.blog-image.19960312.xyz/kJSy9xe.jpg)  
 ![IMG_20221127_220927_252](https://r2.blog-image.19960312.xyz/nhIKq0b.jpg)
 
 ---
@@ -56,9 +56,9 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 马峦山
 
-![PXL_20221113_153621096](https://r2.blog-image.19960312.xyz/WHb1E44.jpg)
-![PXL_20221113_125316557](https://r2.blog-image.19960312.xyz/kyhwdcA.jpg)
-![PXL_20221113_131017542](https://r2.blog-image.19960312.xyz/tGcBn3T.jpg)
+![PXL_20221113_153621096](https://r2.blog-image.19960312.xyz/WHb1E44.jpg)  
+![PXL_20221113_125316557](https://r2.blog-image.19960312.xyz/kyhwdcA.jpg)  
+![PXL_20221113_131017542](https://r2.blog-image.19960312.xyz/tGcBn3T.jpg)  
 ![PXL_20221113_152754044](https://r2.blog-image.19960312.xyz/8QMP69e.jpg)
 
 ---
@@ -97,14 +97,14 @@ description: "苟熙 个人博客 gouxi xigou 程序员 Developer"
 
 ## November 1, 2022
 
-很难蚌住😅
+很难蚌住😅  
 ![北京健康宝纪念塔](#)
 
 ---
 
 ## November 1, 2022
 
-我认为最佳的提问方式是邮件而不是 IM, 因为当我用 IM 提问的时候, 会急着把自己的问题碎片一个个地贴出来希望对方能够赶紧帮我想办法.
+我认为最佳的提问方式是邮件而不是 IM, 因为当我用 IM 提问的时候, 会急着把自己的问题碎片一个个地贴出来希望对方能够赶紧帮我想办法.  
 但是写邮件就完全不同, 我会整理自己的思路, 慢慢地写出来, 等一封邮件完成, 我有时候能发现自己的思维的盲点, 有时候直接就想出一个解决的思路了, 邮件就直接进入垃圾箱里了.
 
 ---

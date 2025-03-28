@@ -4,7 +4,7 @@ dg-publish: true
 date: 2024-01-06 01:14:31 +0800
 ---
 
-> [!info] Github Repo
+> [!info] Github Repo  
 > [GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web)
 
 Webui can be found at `http://your-ip:8083`

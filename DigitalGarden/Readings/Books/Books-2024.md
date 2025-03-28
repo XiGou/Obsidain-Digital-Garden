@@ -15,13 +15,13 @@ title: "Books-2024"
 
 ## 「死亡赋格」-保罗·策兰
 
-[[Reading Death Fugue-Paul Celan|读「死亡赋格」-保罗·策兰]]
+[读「死亡赋格」-保罗·策兰](../../Blog/Reading%20Death%20Fugue-Paul%20Celan.md)
 
 ---
 
 ## 沙之书
 
-[[2024-03-17-Reading-The-Book-of-Sand-|读博尔赫斯《沙之书》]]
+[读博尔赫斯《沙之书》](../../Blog/2024-03-17-Reading-The-Book-of-Sand-.md)
 
 ---
 
@@ -47,7 +47,7 @@ title: "Books-2024"
 ***吉野源三郎***  
 
 是中学生读物，比较浅显，但是文字比较温情，可惜我这个年纪已经不能从里面学到什么新东西了  
-[[2024-04-04-What kind of life do you want to live|你想活出怎样的人生]]
+[你想活出怎样的人生](../../Blog/2024-04-04-What%20kind%20of%20life%20do%20you%20want%20to%20live.md)
 
 ---
 
