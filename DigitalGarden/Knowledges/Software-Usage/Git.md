@@ -24,8 +24,7 @@ git config --list
 
 Clone 一个私有仓库即可进入交互式登录命令行，然后输入用户名和 PTA 登录（非密码），git 就会记住 PTA，以后将不再需要登录。
 
-[[Git GPG Signature]]
-
+[[Git GPG Signature]]  
 [[Git Proxy Configuration]]
 ## Refs:
 [“Branch early, branch often”](https://medium.com/@huydotnet/branch-early-branch-often-daadaad9468eE)  

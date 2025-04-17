@@ -17,3 +17,9 @@ title: "HongKong"
 [香港麦理浩径第1-2段 | MacLehose Trail Sections 1-2 in Hong Kong - YouTube](https://www.youtube.com/watch?v=h1xJNrYjloM&t=2s)
 
 [香港尖沙咀地道街头演出: 座右铭-吴雨霏 @m\_iffy.c #HK - YouTube](https://www.youtube.com/watch?v=5-k64f8mbKE)
+
+[香港凤凰径重装徒步 Day1 - YouTube](https://www.youtube.com/watch?v=LVkg4AgzCkk)
+
+[香港凤凰径重装徒步 Day2 - YouTube](https://www.youtube.com/watch?v=LoY-nqB5DiU)
+
+[香港凤凰径重装徒步 Day3 - YouTube](https://www.youtube.com/watch?v=DfXbHu-e78o)
