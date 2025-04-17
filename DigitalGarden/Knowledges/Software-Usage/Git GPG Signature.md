@@ -215,4 +215,3 @@ signing failed: Inappropriate ioctl for device gpg: [stdin]: clear-sign failed: 
 - **安装 GPG** → **生成密钥** → **配置 Git** → **上传公钥到 GitHub** → **测试签名**。
 - 配置完成后，所有签名提交都会在 GitHub 上显示为 “Verified”。
 
-如果你在某个步骤遇到问题，告诉我具体错误，我可以帮你调试！
