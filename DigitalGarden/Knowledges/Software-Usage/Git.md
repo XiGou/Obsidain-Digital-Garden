@@ -24,6 +24,15 @@ git config --list
 
 Clone 一个私有仓库即可进入交互式登录命令行，然后输入用户名和 PTA 登录（非密码），git 就会记住 PTA，以后将不再需要登录。
 
+## 基本操作
+
+拉取 Github PR：
+
+```bash
+# 获取特定 PR 分支 (假设 PR 编号是 123，本地分支为 pr123)
+git fetch origin pull/123/head:pr123
+```
+
 [[Git GPG Signature]]  
 [[Git Proxy Configuration]]
 ## Refs:
