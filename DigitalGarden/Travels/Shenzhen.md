@@ -50,7 +50,7 @@ title: "Shenzhen"
 ## 街头演出
 [深圳街头演出 Shenzhen Street Music Liveshow - YouTube](https://youtu.be/66EGhUF11LA)  
 [深圳南头古城人行天桥街头演出:再见-邓紫棋 - YouTube](https://www.youtube.com/watch?v=SXJpI8nhU4w)
-
+[深圳南山文体中心街头演出: 恋曲1980 - YouTube](https://www.youtube.com/watch?v=6fLtxv6HfJA)
 ## 宝安
 
 [2023年终vlog. by Nokia 6300 4G - YouTube](https://www.youtube.com/watch?v=YP6OpZ8YCAE&t) 深圳欢乐港湾
