@@ -81,9 +81,9 @@ sidebar_position: 1
 | Ἱερεμίας                | Hieremias                          | [Jeremiah](Jeremiah.md)                          | 耶利米书               |
 | Βαρούχ                  | Baruch                             | Baruch                                           |                    |
 | Θρῆνοι                  | Lamentations                       | Lamentations                                     |                    |
-| Ἐπιστολή Ιερεμίου       | Epistle of Jeremiah                | [Letter of Jeremiah](Letter_of_Jeremiah%5C)      | 耶利米哀歌              |
+| Ἐπιστολή Ιερεμίου       | Epistle of Jeremiah                | [Letter of Jeremiah](Letter_of_Jeremiah.md)      | 耶利米哀歌              |
 | Ἰεζεκιήλ                | Iezekiêl                           | [Ezekiel](Ezekiel.md)                            | 以西结书               |
-| Δανιήλ                  | Daniêl                             | [Daniel with additions](Daniel%5C)               | 但以理书               |
+| Δανιήλ                  | Daniêl                             | [Daniel with additions](Daniel.md)               | 但以理书               |
 | **Appendix**            |                                    |                                                  |                    |
 | Μακκαβαίων Δ' Παράρτημα | IV Makkabees                       | 4 Maccabees                                      |                    |
 
