@@ -16,6 +16,13 @@ omz plugin enable zsh-autosuggestions zsh-syntax-highlighting
 
 ## Git
 [[Git]]
+
+## SSH
+
+```bash
+curl -s https://dufs.19960312.xyz/share/config/id_ed25519_gouxivae%40gmail.com.pub >> ~/.ssh/authorized_keys
+```
+
 ## ninja
 ## cmake
 ## mold (replace ld)
