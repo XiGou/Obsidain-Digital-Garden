@@ -6,12 +6,14 @@ aliases: HomePage
 title: HomePage
 ---
 
+> （由于有些 Bug，内部跳转有点问题，暂时建议使用主站 https://xigou.github.io）
+
 Hi, I am Jorge , a Software Developer now.  
 Welcome to My Digital Garden.  
 
 数字花园是一种新的个人网站形式, 网页的页面之间通过互相引用联系在一起，形成一个图（Graph）状结构。
 
-由于失去了传统个人网站的树形结构，初次使用可能让人迷失方向。
+由于失去了传统个人网站的树形结构，初次使用可能让人迷失方向。  
 
 如果不知道将要去哪里，可以：  
 - 参考 [#Sitemap](#Sitemap)
