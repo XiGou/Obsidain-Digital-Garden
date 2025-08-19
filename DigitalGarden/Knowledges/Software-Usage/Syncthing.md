@@ -39,11 +39,66 @@ Syncthing 社区 Relay 服务器池位置： [https://relays.syncthing.net/](htt
 
 [https://github.com/syncthing/discosrv/releases](https://github.com/syncthing/discosrv/releases) 找到 windows 版本，下载解压后打开 cmd 运行：`stdiscosrv.exe -debug` 启动 stdiscosrv 服务，默认端口 8443 可以通过 `-listen ":8443"` 指定监听端口，其他参数参看 `-help`。程序启动后，记下生成的 `Server device ID`，后面添加发现服务时会用到。同时，在程序文件夹下自动生成同步发现服务器数据库 `discovery.db` 和服务器证书 `cert. pem、key.pem` 证书不变，重装后 `Server device ID` 不变。
 
+```bash 
+# /etc/systemd/system/strelaysrv.service
+[Unit]
+Description=Syncthing Discovery Server
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/stdiscosrv  --cert /etc/syncthing/cert.pem --key /etc/syncthing/key.pem
+Restart=on-failure
+User=syncthing
+Group=syncthing
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+LimitNOFILE=65536
+WorkingDirectory=/var/lib/syncthing
+
+[Install]
+WantedBy=multi-user.target
+
+```
+
 ### 1.2. 中继服务
 
 [https://github.com/syncthing/relaysrv](https://github.com/syncthing/relaysrv) 找到 windows 版本，下载解压后打开 cmd 运行：`strelaysrv.exe -debug -pools="" -protocol=tcp4` 启动 strelaysrv 服务，默认端口 22067（连接端口）、22070（服务器状态端口），可以通过 `-listen ":22067"` 指定连接端口，`-pools=""` 不公开此服务器（默认会加入 Syncthing 官方 Relay 服务器池中共享中继服务器，会消耗大量流量，建议有流量上限的服务器不公开），`-protocol=tcp4` 只启用 TPv4 协议，其他参数参看 `-help`。程序启动后，记下生成的 `URI`，后面添加中继服务时会用到，同时，在程序文件夹下自动生成服务器证书。
 
 **注意：服务器防火墙放行端口8443，22067。**
+
+```bash 
+#  /etc/systemd/system/discosrv.service
+[Unit]
+Description=Syncthing Relay Server
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/strelaysrv -pools="" -provided-by="Your Organization"
+Restart=on-failure
+User=syncthing
+Group=syncthing
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+LimitNOFILE=65536
+WorkingDirectory=/var/lib/syncthing
+
+[Install]
+WantedBy=multi-user.target
+
+```
+
+```bash
+sudo mkdir -p /etc/syncthing
+sudo mkdir -p /var/lib/syncthing
+sudo chown syncthing:syncthing  /etc/syncthing
+sudo chmod 700 /etc/syncthing
+sudo chown syncthing:syncthing /var/lib/syncthing
+
+openssl req -x509 -newkey rsa:2048 -sha256 -nodes \
+  -keyout /etc/syncthing/key.pem \
+  -out /etc/syncthing/cert.pem \
+  -days 3650 \
+  -subj "/CN=stdiscosrv"
+
+```
 
 ## 2\. Linux 使用 Docker 方式部署发现和中继服务
 
@@ -60,3 +115,12 @@ Syncthing 社区 Relay 服务器池位置： [https://relays.syncthing.net/](htt
 ![](https://image.vlinyu.com/i/2023/04/01/syncthingdr01.png)
 
 如果希望保留 Syncthing 官方发现服务器和社区中继服务器，可以在地址前加上 `default,` 如：
+
+```
+# 协议监听地址，中继服务URI
+relay://公网IP:22067?id=中继服务器device ID
+
+# 全局发现服务器
+https://公网IP:8443/?id=发现服务器device ID
+
+```
