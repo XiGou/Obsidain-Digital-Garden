@@ -1,11 +1,11 @@
 ---
 title: 姜文新片《你行你上》
-authors:
-  - xigou
 tags:
   - writing
-  - "Movie"
+  - Movie
 date: 2025-07-19 00:14:31 +0800
+author:
+  - xigou
 ---
 
 故事的底色依然是一个好看的，有故事性的喜剧，是以钢琴家朗朗作为故事原型创作。
