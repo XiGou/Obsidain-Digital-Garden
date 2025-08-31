@@ -42,13 +42,13 @@ This is a useful `iscsiadm` command cheat-sheet：
 
 **Other Usual Commands  **
 
-| 命令                                  | 描述                          |
-| ------------------------------------- |:----------------------------- |
-| `iscsiadm -m iface`                   | 显示当前的网络接口信息        |
-| `iscsiadm -m fw`                      | 显示 iSCSI 适配器固件信息     |
-| `iscsiadm -m fw --op=update`          | 更新 iSCSI 适配器固件         |
+| 命令                                    | 描述                    |
+| ------------------------------------- | :-------------------- |
+| `iscsiadm -m iface`                   | 显示当前的网络接口信息           |
+| `iscsiadm -m fw`                      | 显示 iSCSI 适配器固件信息      |
+| `iscsiadm -m fw --op=update`          | 更新 iSCSI 适配器固件        |
 | `iscsiadm -m sessionstats`            | 显示 iSCSI 会话统计信息       |
-| `iscsiadm -m statistics`              | 显示 iSCSI 统计信息           |
+| `iscsiadm -m statistics`              | 显示 iSCSI 统计信息         |
 | `iscsiadm -m node -p <IP> -l`         | 使用 CHAP 认证登录 iSCSI 目标 |
-| `iscsiadm -m node -p <IP> -I <iface>` | 指定网络接口登录 iSCSI 目标   |
-| `iscsiadm -m session -P 3  `          | 每个lun的本地路径             |
+| `iscsiadm -m node -p <IP> -I <iface>` | 指定网络接口登录 iSCSI 目标     |
+| `iscsiadm -m session -P 3  `          | 每个lun的本地路径            |
