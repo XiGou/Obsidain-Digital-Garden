@@ -16,11 +16,11 @@ This is a useful `iscsiadm` command cheat-sheet：
 
 **（Login/Logout）**
 
-| 命令                                             | 描述                   |
-| ---------------------------------------------- | -------------------- |
-| `iscsiadm -m node -T <target_name> -p <IP>`    | 登录指定 IP 地址的 iSCSI 目标 |
-| `iscsiadm -m node -T <target_name> -p <IP> -u` | 登出指定 IP 地址的 iSCSI 目标 |
-| `iscsiadm -m node --logoutall=all`             | 登出所有已登录的 iSCSI 目标    |
+| 命令                                                  | 描述                   |
+| --------------------------------------------------- | -------------------- |
+| `iscsiadm -m node -T <target_name> -p <IP> --login` | 登录指定 IP 地址的 iSCSI 目标 |
+| `iscsiadm -m node -T <target_name> -p <IP> -u`      | 登出指定 IP 地址的 iSCSI 目标 |
+| `iscsiadm -m node --logoutall=all`                  | 登出所有已登录的 iSCSI 目标    |
 
 **Session Managemen**
 
