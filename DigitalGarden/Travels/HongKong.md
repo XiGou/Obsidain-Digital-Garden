@@ -23,3 +23,5 @@ title: "HongKong"
 [香港凤凰径重装徒步 Day2 - YouTube](https://www.youtube.com/watch?v=LoY-nqB5DiU)
 
 [香港凤凰径重装徒步 Day3 - YouTube](https://www.youtube.com/watch?v=DfXbHu-e78o)
+
+[2025万圣节香港兰桂坊Amazing Night! #Halloween #Hongkong - YouTube](https://www.youtube.com/shorts/tmV-v7_MoFQ)

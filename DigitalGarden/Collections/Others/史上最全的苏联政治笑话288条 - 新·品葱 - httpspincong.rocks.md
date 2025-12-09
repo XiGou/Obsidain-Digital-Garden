@@ -1,12 +1,12 @@
 ---
-title: "史上最全的苏联政治笑话288条 - 新·品葱 - https://pincong.rocks/"
-source: "https://pincong.rocks/article/1644"
+title: 史上最全的苏联政治笑话288条
+source: https://pincong.rocks/article/1644
 author:
 published:
 created: 2024-12-30
-description: "史上最全的苏联政治笑话288条 - [url=https://webcache.googleusercontent.com/search?q=cache:YeV5kVjgLjQJ:https://www.douban.com/note/642883748/+&cd=3&hl=..."
+description: 史上最全的苏联政治笑话288条 - [url=https://webcache.googleusercontent.com/search?q=cache:YeV5kVjgLjQJ:https://www.douban.com/note/642883748/+&cd=3&hl=...
 tags:
-  - "clippings"
+  - clippings
 ---
 
 https://webcache.googleusercontent.com/search?q=cache:YeV5kVjgLjQJ:https://www.douban.com/note/642883748/+&cd=3&hl=zh-CN&ct=clnk
