@@ -25,10 +25,9 @@ title: "Shenzhen"
 
 [Album](2023-08-28-albums-trip-to-shenzhen-dayawan-nuclear-power-station)
 
-## 深圳杨梅坑-大雁顶
+## 大鹏
 [深圳杨梅坑-大雁顶徒步旅行 - YouTube](https://www.youtube.com/watch?v=089xjpUPj28)
-
-## 穿越东西冲
+[深圳望郎归徒步穿越 - YouTube](https://www.youtube.com/watch?v=csh1WVoKaWs)
 [穿越东西冲: 深圳最美海岸线 - YouTube](https://www.youtube.com/watch?v=AumP3VrirEA&t=1s)
 
 ## Clubs
