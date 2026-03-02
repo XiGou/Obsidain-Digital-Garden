@@ -2,7 +2,7 @@ name: Sync Files from Server
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # At 00:00 on day-of-month 1.
+    - cron: '0 0 * * *'  # At 00:00 every day.
   workflow_dispatch: # 允许手动触发 workflow
 
 jobs:
