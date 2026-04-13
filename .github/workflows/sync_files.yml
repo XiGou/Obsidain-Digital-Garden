@@ -30,8 +30,9 @@ jobs:
           # 下载 zip 文件
           curl -L -o "$ZIP_FILE" "$ZIP_URL"
           
-          # 解压到本地目录
-          unzip -q "$ZIP_FILE" -d "$LOCAL_DESTINATION_PATH"
+          # 确保目标目录存在并解压覆盖文件
+          mkdir -p "$LOCAL_DESTINATION_PATH"
+          unzip -o -q "$ZIP_FILE" -d "$LOCAL_DESTINATION_PATH"
           
           # 清理 zip 文件
           rm "$ZIP_FILE"
