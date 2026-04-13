@@ -12,29 +12,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install rsync and ssh
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y rsync openssh-client
-
-      - name: Set up SSH key
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 400 ~/.ssh/id_rsa
-          ssh-keyscan ${{ secrets.REMOTE_SERVER_IP_OR_HOST }} >> ~/.ssh/known_hosts
-          chmod 644 ~/.ssh/known_hosts
-
       - name: Sync files from remote server
         env:
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          REMOTE_SERVER_IP_OR_HOST: ${{ secrets.REMOTE_SERVER_IP_OR_HOST }}
-          REMOTE_SOURCE_PATH: ${{ secrets.REMOTE_SOURCE_PATH }}
+          REMOTE_URL: ${{ secrets.REMOTE_URL }}
           LOCAL_DESTINATION_PATH: . # 同步到当前 repo 根目录，可以修改
         run: |
-          rsync -avz --no-perms --delete -e "ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa" \
-            "$REMOTE_USER@$REMOTE_SERVER_IP_OR_HOST:$REMOTE_SOURCE_PATH" \
-            "$LOCAL_DESTINATION_PATH"
+          # Download directory as zip from DUFS HTTP server
+          # DUFS 支持 ?zip 参数将整个目录打包为 zip 文件下载
+          # REMOTE_URL 例如: https://dufs-cf.19960312.xyz/obsidian_dg
+          # 不需要添加 ?zip，脚本会自动添加
+          
+          ZIP_URL="${REMOTE_URL}?zip"
+          ZIP_FILE="remote_files.zip"
+          
+          # 下载 zip 文件
+          curl -L -o "$ZIP_FILE" "$ZIP_URL"
+          
+          # 解压到本地目录
+          unzip -q "$ZIP_FILE" -d "$LOCAL_DESTINATION_PATH"
+          
+          # 清理 zip 文件
+          rm "$ZIP_FILE"
 
       - name: Check for changes
         id: check_changes
@@ -53,7 +51,7 @@ jobs:
       - name: Commit changes
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          git commit -m "auto sync from ${{ secrets.REMOTE_SERVER_IP_OR_HOST }}:${{ secrets.REMOTE_SOURCE_PATH }}"
+          git commit -m "chore: auto sync from remote server"
 
       - name: Create Pull Request
         if: steps.check_changes.outputs.has_changes == 'true'
