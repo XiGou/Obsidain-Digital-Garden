@@ -8,14 +8,16 @@ on:
 jobs:
   sync_and_pr:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Sync files from remote server
         env:
           REMOTE_URL: ${{ secrets.REMOTE_URL }}
-          LOCAL_DESTINATION_PATH: . # 同步到当前 repo 根目录，可以修改
+          LOCAL_DESTINATION_PATH: ./DigitalGarden # 同步到当前 repo 目录，可以修改
         run: |
           # Download directory as zip from DUFS HTTP server
           # DUFS 支持 ?zip 参数将整个目录打包为 zip 文件下载
@@ -55,7 +57,7 @@ jobs:
 
       - name: Create Pull Request
         if: steps.check_changes.outputs.has_changes == 'true'
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets._PERSONAL_ACCESS_TOKEN }}
           branch: auto-pr # PR 的目标分支，可以修改
