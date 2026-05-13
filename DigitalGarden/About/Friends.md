@@ -12,3 +12,4 @@ date: 2022-11-05 00:22:33
 | [YIRAN'S BLOG](https://zdyxry.github.io/)                 | 每周记录                                 |
 | [fanyang](https://fuis.top/)                              | 存储，分布式，AI，运维                         |
 | [beihai blog](https://wingsxdu.com)                       | @beihai0xff 前同事， 后端软件开发，系统软件开发，重构工程师 |
+| [DrPika's Blog](https://blog.drpika.com/)           | 一个医生的博客                              |
