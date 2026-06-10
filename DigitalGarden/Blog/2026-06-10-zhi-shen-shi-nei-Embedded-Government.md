@@ -1,6 +1,6 @@
 ---
 title: 置身事内：分税制塑造的赛里斯产业奇迹
-description:
+description: 兰小欢《置身事内》读书笔记
 date: 2026-06-10
 tags:
   - Reading
