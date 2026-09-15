@@ -108,3 +108,39 @@ Health checks
 ```shell
 curl http://127.0.0.1:5000/__dufs__/health
 ```
+
+
+---
+
+## systemd 配置
+
+```bash
+cat << 'EOF' | sudo tee /etc/systemd/system/dufs.service
+[Unit]
+Description=dufs multi-directory file server
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/dufs /data \
+  -A \
+  --port 5000 \
+  --auth "xxxx:xxxx@/:rw" \
+  --auth "@/"
+  --hidden .git
+
+Restart=on-failure
+User=www-data
+Group=www-data
+WorkingDirectory=/data
+
+[Install]
+WantedBy=multi-user.target
+EOF
+
+
+systemctl daemon-reload                                                                                                               
+systemctl start dufs                                                                                                                  
+systemctl status dufs 
+
+```
