@@ -26,16 +26,34 @@ jobs:
           
           ZIP_URL="${REMOTE_URL}?zip"
           ZIP_FILE="remote_files.zip"
+          TMP_DIR=$(mktemp -d)
           
-          # 下载 zip 文件
-          curl -L -o "$ZIP_FILE" "$ZIP_URL"
+          # 确保 rsync 工具存在
+          if ! command -v rsync &> /dev/null; then
+            sudo apt-get update && sudo apt-get install -y rsync
+          fi
           
-          # 确保目标目录存在并解压覆盖文件
+          # 下载 zip 文件（-f 遇 HTTP 错误退出，-sS 静默但保留错误输出，-L 跟随重定向）
+          curl -fsSL -o "$ZIP_FILE" "$ZIP_URL"
+          
+          # 解压到临时目录
+          unzip -q "$ZIP_FILE" -d "$TMP_DIR"
+          
+          # 防御性检查：解压后的目录不能为空，防止服务端异常返回空包导致误清空本地仓库
+          if [ -z "$(ls -A "$TMP_DIR")" ]; then
+            echo "Error: Extracted directory is empty. Aborting sync."
+            rm -rf "$TMP_DIR" "$ZIP_FILE"
+            exit 1
+          fi
+          
+          # 确保目标目录存在
           mkdir -p "$LOCAL_DESTINATION_PATH"
-          unzip -o -q "$ZIP_FILE" -d "$LOCAL_DESTINATION_PATH"
           
-          # 清理 zip 文件
-          rm "$ZIP_FILE"
+          # 使用 rsync 同步，--delete 同步删除远端已删除的文件
+          rsync -av --delete --exclude='.git*' --exclude='.obsidian' "$TMP_DIR/" "$LOCAL_DESTINATION_PATH/"
+          
+          # 清理临时文件与目录
+          rm -rf "$TMP_DIR" "$ZIP_FILE"
 
       - name: Check for changes
         id: check_changes
@@ -43,12 +61,14 @@ jobs:
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git config --global user.name "${{ github.actor }}"
           git config core.fileMode false
-          git add .
+          git add -A
           git status --porcelain
           if [ -z "$(git status --porcelain)" ]; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
             echo "::set-output name=has_changes::false"
             echo "No changes detected."
           else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
             echo "::set-output name=has_changes::true"
           fi
 
